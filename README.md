@@ -1,7 +1,8 @@
 # dsproject-2023
 
 Part 1 : 
-Data Collection (Mayank + Samir)
+Data Coll[DS_project - for merge.docx](https://github.com/ManilBen/dsproject-2023/files/11227267/DS_project.-.for.merge.docx)
+ection (Mayank + Samir)
 Samir & Mayank : scrape data from wikipedia (4 days - 13 / 04)
 External website scraping ( till 15/04 ) (if time permits)
 Data Analysis (Manil):
