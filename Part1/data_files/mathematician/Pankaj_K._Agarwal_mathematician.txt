@@ -1,0 +1,21 @@
+Pankaj Kumar Agarwal is an Indian computer scientist and mathematician researching algorithms in computational geometry and related areas. He is the RJR Nabisco Professor of Computer Science and Mathematics at Duke University, where he has been chair of the computer science department since 2004. He obtained his Doctor of Philosophy (Ph.D.) in computer science in 1989 from the Courant Institute of Mathematical Sciences, New York University, under the supervision of Micha Sharir.
+
+
+== Books ==
+Agarwal is the author or co-author of:
+
+Intersection and Decomposition Algorithms for Planar Arrangements (Cambridge University Press, 1991, ISBN 978-0-521-40446-4). The topics of this book are algorithms for, and the combinatorial geometry of, arrangements of lines and arrangements of more general types of curves in the Euclidean plane and the real projective plane. The topics covered in this monograph include Davenport–Schinzel sequences and their application to the complexity of single cells in arrangements, levels in arrangements, algorithms for building arrangements in part or in whole, and ray shooting in arrangements.
+Davenport–Schinzel Sequences and Their Geometric Applications (with Micha Sharir, Cambridge University Press, 1995, ISBN 978-0-521-47025-4). This book concerns Davenport–Schinzel sequences, sequences of symbols drawn from a given alphabet with the property that no subsequence of more than some finite length consists of two alternating symbols. As the book discusses, these sequences and combinatorial bounds on their length have many applications in combinatorial and computational geometry, including bounds on lower envelopes of sets of functions, single cells in arrangements, shortest paths, and dynamically-changing geometric structures.
+Combinatorial Geometry (with János Pach, Wiley, 1995, ISBN 978-0-471-58890-0). This book, less specialized than the prior two, is split into two sections. The first, on packing and covering problems, includes topics such as Minkowski's theorem, sphere packing, the representation of planar graphs by tangent circles, the planar separator theorem. The second section, although mainly concerning arrangements, also includes topics from extremal graph theory, Vapnik–Chervonenkis dimension, and discrepancy theory.
+
+
+== Awards and honors ==
+Agarwal was elected as a fellow of the Association for Computing Machinery in 2002. He is also former Duke Bass Fellow and an Alfred P. Sloan Fellow. He was the recipient of a National Young Investigator Award in 1993. Before holding the RJR Nabisco Professorship, he was the Earl D. Mclean Jr. Professor of Computer Science at Duke.
+
+
+== References ==
+
+
+== External links ==
+Official website, Duke University
+Department page at Duke University

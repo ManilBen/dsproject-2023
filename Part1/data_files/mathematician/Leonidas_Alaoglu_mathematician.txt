@@ -1,0 +1,36 @@
+Leonidas (Leon) Alaoglu (Greek: Λεωνίδας Αλάογλου; March 19, 1914 – August 1981) was a mathematician, known for his result, called Alaoglu's theorem on the weak-star compactness of the closed unit ball in the dual of a normed space, also known as the Banach–Alaoglu theorem.
+
+
+== Life and work ==
+Alaoglu was born in Red Deer, Alberta to Greek parents. He received his BS in 1936, Master's in 1937, and PhD in 1938 (at the age of 24), all from the University of Chicago. His thesis, written under the direction of Lawrence M. Graves was entitled Weak topologies of normed linear spaces. His doctoral thesis is the source of Alaoglu's theorem. The Bourbaki–Alaoglu theorem is a generalization of this result by Bourbaki to dual topologies.
+After some years teaching at Pennsylvania State College, Harvard University and Purdue University, in 1944 he became an operations analyst for the United States Air Force.  In his last position, from 1953 to 1981 he worked as a senior scientist in operations research at the Lockheed Corporation in Burbank, California. In this latter period he wrote numerous research reports, some of them classified.
+During the Lockheed years he took an active part in seminars and other mathematical activities at Caltech, UCLA and USC. After his death in 1981 a Leonidas Alaoglu Memorial Lecture Series was established at Caltech. Speakers have included Paul Erdős, Irving Kaplansky, Paul Halmos and Hugh Woodin.
+
+
+== See also ==
+Axiom of Choice – The Banach–Alaoglu theorem is not provable from ZF without use of the Axiom of Choice.
+Banach–Alaoglu theorem
+Gelfand representation
+List of functional analysis topics
+Superabundant number – Article explains the 1944 results of Alaoglu and Erdős on this topic
+Tychonoff's theorem
+Weak topology – Leads to the weak-star topology to which the Banach–Alaoglu theorem applies.
+
+
+== Publications ==
+Alaoglu, Leonidas (M.S. thesis, U. of Chicago, 1937). "The asymptotic Waring problem for fifth and sixth powers" (24 pages). Advisor: Leonard Eugene Dickson
+Alaoglu, Leonidas (Ph.D. thesis, U. of Chicago, 1938). "Weak topologies of normed linear spaces"  Advisor: Lawrence Graves
+Alaoglu, Leonidas (1940). "Weak topologies of normed linear spaces". Annals of Mathematics. 41 (2): 252–267. doi:10.2307/1968829. JSTOR 1968829. MR 0001455.
+Alaoglu, Leonidas; J. H. Giese (1946). "Uniform isohedral tori". American Mathematical Monthly. 53 (1): 14–17. doi:10.2307/2306079. JSTOR 2306079. MR 0014230.
+Alaoglu, Leonidas; Paul Erdős (1944). "On highly composite and similar numbers" (PDF). Transactions of the American Mathematical Society. 56 (3): 448–469. doi:10.2307/1990319. JSTOR 1990319. MR 0011087.
+Alaoglu, Leonidas; Paul Erdős (1944). "A conjecture in elementary number theory". Bulletin of the American Mathematical Society. 50 (12): 881–882. doi:10.1090/S0002-9904-1944-08257-8. MR 0011086.
+Alaoglu, Leonidas; Garrett Birkhoff (1940). "General ergodic theorems". Annals of Mathematics. 41 (2): 252–267. doi:10.2307/1969004. JSTOR 1969004. MR 0002026. PMC 1077986. PMID 16588311.
+
+
+== References ==
+
+Mac Lane, Saunders (December 1996). "Letter to the editor" (PDF). Notices of the American Mathematical Society: 1469–1471.
+
+
+== External links ==
+Leonidas Alaoglu at the Mathematics Genealogy Project

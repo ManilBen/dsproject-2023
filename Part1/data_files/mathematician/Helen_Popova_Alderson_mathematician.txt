@@ -1,0 +1,28 @@
+Helen Popova Alderson (1924–1972) was a Russian and British mathematician and mathematics translator known for her research on quasigroups and on higher reciprocity laws.
+
+
+== Life ==
+Alderson was born on 14 May 1924 in Baku, to a Russian family of two academics from Moscow. Her father, a neurophysiologist, had been a student of Ivan Pavlov. She began studying mathematics at Moscow University in 1937, when she was only 13. She had to break off her studies because of World War II, moving to Paris as a refugee with her family.After the war, she returned to study at the University of Edinburgh. She completed a Ph.D. there in 1951; her dissertation was Logarithmetics of Non-Associative Algebras.After leaving mathematical research to raise two children in Cambridge, she was funded by the Calouste Gulbenkian Foundation with a Fellowship at Lucy Cavendish College, Cambridge, beginning in the late 1960s. At Cambridge, she worked with J. W. S. Cassels.She died on 5 November 1972, from complications of kidney disease.
+
+
+== Research ==
+In the theory of higher reciprocity laws, Alderson published necessary and sufficient conditions for 2 and 3 to be seventh powers, in modular arithmetic modulo a given prime number 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  .[7X]According to Smith (1976), "plain quasigroups were first studied by Helen Popova-Alderson, in a series of papers dating back to the early fifties".
+Smith cites in particular a posthumous paper (Alderson 1974)[FPQ] and its references. In this context, a quasigroup is a mathematical structure consisting of a set of elements and a binary operation that does not necessarily obey the associative law, but where (like a group) this operation can be inverted. Being plain involves having only a finite number of elements and no non-trivial subalgebras.
+
+
+== Translation ==
+As well as Russian, English, and French, Alderson spoke Polish, Czech, and some German. She became the English translator of Elementary Number Theory, a textbook originally published in Russian in 1937 by B. A. Venkov. Her translation was published by Wolters-Noordhoff of Groningen in 1970. As well as the original text, it includes footnotes by Alderson updating the material with new developments in number theory.[ENT]
+
+
+== Selected publications ==
+
+
+== References ==

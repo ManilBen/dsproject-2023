@@ -1,0 +1,10 @@
+Kari Astala (born 26 July 1953 in Helsinki) is a Finnish mathematician, specializing in analysis.
+Astala graduated from the University of Helsinki with M.Sc. in 1977 and received his doctorate there in 1980 with thesis On Measures of compactness and ideal variations in Banach spaces. In the 1980s and 1990s he held academic appointments at the University of Helsinki and the Academy of Finland. He was a full professor at the University of Jyväskylä from 1995 to 2002, a full professor at the University of Helsinki from 2002 to 2017, and an Academy Professor from 2006 to 2011 at the Academy of Finland. Since 2017 he is an adjunct professor at Aalto University.In 1994 he received the Salem Prize for solving the conjecture of Frederick Gehring and Edgar Reich (1927–2009) in the theory of quasiconformal mappings, applying the theory of dynamical systems. In 2003 he was involved in the solution of Alberto Calderón's inverse problem, which has application in electrical impedance tomography. He collaborated on several papers with Frederick Gehring.In 2000 Astala was Gehring Visiting Professor at the University of Michigan. He has been on research visits at MSRI, the Mittag-Leffler Institute, the Institute for Advanced Study, and a number of other institutions.He was an Invited Speaker with talk Analytical aspects of quasiconformality at the International Congress of Mathematicians in Berlin in 1998 and at the European Congress of Mathematicians in 1996 in Budapest and in 2012 in Kraków. In 2003 he was awarded the Magnus Ehrnrooth Foundation Prize and in 2011 the Finnish Cultural Foundation Prize. From 2002 to 2006 he was President of the Finnish Mathematical Society. In 1997 he became a member of the Finnish Academy of Science and Letters.
+
+
+== Selected publications ==
+Astala, Kari; Iwaniec, Tadeusz; Martin, Gaven (29 December 2008). Elliptic Partial Differential Equations and Quasiconformal Mappings in the Plane (PMS-48). Princeton University Press. ISBN 978-1-4008-3011-4.
+Astala, K.; Kupiainen, A.; Saksman, E.; Jones, P. (2011). "Random conformal weldings". Acta Mathematica. 207 (2): 203–254. doi:10.1007/s11511-012-0069-3.
+
+
+== References ==

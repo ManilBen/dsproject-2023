@@ -1,0 +1,15 @@
+Ben Andrews is an Australian mathematician at the Australian National University. He is known for contributions to geometric analysis, with a majority of his work being in the field of extrinsic geometric flows. He received his Ph.D. from Australian National University in 1993, under the supervision of Gerhard Huisken. As of 2020, he has had nine Ph.D. students.
+
+
+== Recognition ==
+In 2002, he was an invited speaker at the International Congress of Mathematicians. In 2003, he received the Australian Mathematical Society Medal, along with Andrew Hassell, for distinguished research in the mathematical sciences. In 2012 he became a fellow of the American Mathematical Society.
+
+
+== Publications ==
+Textbooks
+
+Andrews, Ben; Hopper, Christopher (2011). The Ricci flow in Riemannian geometry. A complete proof of the differentiable 1/4-pinching sphere theorem. Lecture Notes in Mathematics. Vol. 2011. Heidelberg: Springer. doi:10.1007/978-3-642-16286-2. ISBN 978-3-642-16285-5. MR 2760593. Zbl 1214.53002.
+Andrews, Ben; Chow, Bennett; Guenther, Christine; Langford, Mat (2020). Extrinsic Geometric Flows. Graduate Studies in Mathematics. Vol. 206. Providence, RI: American Mathematical Society. doi:10.1090/gsm/206. ISBN 978-1-4704-5596-5. MR 4249616. Zbl 1475.53002.Notable articles
+
+
+== References ==

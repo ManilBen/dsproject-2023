@@ -1,0 +1,29 @@
+Giulio Ascoli (20 January 1843, Trieste – 12 July 1896, Milan) was a Jewish-Italian mathematician. He was a student of the Scuola Normale di Pisa, where he graduated in 1868.
+In 1872 he became Professor of Algebra and Calculus of the Politecnico di Milano University. From 1879 he was professor of mathematics at the Reale Istituto Tecnico Superiore, where, in 1901, was affixed a plaque that remembers him.
+He was also a corresponding member of Istituto Lombardo.
+He made contributions to the theory of functions of a real variable and to Fourier series. For example, Ascoli introduced equicontinuity in 1884, a topic regarded as one of the fundamental concepts in the theory of real functions. In 1889, Italian mathematician Cesare Arzelà generalized Ascoli's Theorem into the Arzelà–Ascoli theorem, a practical sequential compactness criterion of functions.
+
+
+== See also ==
+Measure (mathematics)
+Oscillation (mathematics)
+Riemann Integral
+
+
+== Notes ==
+
+
+== Biographical references ==
+Guerraggio, Angelo; Nastasi, Pietro (2005), Italian mathematics between the two world wars, Science Networks. Historical Studies, vol. 29, Basel: Birkhäuser Verlag, pp. x+299, doi:10.1007/3-7643-7512-4, ISBN 3-7643-6555-2, MR 2188015, Zbl 1084.01010.
+Tricomi, G. F. (1962). "Giulio Ascoli". Matematici italiani del primo secolo dello stato unitario (Italian mathematicians of the first century of the unitary state). Memorie dell'Accademia delle Scienze di Torino. Classe di Scienze fisiche matematiche e naturali, series IV. Vol. I. p. 120. Zbl 0132.24405. Archived from the original on 28 July 2012. Retrieved 31 July 2010.{{cite book}}:  CS1 maint: bot: original URL status unknown (link)(in Italian). Available from the website of the.
+
+
+== References ==
+Dshalalow, Jewgeni H. (2001), Real analysis: an introduction to the theory of real functions and integration, Studies in Advanced Mathematics, Boca Raton, Florida: CRC Press, pp. xiv+567, ISBN 1-58488-073-2, MR 1788725, Zbl 0978.28001.
+Letta, Giorgio (1994) [112°], "Le condizioni di Riemann per l'integrabilità e il loro influsso sulla nascita del concetto di misura" (PDF), Rendiconti della Accademia Nazionale delle Scienze Detta dei XL, Memorie di Matematica e Applicazioni (in Italian), XVIII (1): 143–169, MR 1327463, Zbl 0852.28001, archived from the original (PDF) on 28 February 2014. "Riemann's conditions for integrability and their influence on the birth of the concept of measure" (English translation of title) is an article on the history of measure theory, analyzing deeply and comprehensively every early contribution to the field, starting from Riemann's work and going to the works of Hermann Hankel, Gaston Darboux, Giulio Ascoli, Henry John Stephen Smith, Ulisse Dini, Vito Volterra, Paul David Gustav du Bois-Reymond and Carl Gustav Axel Harnack.
+
+
+== External links ==
+Biography in Italian.
+Ascoli, Julio in the Jewish Encyclopedia.
+By Their Fruits Ye Shall Know Them: Some Remarks on the Interaction of General Topology with Other Areas of Mathematics by T. Koetsier, J. Van Mill, an article containing a history of Ascoli's work on the Arzelà-Ascoli theorem.

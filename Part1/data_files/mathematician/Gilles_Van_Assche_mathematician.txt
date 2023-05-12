@@ -1,0 +1,13 @@
+Gilles Van Assche is a Belgian cryptographer who co-designed the Keccak cryptographic hash, which was selected as the new SHA-3 hash by NIST in October 2012. The SHA-3 standard was released by NIST on August 5, 2015.In 1998 Van Assche graduated from Université Libre de Bruxelles (ULB) with a Physics Engineer degree. He then went to work for STMicroelectronics while also working on his PhD thesis at the Center for Quantum Information and Communication at the ULB. His PhD thesis was directed by Pr. Nicolas Cerf where he researched quantum key distribution (QKD) and related classical information theory problems such as secret-key distillation, reconciliation and privacy amplification. His thesis was later expanded into a book, "Quantum Cryptography and Secret-Key Distillation" published by Cambridge University Press on 29 June 2006.Along with Joan Daemen and Michaël Peeters he designed the NOEKEON family of block ciphers which were submitted to the NESSIE project in September 2000. In 2006 Guido Bertoni joined the team and together they designed the RadioGatún hash function and stream cipher, introduced the concept of cryptographic sponge functions and designed the Keccak sponge function which later became the SHA-3 standard.He currently works in the Secure Microcontrollers Division of STMicroelectronics in Diegem, Belgium and teaches cryptography at the École Supérieure d'Informatique as well as the Université Libre de Bruxelles in Brussels.
+
+
+== References ==
+
+
+== External links ==
+"National Institute of Standards and Technology (NIST)".
+"Gilles Van Assche's Personal Homepage".
+"Noekeon".
+"The RadioGatún Hash Function Family".
+"The Sponge Functions Corner".
+"The Keccak sponge function family".

@@ -1,0 +1,33 @@
+Shimshon Avraham Amitsur (born Kaplan; Hebrew: שמשון אברהם עמיצור; August 26, 1921 – September 5, 1994) was an Israeli mathematician. He is best known for his work in ring theory, in particular PI rings,  an area of abstract algebra.
+
+
+== Biography ==
+Amitsur was born in Jerusalem and studied at the Hebrew University under the supervision of Jacob Levitzki.  His studies were repeatedly interrupted, first by World War II and then by the 1948 Arab–Israeli War.  He received his M.Sc. degree in 1946, and his Ph.D. in 1950.  Later, for his joint work with Levitzki, he received the first Israel Prize in Exact Sciences.  He worked at the Hebrew University until his retirement in 1989. Amitsur was a visiting scholar at the Institute for Advanced Study from 1952 to 1954. He was an Invited Speaker at the ICM in 1970 in Nice. He was a member of the Israel Academy of Sciences, where he was the Head for Experimental Science Section.  He was one of the founding editors of the Israel Journal of Mathematics, and the mathematical editor of the Hebrew Encyclopedia.  Amitsur received a number of awards, including the honorary doctorate from Ben-Gurion University in 1990.  His students included Avinoam Mann, Amitai Regev, Eliyahu Rips and Aner Shalev.
+
+
+== Awards ==
+Amitsur and Jacob Levitzki were each awarded the Israel Prize in exact sciences, in 1953, its inaugural year.
+
+
+== See also ==
+Amitsur–Levitzki theorem
+List of Israel Prize recipients
+
+
+== Publications ==
+
+Amitsur, A. S.; Levitzki, Jakob (1950), "Minimal identities for algebras", Proceedings of the American Mathematical Society, 1 (4): 449–463, doi:10.1090/S0002-9939-1950-0036751-9, ISSN 0002-9939, JSTOR 2032312, MR 0036751
+Amitsur, S. A. (2001),  Mann, Avinoam; Regev, Amitai; Rowen, Louis; Saltman, David J.; Small, Lance W. (eds.), Selected papers of S. A. Amitsur with commentary. Part 1, Providence, R.I.: American Mathematical Society, ISBN 978-0-8218-2924-0, MR 1866636
+Amitsur, S. A. (2001),  Mann, Avinoam; Regev, Amitai; Rowen, Louis; Saltman, David J.; Small, Lance W. (eds.), Selected papers of S. A. Amitsur with commentary. Part 2, Providence, R.I.: American Mathematical Society, ISBN 978-0-8218-2925-7, MR 1866637
+
+
+== References ==
+
+"Shimshon Avraham Amitsur (1921 — 1994)", by A. Mann, Israel Journal of Mathematics, Vol. 96 (December 1996), ix - xxvii.
+Formanek, Edward (2003), "Review of Selected papers of S. A. Amitsur", Bulletin of the American Mathematical Society, 40: 131–135, doi:10.1090/s0273-0979-02-00960-6, ISSN 0002-9904
+
+
+== External links ==
+Shimshon Amitsur at the Mathematics Genealogy Project
+O'Connor, John J.; Robertson, Edmund F., "Shimshon Amitsur", MacTutor History of Mathematics archive, University of St Andrews
+Colleagues, students and family sharing personal experiences with Shimshon Amitsur. Video recording from the 27th Amitsur Memorial Symposium 2020.

@@ -1,0 +1,4 @@
+Franz Aurenhammer (born September 25, 1957) is an Austrian computational geometer known for his research in computational geometry on Voronoi diagrams, straight skeletons, and related structures. He is a professor in the Institute for Theoretical Computer Science of Graz University of Technology.Aurenhammer earned a diploma in technical mathematics from Graz University of Technology in 1982, and completed his doctorate there in 1984 and his habilitation in 1989. His doctoral dissertation was jointly supervised by Hermann Maurer and Herbert Edelsbrunner. He was on the faculty at Graz as an assistant professor from 1985 to 1989, and returned in 1992 as a full professor.
+
+
+== References ==

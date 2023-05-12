@@ -1,0 +1,25 @@
+Cesare Arzelà (6 March 1847 – 15 March 1912) was an Italian mathematician who taught at the University of Bologna and is recognized for his contributions in the theory of functions, particularly for his characterization of sequences of continuous functions, generalizing the one given earlier by Giulio Ascoli in the Arzelà–Ascoli theorem.
+
+
+== Life ==
+He was a pupil of the Scuola Normale Superiore of Pisa where he graduated in 1869. Arzelà came from a poor household; therefore he could not start his study until 1871, when he studied in Pisa under Enrico Betti and Ulisse Dini.
+He was working in Florence (from 1875) and in 1878 obtained the Chair of Algebra at the University of Palermo.
+After that he became a professor in 1880 at the University of Bologna at the department of analysis. He conducted research in the field of theory of functions. His most famous student was Leonida Tonelli.
+In 1889 he generalized the Ascoli theorem to Arzelà–Ascoli theorem, an important theorem in the theory of functions.
+He was a member of the Accademia Nazionale dei Lincei, and of several other academies.
+
+
+== Works ==
+Arzelà, Cesare (7 May 1905), "Sulle funzioni di due variabili a variazione limitata (On functions of two variables of bounded variation)", Rendiconto delle Sessioni della Reale Accademia delle Scienze dell'Istituto di Bologna, Nuova serie, IX (4): 100–107, JFM 36.0491.02, archived from the original on 2007-08-07
+
+
+== See also ==
+Total variation
+
+
+== Further reading ==
+Tricomi, G. F. (1962). "Cesare Arzelà". Matematici italiani del primo secolo dello stato unitario (Italian mathematicians of the first century of the unitary state). Memorie dell'Accademia delle Scienze di Torino. Classe di Scienze Fisiche Matematiche e Naturali. series IV (in Italian). Vol. I. p. 120. Zbl 0132.24405. Archived from the original on 2011-05-19. Retrieved 2010-07-31.{{cite book}}:  CS1 maint: bot: original URL status unknown (link). Available from the website of the
+
+
+== External links ==
+Cesare Arzelà at the Mathematics Genealogy Project

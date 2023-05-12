@@ -1,0 +1,25 @@
+Norman Herbert Anning ((1883-08-28)August 28, 1883 – (1963-05-01)May 1, 1963) was a mathematician, assistant professor, professor emeritus, and instructor in mathematics, recognized and acclaimed in mathematics for publishing a proof of the characterization of the infinite sets of points in the plane with mutually integer distances, known as the Erdős–Anning theorem.
+
+
+== Life ==
+Anning was originally from Holland Township (currently Chatsworth), Grey County, Ontario, Canada. In 1902, he won a scholarship to Queen's University, and received the Arts bachelor's degree in 1905, and the Arts master's degree in 1906 from the same institution.
+
+
+== Academic career ==
+Anning served in the faculty of the University of Michigan since 1920, until he retired on 1953.From 1909 to 1910, he held a teaching position in the department of Mathematics and Science at Chilliwack High School, British Columbia. He was a member of the Mathematical Association of America to which he contributed for many years.Besides being a member of the Mathematical Association of America, Anning was appointed as chairperson at the University of Michigan from 1951 to 1952, and treasurer secretary from 1925 to 1926 at the same institution.
+
+With Paul Erdős, he published a paper in 1945 containing what is now known as the Erdős–Anning theorem. The theorem states that an infinite number of points in the plane can have mutual integer distances only if all the points lie on a straight line.Anning retired on August 28, 1953. He died in Sunnydale, California on May 1, 1963.
+
+
+== Publications ==
+Anning, N.H.; Erdős, P. (1945). "Integral distances". Bull. Amer. Math. Soc. 51 (8): 598–600. doi:10.1090/s0002-9904-1945-08407-9.
+Erdős, P.; Ruderman, HD; Willey, M.; Anning, N. (1935). "Problems for Solution: 3739-3743". The American Mathematical Monthly. JSTOR. 42 (6): 396–397. doi:10.2307/2301373. JSTOR 2301373.
+Norman H. Anning (1923). "Socrates Teaches Mathematics". School Science and Mathematics. Wiley Online Library. 23 (6): 581–584. doi:10.1111/j.1949-8594.1923.tb07353.x.
+Norman H. Anning (1917). "Another Method Of Deriving Sin 2α, sin 3α, And So On". School Science and Mathematics. 17 (1): 43–44. doi:10.1111/j.1949-8594.1917.tb01843.x.
+Norman H. Anning (1916). "Note On Triangles Whose Sides Are Whole Numbers". School Science and Mathematics. 16 (1): 82–83. doi:10.1111/j.1949-8594.1916.tb01570.x.
+Norman H. Anning (1915). "To Find Approximate Square Roots". School Science and Mathematics. 15 (3): 245–246. doi:10.1111/j.1949-8594.1915.tb10261.x.
+Norman H. Anning (1929). "What Are The Chances That; A Few Questions". School Science and Mathematics. 29 (5): 460. doi:10.1111/j.1949-8594.1929.tb02431.x.
+Norman H. Anning (1925). "A Device For Teachers Of Trigonometry". School Science and Mathematics. 25 (7): 739–740. doi:10.1111/j.1949-8594.1925.tb05056.x.
+
+
+== References ==

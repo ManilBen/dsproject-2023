@@ -1,0 +1,16 @@
+Douglas Norman "Doug" Arnold is a mathematician whose research focuses on the numerical analysis of partial differential equations with applications in mechanics and other fields in physics. As of 2008, he is McKnight Presidential Professor of Mathematics at the University of Minnesota.
+
+
+== Biography ==
+Arnold studied mathematics as an undergraduate at Brown University, gaining his B.A. in 1975. He continued his studies at the University of Chicago, where he received a Ph.D. in 1979. He then moved to work at the University of Maryland, College Park. In 1989, he moved to Penn State University where he occupied a chair until 2002. He became director of the Institute for Mathematics and its Applications (IMA) in Minnesota in 2001. At the end of his term as director of the IMA, he becomes the McKnight Presidential Professor of Mathematics at the University of Minnesota. He served as president of the Society for Industrial and Applied Mathematics in 2009 and 2010.Arnold's research initially focused on the finite element method for the solution of problems in elasticity. This expanded to take other applications into account, like the collision of black holes. 
+Especially well known is Arnold's development of the finite element exterior calculus, a discrete version of exterior calculus that can be used to analyze the stability of finite element methods. This was the topic of the plenary lecture Arnold gave at the 2002 International Congress of Mathematicians.Together with a colleague (Jonathan Rogness), Arnold produced a video explaining Möbius transformations which won an honorable mention in a contest sponsored by Science magazine and the National Science Foundation in 2007.
+The video was watched over a million times at YouTube.
+Other honors include winning the International Giovanni Sacchi Landriani Prize in 1991, the award of a Guggenheim Fellowship in 2008 and election as a foreign member of the Norwegian Academy of Science and Letters in 2009. In 2012 he became a fellow of the American Mathematical Society. In 2009, he was named a fellow of the Society for Industrial and Applied Mathematics.Arnold is married to Maria-Carme Calderer, a professor of mathematics at University of Minnesota.
+
+
+== References ==
+
+
+== External links ==
+Home page at the University of Minnesota
+Douglas Norman Arnold at the Mathematics Genealogy Project

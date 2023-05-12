@@ -1,0 +1,47 @@
+Aldo Andreotti (15 March 1924 – 21 February 1980) was an Italian mathematician who worked on algebraic geometry, on the theory of functions of several complex variables and on partial differential operators. Notably he proved the Andreotti–Frankel theorem, the Andreotti–Grauert theorem, the Andreotti–Vesentini theorem and introduced, jointly with François Norguet, the Andreotti–Norguet integral representation for functions of several complex variables.
+Andreotti was a visiting scholar at the Institute for Advanced Study in 1951 and again from 1957 through 1959.
+
+
+== Selected publications ==
+Aldo Andreotti published 100 scientific works, including papers, books and lecture notes: many of them, except all his books but (Andreotti & Nacinovich 1980), are collected in his "Selecta" (Andreotti 1982, 1992, 1994, 1999). In his "Selecta" are also included three unpublished sets of lecture notes, the first one prepared by Philippe Artzner from a course on the theory of analytic functions of several complex variables held by Andreotti during winter 1961 at the University of Strasbourg, the second and third ones taken from two lectures held by Francesco Gherardelli at the "Seminario di Geometria" of the Scuola Normale Superiore during the years 1971–1972 and 1971–1972 respectively, on topics concerning his joint work with Andreotti: despite their nature of unpublished works, Vesentini (1992, p. 5) states that they have brought significant contributions to research.
+
+
+=== Articles ===
+Andreotti, Aldo; Grauert, Hans (1962), "Théorèmes de finitude pour la cohomologie des espaces complexes" [Finiteness theorems for the cohomology of complex spaces], Bulletin de la Société Mathématique de France (in French), 90: 193–259, doi:10.24033/bsmf.1581, MR 0150342, Zbl 0106.05501.
+Andreotti, Aldo; Vesentini, Edoardo (1965), "Carleman estimates for the Laplace-Beltrami equation on complex manifolds", Publications Mathématiques de l'IHÉS, 25: 81–130, doi:10.1007/bf02684398, ISSN 1618-1913, MR 0175148, S2CID 189796164, Zbl 0138.06604.
+Andreotti, Aldo; Norguet, François (20 January 1964), "Problème de Levi pour les classes de cohomologie" [The Levi problem for cohomology classes], Comptes rendus hebdomadaires des séances de l'Académie des Sciences (in French), 258 (Première partie): 778–781, MR 0159960, Zbl 0124.38803.
+Andreotti, Aldo; Vesentini, Edoardo (1965b), "Erratum. Carleman estimates for the Laplace-Beltrami equation on complex manifolds", Publications Mathématiques de l'IHÉS, 27: 153–155, doi:10.1007/bf02684376, ISSN 1618-1913, MR 0182983, S2CID 51858734, Zbl 0138.06604.
+Andreotti, Aldo; Norguet, François (1966), "Problème de Levi et convexité holomorphe pour les classes de cohomologie" [The Levi problem and holomorphic convexity for cohomology classes], Annali della Scuola Normale Superiore di Pisa, Classe di Scienze, Serie III (in French), 20 (2): 197–241, MR 0199439, Zbl 0154.33504.
+Andreotti, Aldo; Hill, C. Denson (1972), "E. E. Levi convexity and the Hans Lewy problem. Part I: reduction to vanishing theorems", Annali della Scuola Normale Superiore di Pisa, Classe di Scienze, Serie III, 26 (2): 325–363, MR 0460725.
+Andreotti, Aldo; Hill, C. Denson (1972b), "E. E. Levi convexity and the Hans Lewy problem. Part II: vanishing theorems", Annali della Scuola Normale Superiore di Pisa, Classe di Scienze, Serie III, 26 (4): 747–806, MR 0477150, Zbl 0283.32013.
+
+
+=== Books ===
+Andreotti, Aldo; Stoll, Wilhelm (1971), Analytic and algebraic dependence of meromorphic functions, Lecture Notes in Mathematics, vol. 234, Berlin–Heidelberg–New York: Springer-Verlag, pp. iii+390, doi:10.1007/BFb0058595, ISBN 978-3-540-05670-6, MR 0390298, Zbl 0222.32013.
+Andreotti, Aldo (1974), "Nine lectures on complex analysis",  in Gherardelli, Francesco (ed.), Complex Analysis. C.I.M.E. I Ciclo. Bressanone, 3–12 Giugno 1973, C.I.M.E. Summer Schools, vol. 62, Roma: Edizioni Cremonese, pp. 1–175, doi:10.1007/978-3-642-10964-5_1, MR 0442262, Zbl 0353.32021.
+Andreotti, Aldo (1975), Complexes of partial differential operators, Yale Mathematical Monographs, vol. 6, New Haven, Conn. – London: Yale University Press, pp. vi+49, MR 0413192, Zbl 0309.58020.
+Andreotti, Aldo (1976), Introduzione all'analisi complessa (Lezioni tenute nel febbraio 1972) [Introduction to complex analysis (Lectures held in February 1972)], Contributi del Centro Linceo Interdisciplinare di Scienze Matematiche e Loro Applicazioni (in Italian), vol. 24, Rome: Accademia Nazionale dei Lincei, p. 34, archived from the original on 2012-03-07, retrieved 2012-10-20. A short course in the theory of functions of several complex variables, held in February 1972 at the Centro Linceo Interdisciplinare di Scienze Matematiche e Loro Applicazioni "Beniamino Segre".
+Andreotti, Aldo (1978), Étude de géométrie algébrique [Study of algebraic geometry] (in French), Strasbourg: Université Louis Pasteur, Département de Mathématique, Institut de Recherche Mathématique Avancée, p. 340, Zbl 0616.32001.
+Andreotti, Aldo; Nacinovich, Mauro (1980), Analytic Convexity and the Principle of Phragmén–Lindelöf, Quaderni, Pisa: Edizioni della Normale, p. 184, ISBN 978-88-7642-243-0, Zbl 0458.35004.
+Andreotti, Aldo (1982), Geometrica algebrica [Algebraic geometry], Selecta di opere, vol. I, Pisa: Scuola Normale Superiore, p. 424, MR 0940467. The first volume of his selected works, collecting his and his coworkers contributions in algebraic geometry.
+Andreotti, Aldo (1992), Analisi complessa. Tomo I [Several complex variables. Tome I], Selecta di opere, vol. II, Pisa: Scuola Normale Superiore, pp. 1–488. The first part (tomo) of the second volume of his selected works, collecting his and his coworkers contributions to the theory of functions of several complex variables.
+Andreotti, Aldo (1994), Analisi complessa. Tomo II [Several complex variables. Tome II], Selecta di opere, vol. II, Pisa: Scuola Normale Superiore, pp. 489–1144. The second part (tomo) of the second volume of his selected works, collecting his and his coworkers contributions to the theory of functions of several complex variables.
+Andreotti, Aldo (1999), Complessi di operatori differenziali [Complexes of differential operators], Selecta di opere, vol. III, Pisa: Scuola Normale Superiore, p. 633. The third and last volume of his selected works, collecting his and his coworkers contributions to the theory partial differential operators in the form of the study of complexes of differential operators.
+
+
+== See also ==
+Bochner–Martinelli formula
+Chain complexes
+Cohomology
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+O'Connor, John J.; Robertson, Edmund F. (July 2012), "Aldo Andreotti", MacTutor History of Mathematics archive, University of St Andrews
+Aldo Andreotti at the Mathematics Genealogy Project
+Aldo Andreotti

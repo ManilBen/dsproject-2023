@@ -1,0 +1,17 @@
+Ann S. Almgren is an American applied mathematician who works as a senior scientist and group leader of the Center for Computational Sciences and Engineering at the Lawrence Berkeley National Laboratory. Her primary research interests are in computational algorithms for solving PDE's for fluid dynamics in a variety of application areas. Her current projects include the development and implementation of new multiphysics algorithms in high-resolution adaptive mesh codes that are designed for the
+latest multicore architectures.
+
+
+== Education and career ==
+Almgren is the daughter of mathematician Frederick J. Almgren, Jr. and his first wife, Beverly Stewart. She earned a bachelor's degree in physics from Harvard University in 1984 and master's and doctoral degrees in mechanical engineering from the University of California, Berkeley in 1987 and 1991 respectively. After visiting the Institute for Advanced Study, she joined the applied mathematics group of the Lawrence Livermore National Laboratory in 1992, and moved to the Lawrence Berkeley National Laboratory in 1996.
+
+
+== Recognition ==
+In 2015 she became a fellow of the Society for Industrial and Applied Mathematics "for contributions to the development of numerical methods for fluid dynamics and applying them to large-scale scientific and engineering problems."  She also serves on the editorial boards of SIREV and CAMCoS
+
+
+== References ==
+
+
+== External links ==
+Google scholar profile

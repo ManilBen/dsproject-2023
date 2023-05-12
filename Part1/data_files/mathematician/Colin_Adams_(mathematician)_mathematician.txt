@@ -1,0 +1,45 @@
+Colin Conrad Adams (born October 13, 1956) is a mathematician primarily working in the areas of hyperbolic 3-manifolds and knot theory.  His book, The Knot Book, has been praised for its accessible approach to advanced topics in knot theory.  He is currently Francis Christopher Oakley Third Century Professor of Mathematics at Williams College, where he has been since 1985. He writes "Mathematically Bent", a column of math  for the Mathematical Intelligencer. His nephew is popular American singer Still Woozy.
+
+
+== Academic career ==
+Adams received a B.Sc. from MIT in 1978 and a Ph.D. in mathematics from the University of Wisconsin–Madison in 1983.  His dissertation was entitled "Hyperbolic Structures on Link Complements" and supervised by James Cannon.
+In 2012 he became a fellow of the American Mathematical Society.
+
+
+== Work ==
+Among his earliest contributions is his theorem that the Gieseking manifold is the unique cusped hyperbolic 3-manifold of smallest volume.  The proof utilizes horoball-packing arguments.  Adams is known for his clever use of such arguments utilizing horoball patterns and his work would be used in the later proof by Chun Cao and G. Robert Meyerhoff that the smallest cusped orientable hyperbolic 3-manifolds are precisely the figure-eight knot complement and its sibling manifold.
+Adams has investigated and defined a variety of geometric invariants of hyperbolic links and hyperbolic 3-manifolds in general.  He developed techniques for working with volumes of special classes of hyperbolic links.  He proved augmented alternating links, which he defined, were hyperbolic.  In addition, he has defined almost alternating and toroidally alternating links.  He has often collaborated and published this research with students from SMALL, an undergraduate summer research program at Williams.
+
+
+== Books ==
+C. Adams, The Tiling Book: An Introduction to the Mathematical Theory of Tilings. American Mathematical Society, Providence, RI, 2022. ISBN 1470468972
+C. Adams, The Math Museum: A Survival Story”, MAA Press, 2022. ISBN 1470468581
+C. Adams, The Knot Book: An elementary introduction to the mathematical theory of knots. Revised reprint of the 1994 original. American Mathematical Society, Providence, RI, 2004. xiv+307 pp. ISBN 0-8218-3678-1
+C. Adams, J. Hass, A. Thompson, How to Ace Calculus: The Streetwise Guide. W. H. Freeman and Company, 1998.  ISBN 0-7167-3160-6
+C. Adams, J. Hass, A. Thompson, How to Ace the Rest of Calculus: The Streetwise Guide. W. H. Freeman and Company, 2001.  ISBN 0-7167-4174-1
+C. Adams, Why Knot?: An Introduction to the Mathematical Theory of Knots.  Key College, 2004.  ISBN 1-931914-22-2
+C. Adams, R. Franzosa, "Introduction to Topology: Pure and Applied." Prentice Hall, 2007. ISBN 0-13-184869-0
+C. Adams, "Riot at the Calc Exam and Other Mathematically Bent Stories." American Mathematical Society, 2009. ISBN 0-8218-4817-8
+C. Adams,"Zombies & Calculus." Princeton University Press, 2014. ISBN 978-0691161907
+C. Adams, J. Rogawski, "Calculus." W. H. Freeman, 2015. ISBN 978-1464125263
+
+
+== Selected publications ==
+C. Adams, Thrice-punctured spheres in hyperbolic $3$-manifolds.  Trans. Am. Math. Soc. 287 (1985), no. 2, 645—656.
+C. Adams, Augmented alternating link complements are hyperbolic.  Low-dimensional topology and Kleinian groups (Coventry/Durham, 1984), 115—130,  London Math. Soc. Lecture Note Ser., 112, Cambridge Univ. Press, Cambridge, 1986.
+C. Adams, The noncompact hyperbolic $3$-manifold of minimal volume.  Proc. Am. Math. Soc. 100  (1987),  no. 4, 601—606.
+C. Adams and A. Reid, Systoles of hyperbolic $3$-manifolds. Math. Proc. Camb. Philos. Soc. 128 (2000), no. 1, 103—110.
+C. Adams; A. Colestock; J. Fowler; W. Gillam; E. Katerman. Cusp size bounds from singular surfaces in hyperbolic 3-manifolds.  Trans. Am. Math. Soc. 358 (2006), no. 2, 727—741
+C. Adams; O. Capovilla-Searle, J. Freeman, D. Irvine, S. Petti, D.Vitek, A. Weber, S. Zhang. Bounds on Ubercrossing and Petal Number for Knots. Journal of Knot Theory and its Ramifications, vol. 24, no. 2 (2015) 1550012 (16 pages).
+
+
+== References ==
+
+Math Prof. Wins Distinguished Teaching Award
+
+
+== External links ==
+Faculty page at Williams
+Mathematical genealogy
+MSRI talk by Slugbate
+A typical announcement for a Slugbate talk with a photo

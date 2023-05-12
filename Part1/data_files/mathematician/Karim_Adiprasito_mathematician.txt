@@ -1,0 +1,11 @@
+Karim Alexander Adiprasito (born Año 1988) is a German mathematician working at the University of Copenhagen and the Hebrew University of Jerusalem who works in combinatorics. He completed his Ph.D. in 2013 at Free University Berlin under the supervision of Günter M. Ziegler. He has been a professor at the Hebrew University since 2015, and at the University of Copenhagen since 2019. He is of German and Indonesian descent, and bears an Indonesian surname.
+He was awarded the 2015 European Prize in Combinatorics for his work in discrete geometry, in particular on realization spaces of polytopes citing "his wide-ranging and deep contributions to discrete geometry using analytic methods particularly for his solution of old problems of Perles and Shephard (going back to Legendre and Steinitz) on projectively unique polyhedra."
+In joint work with June Huh and Eric Katz, he resolved the Heron–Rota–Welsh conjecture on the log-concavity of the characteristic polynomial of matroids.
+With Huh, he is one of five winners of the 2019 New Horizons Prize for Early-Career Achievement in Mathematics, associated with the Breakthrough Prize in Mathematics.Using Mikhail Gromov's work on spaces of bounded curvature, he resolved the Hirsch conjecture for flag triangulations of manifolds.In December 2018, he proved Peter McMullen's g-conjecture for simplicial spheres. For his work, he won the 20a20 EMS Prize of the European Mathematical Society.
+
+
+== References ==
+
+
+== External links ==
+Homepage at the Hebrew University of Jerusalem.

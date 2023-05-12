@@ -1,0 +1,11 @@
+George Adomian (March 21, 1922 – June 17, 1996) was an American mathematician of Armenian descent who developed the Adomian decomposition method (ADM) for solving nonlinear differential equations, both ordinary and partial. The method is explained, among other places, in his book Solving Frontier Problems in Physics: The Decomposition Method (Kluwer, Dordrecht, 2004). He was a faculty member at the University of Georgia (UGA) from 1966 through 1989. While at UGA, he started the Center for Applied Mathematics. Adomian was also an aerospace engineer.
+
+
+== Selected works ==
+G. Adomian: Stochastic Systems, Academic Press, 1983. ISBN 0-12-044370-8
+G. Adomian: Nonlinear Stochastic Operator Equations, Academic Press, 1986. ISBN 0-12-044375-9
+G. Adomian: Nonlinear Stochastic Systems Theory and Applications to Physics, Kluwer Academic Publishers, 1989. ISBN 90-277-2525-X
+
+
+== References ==
+Members of the Faculty of the Mathematics Department University of Georgia

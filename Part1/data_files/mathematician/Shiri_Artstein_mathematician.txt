@@ -1,0 +1,29 @@
+Shiri Artstein-Avidan (Hebrew: שירי ארטשטיין-אבידן, born 28 September 1978) is an Israeli mathematician who in 2015 won the Erdős Prize. She specializes in convex geometry and asymptotic geometric analysis, and is a professor of mathematics at Tel Aviv University.
+
+
+== Education and career ==
+Artstein was born in Jerusalem, the daughter of mathematician Zvi Artstein. She graduated summa cum laude from Tel Aviv University in 2000, with a bachelor's degree in mathematics, and completed her PhD at Tel Aviv University in 2004 under the supervision of Vitali Milman, with a dissertation on Entropy Methods. She worked from 2004 to 2006 as a Veblen Research Instructor in Mathematics at Princeton University and as a researcher at the Institute for Advanced Study before returning to Tel Aviv as a faculty member in 2006.
+
+
+== Recognition ==
+Artstein won the Haim Nessyahu Prize in Mathematics, an annual dissertation award of the Israel Mathematical Union, in 2006.
+In 2008 she won the Krill Prize for Excellence in Scientific Research, from the
+Wolf Foundation.
+In 2015 she won the Anna and Lajos Erdős Prize in Mathematics. The award cited her "solution of Shannon's long standing problem on monotonicity of entropy (with K. Ball, F. Barthe and A. Naor), profound and unexpected development of the concept of duality, Legendre and Fourier transform from axiomatic viewpoint (with V. Milman) and discovery of an astonishing link between Mahler's conjecture in convexity theory and an isoperimetric-type inequality involving symplectic capacities (with R. Karasev and Y. Ostrover)".
+
+
+== Selected publications ==
+Artstein-Avidan, Shiri; Giannopoulos, Apostolos; Milman, Vitali (17 June 2015). "Asymptotic Geometric Analysis, Part I". Mathematical Surveys and Monographs. Providence, Rhode Island: American Mathematical Society. doi:10.1090/surv/202. ISBN 978-1-4704-2193-9. ISSN 0076-5376.Her research publications include:
+
+Artstein, Shiri; Ball, Keith M.; Barthe, Franck; Naor, Assaf (2004), "Solution of Shannon's problem on the monotonicity of entropy", Journal of the American Mathematical Society, 17 (4): 975–982, doi:10.1090/S0894-0347-04-00459-X, MR 2083473
+Artstein, S.; Milman, V.; Szarek, S. J. (2004), "Duality of metric entropy", Annals of Mathematics, Second Series, 159 (3): 1313–1328, doi:10.4007/annals.2004.159.1313, MR 2113023
+Artstein-Avidan, S.; Klartag, B.; Milman, V. (2004), "The Santaló point of a function, and a functional form of the Santaló inequality", Mathematika, 51 (1–2): 33–48, doi:10.1112/S0025579300015497, MR 2220210
+Artstein-Avidan, Shiri; Milman, Vitali (2009), "The concept of duality in convex analysis, and the characterization of the Legendre transform", Annals of Mathematics, Second Series, 169 (2): 661–674, doi:10.4007/annals.2009.169.661, MR 2480615
+Artstein-Avidan, Shiri; Karasev, Roman; Ostrover, Yaron (2014), "From symplectic measurements to the Mahler conjecture", Duke Mathematical Journal, 163 (11): 2003–2022, arXiv:1303.4197, doi:10.1215/00127094-2794999, MR 3263026, S2CID 43483415
+
+
+== References ==
+
+
+== External links ==
+Home page

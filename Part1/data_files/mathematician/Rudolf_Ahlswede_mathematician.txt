@@ -1,0 +1,38 @@
+Rudolf F. Ahlswede (15 September 1938  – 18 December 2010) was a German mathematician. Born in Dielmissen, Germany, he studied mathematics, physics, and philosophy. He wrote his Ph.D. thesis in 1966, at the University of Göttingen, with the topic "Contributions to the Shannon information theory in case of non-stationary channels". He dedicated himself in his further career to information theory and became one of the leading representatives of this area worldwide.
+
+
+== Life and work ==
+In 1977, he joined and held a Professorship at the University of Bielefeld, Bielefeld, Germany. In 1988, he received together with Imre Csiszár the Best Paper Award of the IEEE Information Theory Society for work in the area of the hypothesis testing as well as in 1990 together with Gunter Dueck for a new theory of message identification. He has been awarded this prize twice. As an emeritus of Bielefeld University, Ahlswede received the 2006 Claude E. Shannon 
+Award, one of the first few non-US citizens to receive it. Ahlswede's work began the field of Network coding.Rudolf Ahlswede died on 18 December 2010, at the age of 72.
+
+
+== Books ==
+R. Ahlswede and I. Wegener, Suchprobleme, Teubner Verlag, Stuttgart, 1979.
+R. Ahlswede and I. Wegener, Search Problems, English Edition of "Suchprobleme" with Supplement of recent Literature,
+R.L. Graham, J.K. Leenstra, and R.E. Tarjan (Eds.), Wiley-Interscience Series in Discrete Mathematics and Optimization, 1987.
+I. Althöfer, N. Cai, G. Dueck, L. Khachatrian, M.S. Pinsker, A. Sárkozy, I. Wegener and Z. Zhang (Eds.),Numbers, Information and Complexity, 50 articles in honour of Rudolf Ahlswede, Kluwer Academic Publishers, Boston, 2000.
+http://www.mathematik.uni-bielefeld.de/ahlswede/books/kluwer.html
+R. Ahlswede, L. Bäumer, N. Cai, H. Aydinian, V. Blinovsky, C. Deppe, and H. Mashurian (Eds.), General Theory of Information Transfer and Combinatorics, Lecture Notes in Computer Science, Springer-Verlag, Vol. 4123, 2006.
+http://www.springer.com/computer/foundations/book/978-3-540-46244-6
+Ahlswede, Rudolf (2008). "General theory of information transfer: Updated". Discrete Applied Mathematics. 156 (9): 1348–1388. doi:10.1016/j.dam.2007.07.007.
+R. Ahlswede and V. Blinovsky, Lectures on Advances in Combinatorics, Universitext, Springer-Verlag, 2008.
+http://www.springer.com/math/numbers/book/978-3-540-78601-6
+
+
+== See also ==
+Ahlswede–Daykin inequality
+Information-theoretic security
+Linear network coding
+
+
+== References ==
+
+
+== Sources ==
+http://www.mathematik.uni-bielefeld.de/ahlswede/
+http://www.math.uni-bielefeld.de/ahlswede/homepage/
+http://media.itsoc.org/isit2006/ahlswede/
+
+
+== External links ==
+Rudolf Ahlswede at the Mathematics Genealogy Project

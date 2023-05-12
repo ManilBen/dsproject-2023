@@ -1,0 +1,25 @@
+William B. Arveson (22 November 1934 – 15 November 2011) was a mathematician specializing in operator algebras who worked as a professor of Mathematics at the University of California, Berkeley.
+
+
+== Biography ==
+Arveson obtained his Ph.D. from UCLA in 1964 with thesis advisor Henry Dye and thesis Prediction theory and group representations.
+Of particular note is Arveson's work on completely positive maps. One of his earlier results in this area is an extension theorem for completely positive maps with values in the algebra of all bounded operators on a Hilbert space. This theorem led naturally to the question of injectivity of von-Neumann algebras in general, which culminated in work by Alain Connes relating injectivity to hyperfiniteness.
+One of the major features of Arveson's work was the use of algebras of operators to elucidate single operator theory. In a series of papers in the 1960s and 1970s, Arveson introduced noncommutative analogues of several concepts from classical harmonic analysis including the Shilov and Choquet boundaries and used them very successfully in single operator theory.In a highly cited paper, Arveson made a systematic study of commutative subspace lattices, which yield a large class of nonselfadjoint operator algebras and proved among other results, the theorem that a transitive algebra containing a maximal abelian von Neumann subalgebra in B(H) must be trivial.
+In the late 80's and 90's, Arveson played a leading role in developing the theory of one-parameter semigroups of *-endomorphisms on von Neumann algebras - also known as E-semigroups. Among his achievements, he introduced product systems and proved that they are complete invariants of E-semigroups up to cocycle conjugacy.
+
+
+== Selected publications ==
+BooksArveson, William (1976), An Invitation to C*-Algebras, Graduate Texts in Mathematics, New York: Springer-Verlag, ISBN 0387901760
+Arveson, William (1984), Ten Lectures On Operator Algebras, CBMS Regional Conference Series in Mathematics, New York: American Mathematical Society, ISBN 0821807056
+Arveson, William (2002), A Short Course on Spectral Theory, Graduate Texts in Mathematics, New York: Springer-Verlag, ISBN 0387953000
+Arveson, William (2003), Noncommutative dynamics and E-semigroups, Springer Monographs in Mathematics, New York: Springer-Verlag, ISBN 0-387-00151-4, MR 1978577Papers
+
+
+== References ==
+
+
+== External links ==
+Markiewicz, Daniel; Jorgensen, Palle E. T. (August 2015), "William B. Arveson: A Tribute" (PDF), Notices of the American Mathematical Society, Providence, RI: American Mathematical Society, 62 (7): 761–769, doi:10.1090/noti1264
+Directory of operator algebraists
+Bill Arveson's homepage
+William Barnes Arveson at the Mathematics Genealogy Project

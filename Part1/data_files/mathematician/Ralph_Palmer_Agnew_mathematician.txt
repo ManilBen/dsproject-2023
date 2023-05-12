@@ -1,0 +1,9 @@
+Ralph Palmer Agnew (December 29, 1900 — October 16, 1986) was an American mathematician.
+Agnew was born in Poland, Ohio, and did his undergraduate studies at Allegheny College. After completing a master's degree at Iowa State College he moved to Cornell University, where he received a Ph.D. in 1930. He was appointed to the Cornell faculty in 1931. He chaired the mathematics department at Cornell from 1940 to 1950, and was responsible for bringing William Feller and Mark Kac to Cornell.His research concerned summability of series; he also wrote textbooks on calculus and differential equations. One well-known example for dealing with a system of elementary differential equations attributed to Agnew is the "snow plow problem", which is stated as:
+
+It starts snowing in the morning and continues heavily and steadily throughout the day.  A snow-plow starts plowing at noon and plows 2 miles in the first hour, and 1 mile in the second.  What time did it start snowing?
+
+The problem is deceptive for its paucity of information, and requires several common sense assumptions such as the instantaneous velocity of the plow is proportional to the depth of snow immediately in front of it, and there is no maximum or limiting velocity. These are arbitrary, but bear a particular relationship to each other. In the end, they cancel out of the equation and do not appear in the solution, which is a fixed time of day.
+
+
+== References ==

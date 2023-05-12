@@ -1,0 +1,46 @@
+Richard Allen Askey (4 June 1933 – 9 October 2019) was an American mathematician, known for his expertise in the area of special functions. The Askey–Wilson polynomials (introduced by him in 1984 together with James A. Wilson) are on the top level of the (
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+  -)Askey scheme, which organizes orthogonal polynomials of (
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+  -)hypergeometric type into a hierarchy. The Askey–Gasper inequality for Jacobi polynomials is essential in de Brange's famous proof of the Bieberbach conjecture.
+Askey earned a B.A. at Washington University in St. Louis in 1955, an M.A. at Harvard University in 1956, and a Ph.D. at Princeton University in 1961. After working as an instructor at Washington University (1958–1961) and University of Chicago (1961–1963), he joined the faculty of the University of Wisconsin–Madison in 1963 as an Assistant Professor of Mathematics. He became a full professor at Wisconsin in 1968, and since 2003 was a professor emeritus. Askey was a Guggenheim Fellow, 1969–1970, which academic year he spent at the Mathematisch Centrum in Amsterdam.
+In 1983, he gave an invited lecture at the International Congress of Mathematicians (ICM) in Warsaw.
+He was elected a Fellow of the American Academy of Arts and Sciences in 1993.
+In 1999, he was elected to the National Academy of Sciences.
+In 2009, he became a fellow of the Society for Industrial and Applied Mathematics (SIAM).
+In 2012, he became a fellow of the American Mathematical Society.
+In December 2012, he received an honorary doctorate from SASTRA University in Kumbakonam, India.
+Askey explained why hypergeometric functions appear so frequently in mathematical applications: "Riemann showed that the requirement that a differential equation have regular singular points at three given points and every other complex point is a regular point is so strong a restriction that (Riemann's) differential equation is the hypergeometric equation with the three singularities moved to the three given points. Differential equations with four or more singular points only infrequently have a solution which can be given explicitly as a series whose coefficients are known, or have an explicit integral representation. This partly explains why the classical hypergeometric function arises in many settings that seem to have nothing to do with each other. The differential equation they satisfy is the most general one of its kind that has solutions with many nice properties".Askey was also very much involved with commenting and writing on mathematical education at American schools. A well-known article by him on this topic is Good Intentions are not Enough.
+
+
+== Works ==
+Richard Askey (1975), Orthogonal polynomials and special functions, SIAM, ISBN 978-0-89871-018-2, MR 0481145.
+Richard Askey; James Wilson (1985), "Some basic hypergeometric orthogonal polynomials that generalize Jacobi polynomials", Memoirs of the American Mathematical Society, 54 (319): iv+55, doi:10.1090/memo/0319, ISBN 978-0-8218-2321-7, MR 0783216
+George E. Andrews; Richard Askey; Ranjan Roy (1999), "Special functions", Encyclopedia of Mathematics and Its Applications, The University Press, Cambridge.
+
+
+== See also ==
+Askey–Bateman project
+
+
+== References ==
+
+
+== External links ==
+Obituary for Richard Allen "Dick" Askey
+The Askey-scheme of hypergeometric polynomials and its q-analogue by Koekoek & Swarttouw
+Photo gallery on the occasion of Dick Askey's 80th.
+search on author Richard Askey from Google Scholar
+Publications by Richard Askey at ResearchGate

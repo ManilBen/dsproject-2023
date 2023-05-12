@@ -1,0 +1,8 @@
+Carlisle M. Adams is a Canadian cryptographer and computer security researcher. Formerly senior cryptographer at Entrust, he is currently a professor at the University of Ottawa. His notable work includes the design (with Stafford Tavares) of the block ciphers CAST-128 and CAST-256, whose S-boxes are based on the non-linear properties of bent functions. He also helped organize the first Selected Areas in Cryptography (SAC) workshop in 1994. He is also the security advisor of the Ottawa-based electronic signature company Signority.
+
+
+== References ==
+
+
+== External links ==
+Carlisle Adams's page at uOttawa

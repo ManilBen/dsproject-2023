@@ -1,0 +1,31 @@
+Ali Naci Akansu (born May 6, 1958) is a Turkish-American Professor of electrical & computer engineering and scientist in applied mathematics. 
+He is best known for his seminal contributions to the theory and applications of linear subspace methods including sub-band and wavelet transforms, particularly the binomial QMF (also known as Daubechies wavelet) and the multivariate framework to design statistically optimized filter bank (eigen filter bank).
+
+
+== Biography ==
+Akansu received his B.S. degree from the Istanbul Technical University, Turkey, in 1980, his M.S. and PhD degrees from the Polytechnic University (now New York University), Brooklyn, New York, in 1983 and 1987, respectively, all in Electrical Engineering. Since 1987, he has been with the New Jersey Institute of Technology where he is a Professor of Electrical and Computer Engineering. He was a Visiting Professor at Courant Institute of Mathematical Sciences of the New York University, 2009–2010.
+In 1990, he showed that the binomial quadrature mirror filter bank (binomial QMF) is identical to the Daubechies wavelet filter, and interpreted and evaluated its performance from a discrete-time signal processing perspective.  It was an extension of his prior work on Binomial coefficient and Hermite polynomials wherein he developed the Modified Hermite Transformation (MHT) in 1987. The magnitude square functions of Binomial-QMF filters are the unique maximally flat functions in a two-band PR-QMF design formulation. He organized the first wavelet conference in the United States at NJIT in April 1990, and, then in 1992 and 1994. He published the first wavelet-related engineering book in the literature entitled Multiresolution Signal Decomposition: Transforms, Subbands and Wavelets in 1992.He made contributions in the areas of optimal filter banks, nonlinear phase extensions of discrete Walsh-Hadamard transform and discrete Fourier transform, principal component analysis of first-order autoregressive process, sparse approximation, digital watermarking, financial signal processing and quantitative finance.  His publications include the books A Primer for Financial Engineering: Financial Signal Processing and Electronic Trading and Financial Signal Processing and Machine Learning.He was a founding director of the New Jersey Center for Multimedia Research (NJCMR), 1996–2000, and NSF Industry-University Cooperative Research Center (IUCRC) for Digital Video, 1998–2000.  He was the vice president for research and development of the IDT Corporation, 2000–2001, the founding president and CEO of PixWave, Inc. (an IDT Entertainment subsidiary) that has built the technology for secure peer-to-peer video distribution over the Internet. He was an academic visitor at David Sarnoff Research Center (Sarnoff Corporation), at IBM's Thomas J. Watson Research Center, and at Marconi Electronic Systems.
+He is an IEEE Fellow (since 2008) with the citation for contributions to optimal design of transforms and filter banks for communications and multimedia security.According to the Mathematics Genealogy Project, as of May 2022, Akansu had a total of 24 doctorate students.
+
+
+== Selected works ==
+Akansu, Ali N.; Haddad, Richard A. (1992), Multiresolution Signal Decomposition: Transforms, Subbands, and Wavelets, Boston, MA: Academic Press, ISBN 978-0-12-047141-6
+Akansu, Ali N.; Smith, Mark J. T. (1996), Subband and Wavelet Transforms: Design and Applications, Boston: Kluwer Academic Publishers, ISBN 978-0-7923-9645-1
+Akansu, Ali N.; Medley, Michael J. (1999), Wavelet, Subband, and Block Transforms in Communications and Multimedia, Boston: Kluwer Academic Publishers, ISBN 978-0-7923-8507-3
+Sencar, Husrev T.; Mahalingam Ramkumar; Akansu, Ali N. (2004), Data Hiding Fundamentals and Applications: Content Security in Digital Multimedia, Boston, MA: Academic Press, ISBN 978-0-12-047144-7
+Akansu, Ali N.; Torun, Mustafa U. (2015), A Primer for Financial Engineering: Financial Signal Processing and Electronic Trading, Boston, MA: Academic Press, ISBN 978-0-12-801561-2
+Akansu, Ali N.; Kulkarni, Sanjeev R.; Malioutov, Dmitry M. (2016), Financial Signal Processing and Machine Learning, Hoboken, NJ: Wiley-IEEE Press, ISBN 978-1-118-74567-0
+
+
+== References ==
+
+
+== External links ==
+Ali Akansu's home page
+Ali Akansu at the Mathematics Genealogy Project
+Generalized Discrete Fourier Transform (GDFT) with Non-linear Phase Functions
+Binomial-QMF Daubechies Wavelets
+NJIT Symposia on Subbands and Wavelets 1990, 1992, 1994, 1997
+IDT Entertainment Sold to Liberty Media for 186 Million and Interest in IDT
+Starz Distribution
+A Disgusted CEO Is A Good CEO, Says New Study (At Least For Shareholders)

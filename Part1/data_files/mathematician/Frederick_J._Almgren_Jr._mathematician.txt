@@ -1,0 +1,55 @@
+Frederick Justin Almgren Jr. (July 3, 1933, in Birmingham, Alabama – February 5, 1997, in Princeton, New Jersey) was an American mathematician working in geometric measure theory.
+He received a Guggenheim Fellowship in 1974.  Between 1963 and 1992 he was a frequent visiting scholar at the Institute for Advanced Study in Princeton.He wrote one of the longest papers in mathematics, proving what is now called the Almgren regularity theorem: the singular set of an m-dimensional mass-minimizing surface has dimension at most m−2. He also developed the concept of varifold, first defined by L. C. Young in (Young 1951), and proposed them as generalized solutions to Plateau's problem in order to deal with the problem even when a concept of orientation is missing. He played also an important role in the founding of The Geometry Center.
+He was a student of Herbert Federer, one of the founders of geometric measure theory, and was the advisor and husband (as his second wife) of Jean Taylor.
+His daughter, Ann S. Almgren, is an applied mathematician who works on computational simulations in astrophysics. His son, Robert F. Almgren, is an applied mathematician working on market microstructure and trade execution.
+
+
+== Selected publications ==
+Almgren, Frederick J. Jr. (1964), The theory of varifolds: A variational calculus in the large for the 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -dimensional area integrand, Princeton: Institute for Advanced Study. A set of mimeographed notes in which Frederick J. Almgren Jr. introduces the term "varifold" for the first time.
+Almgren, Frederick J. Jr. (1966), Plateau's Problem: An Invitation to Varifold Geometry, Mathematics Monographs Series (1st ed.), New York–Amsterdam: W. A. Benjamin, Inc., pp. XII+74, MR 0190856, Zbl 0165.13201. The first widely circulated book describing the concept of a varifold and its applications to the Plateau's problem.
+Almgren, Frederick J. Jr. (1999),  Taylor, Jean E. (ed.), Selected works of Frederick J. Almgren, Jr., Collected Works, vol. 13, Providence, R.I.: American Mathematical Society, ISBN 978-0-8218-1067-5, MR 1747253, Zbl 0966.01031.
+Almgren, Frederick J. Jr. (2000),  Taylor, Jean E.; Scheffer, Vladimir (eds.), Almgren's big regularity paper. Q-valued functions minimizing Dirichlet's integral and the regularity of area-minimizing rectifiable currents up to codimension 2, World Scientific Monograph Series in Mathematics, vol. 1, River Edge, NJ: World Scientific Publishing Co. Inc., ISBN 978-981-02-4108-7, MR 1777737, Zbl 0985.49001.
+Almgren, Frederick J. Jr. (2001) [1966], Plateau's Problem: An Invitation to Varifold Geometry, Student Mathematical Library, vol. 13 (2nd ed.), Providence, RI: American Mathematical Society, pp. xvi, 78, ISBN 978-0-8218-2747-5, MR 1853442, Zbl 0995.49001. The second edition of the book (Almgren 1966).
+
+
+== Notes ==
+
+
+== References ==
+
+
+=== Biographical references ===
+Mitchell, Janet A., ed. (1980), A Community of Scholars. Faculty and Members 1930-1980 (PDF), Princeton, New Jersey: The Institute for Advanced Study, pp. xxii+565, archived from the original (PDF) on 2017-11-07, retrieved 2015-07-04.
+The New York Times, Obituary (February 8, 1997), "Frederick J. Almgren Jr., 63, Math Professor", The New York Times, retrieved June 20, 2011.
+The Institute for Advanced Study (2012), "Almgren, Frederick J. Jr.", A Community of Scholars, retrieved 4 July 2015.
+
+
+=== General references ===
+Lieb, Elliott H.; Taylor, Jean; Morgan, Frank; Sullivan, John; Almgren, Robert; Kusner, Robert; Marden, Albert (1997),  Epstein, David (ed.), "In Memoriam Frederick J. Almgren Jr., 1933–1997", Experimental Mathematics, 6 (1): 1–12, doi:10.1080/10586458.1997.10504341, MR 1464578, Zbl 0883.01029.
+Mackenzie, Dana (1997), "Fred Almgren (1933–1997): lover of mathematics, family, and life's adventures", Notices of the American Mathematical Society, 44 (9): 1102–1106, ISSN 0002-9920, MR 1470170, Zbl 0908.01016.
+White, Brian (1997), "The Mathematics of F. J. Almgren Jr.", Notices of the American Mathematical Society, 44 (11): 1451–1456, ISSN 0002-9920, MR 1488574, Zbl 0908.01017.
+White, Brian (1998), "The mathematics of F. J. Almgren, Jr.", The Journal of Geometric Analysis, 8 (5): 681–702, doi:10.1007/BF02922665, ISSN 1050-6926, MR 1731057, S2CID 122083638, Zbl 0955.01020.
+
+
+=== Scientific references ===
+Young, L. C. (1951), "Surfaces paramétriques généralisées", Bulletin de la Société Mathématique de France, 79: 59–84, doi:10.24033/bsmf.1419, MR 0046421, Zbl 0044.10203.
+De Giorgi, Ennio (1968), "Hypersurfaces of minimal measure in pluridimensional euclidean spaces" (PDF),  in Petrovsky, I. G. (ed.), Trudy Mezhdunarodnogo kongressa matematikov. Proceedings of International Congress of Mathematicians (Moscow−1966), ICM Proceedings, Moscow: Mir Publishers, pp. 395−401, MR 0234329, Zbl 0188.17503.
+
+
+== See also ==
+Almgren regularity theorem
+Almgren–Pitts min-max theory
+Almgren Isomorphism Theorem
+
+
+== External links ==
+O'Connor, John J.; Robertson, Edmund F., "Frederick J. Almgren Jr.", MacTutor History of Mathematics archive, University of St Andrews
+Frederick J. Almgren Jr. at the Mathematics Genealogy Project

@@ -1,0 +1,9 @@
+Sigurd Bernardus Angenent (born 1960) is a Dutch-born mathematician and professor at the University of Wisconsin–Madison. Angenent works on partial differential equations and dynamical systems, with his recent research focusing on heat equation and diffusion equation. The Angenent torus and Angenent ovals are special solutions to the mean curvature flow published by Angenent in 1992; the Angenent torus remains self-similar as it collapses to a point under the flow, and the Angenent ovals are the only compact convex ancient solutions other than circles for the curve-shortening flow.Angenent was raised in Haarlem, the Netherlands. He obtained his PhD in Mathematics from Leiden University in 1986. In 1996 Angenent became a correspondent of the Royal Netherlands Academy of Arts and Sciences.At the University of Wisconsin–Madison he is director of the Undergraduate Mathematics Program. After becoming frustrated with high prices of textbooks and poor quality he wrote and made available his own notes for all classes.
+
+
+== References ==
+
+
+== External links ==
+Profile at the Mathematics Genealogy Project
+Profile at University of Wisconsin–Madison

@@ -1,0 +1,31 @@
+Luigi Ambrosio (born 27 January 1963) is a professor at Scuola Normale Superiore in Pisa, Italy. His main fields of research are the calculus of variations and geometric measure theory.
+
+
+== Biography ==
+Ambrosio entered the Scuola Normale Superiore di Pisa in 1981. He obtained his degree under the guidance of Ennio de Giorgi in 1985 at University of Pisa, and the Diploma at Scuola Normale. He obtained his PhD in 1988.
+He is currently professor at the Scuola Normale, having taught previously at the University of Rome "Tor Vergata", the University of Pisa, and the University of Pavia. Ambrosio also taught and conducted research at the Massachusetts Institute of Technology, the ETH in Zurich, and the Max Planck Institute for Mathematics in the Sciences in Leipzig.
+He is the Managing Editor of the scientific journal Calculus of Variations and Partial Differential Equations, and member of the editorial boards of scientific journals.
+Since May 9, 2019 Ambrosio is the director of the Scuola Normale Superiore di Pisa.
+
+
+== Awards ==
+In 1998 Ambrosio won the Caccioppoli Prize of the Italian Mathematical Union. In 2002 he was invited speaker at the International Congress of Mathematicians in Beijing and in 2003 he has been awarded with the Fermat Prize. From 2005 he is a corresponding member of Accademia Nazionale dei Lincei. Ambrosio is listed as an ISI highly cited researcher. In 2018 he was a plenary speaker at the International Congress of Mathematicians in Rio de Janeiro. In 2019 he received the Balzan Prize in Mathematics (Theory of Partial Differential Equations).
+
+
+== Selected publications ==
+Ambrosio, Luigi (16 February 2015). "A compactness theorem for a new class of functions of bounded variation". Bollettino dell'unione Matematica Italiana B (in Italian). 3: 857–881. hdl:11384/1663. ISSN 0392-4041. Retrieved 22 November 2022.
+De Giorgi, E.; Ambrosio, L. (1989). "New Functionals in Calculus of Variations". Nonsmooth Optimization and Related Topics. Boston, MA: Springer US. doi:10.1007/978-1-4757-6019-4_4. ISBN 978-1-4757-6021-7.
+Ambrosio, L. (1990). "Existence theory for a new class of variational problems". Archive for Rational Mechanics and Analysis. Springer Science and Business Media LLC. 111 (4): 291–322. doi:10.1007/bf00376024. hdl:1721.1/3106. ISSN 0003-9527. S2CID 10494974.
+Ambrosio, Luigi; Fusco, Nicola; Pallara, Diego (2000). Functions of bounded variation and free discontinuity problems. Oxford: Clarendon Press. ISBN 0-19-850245-1. OCLC 42295898.
+Ambrosio, Luigi; Kirchheim, Bernd (2000). "Currents in metric spaces". Acta Mathematica. International Press of Boston. 185 (1): 1–80. doi:10.1007/bf02392711. ISSN 0001-5962. S2CID 15755603.
+Ambrosio, Luigi; Gigli, Nicola; Savaré, Giuseppe (2005). Gradient flows : in metric spaces and in the space of probability measures. Boston: Birkhäuser. ISBN 3-7643-2428-7. OCLC 228393801.
+Luigi Ambrosio; Edward Norman Dancer; Giuseppe Buttazzo; A. Marino; M. K. Venkatesha Murthy, eds. (2000). Calculus of variations and partial differential equations. Springer. ISBN 978-3-540-64803-1.
+Ambrosio, Luigi; Mascolo, Elvira; Dacorogna, Bernard; Marcellini, Paolo; Centro internazionale matematico estivo (2008). Calculus of variations and nonlinear partial differential equations : lectures given at the C.I.M.E. Summer School held in Cetraro, Italy, June 27-July 2, 2005. Berlin: Springer. ISBN 978-3-540-75913-3. OCLC 233973622.
+
+
+== References ==
+
+
+== External links ==
+Site of Caccioppoli Prize Archived 2019-05-14 at the Wayback Machine
+Luigi Ambrosio at the Mathematics Genealogy Project

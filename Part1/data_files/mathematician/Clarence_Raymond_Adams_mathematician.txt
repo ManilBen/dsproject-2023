@@ -1,0 +1,19 @@
+Clarence Raymond Adams (April 10, 1898 – October 15, 1965) was an American mathematician who worked on partial difference equations.
+He entered Brown University in the fall of 1915 and graduated in 1918. Adams received his PhD in 1922 from Harvard University under the direction of G. D. Birkhoff. On August 17, 1922, he married Rachel Blodgett, who earned a PhD from Radcliffe College in 1921. As a Sheldon Traveling Fellow of Harvard University, he studied at the Sapienza University of Rome under Tullio Levi-Civita and at the University of Göttingen under Richard Courant. In 1923 Adams returned to Brown University as an instructor, then became a full professor in 1936 and eventually chair of the mathematics department from 1942 to 1960. In 1965 he retired and died on October 15 of that same year.
+
+
+== Publications ==
+Adams, C. Raymond (1924). "The general theory of a class of linear partial q-difference equations". Trans. Amer. Math. Soc. 26 (3): 283–312. doi:10.1090/s0002-9947-1924-1501279-2.
+"On the linear ordinary q-difference equations". Ann. Math. 30: 195–205. 1929.
+Adams, C. Raymond (1929). "On the linear partial q-difference equations of general type". Trans. Amer. Math. Soc. 31 (2): 360–371. doi:10.1090/s0002-9947-1929-1501487-5.
+Adams, C. R. (1931). "Linear q-difference equations". Bull. Amer. Math. Soc. 37 (6): 361–400. doi:10.1090/s0002-9904-1931-05162-4. MR 1562160.
+Adams, C. R. (1931). "Transformations of double sequences with application to Cesàro summability of double series". Bull. Amer. Math. Soc. 37 (10): 741–748. doi:10.1090/s0002-9904-1931-05258-7. MR 1562249.
+
+
+== References ==
+
+
+== External links ==
+Clarence Raymond Adams at the Mathematics Genealogy Project
+Author profile in the database zbMATH
+ Media related to Clarence Raymond Adams (mathematician) at Wikimedia Commons

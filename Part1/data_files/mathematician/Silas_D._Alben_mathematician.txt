@@ -1,0 +1,24 @@
+Silas D. Alben is an American mathematician.  His is Professor of Mathematics and Director of the Applied and Interdisciplinary Mathematics Program at the University of Michigan. His research addresses problems from biology (especially biomechanics) and engineering  that can be studied with the tools of applied mathematics and continuum mechanics.
+
+
+== Biography ==
+
+
+=== Education ===
+Silas Alben attended Harvard College where he received in 1999 A.B. degrees in Mathematics and Physics, magna cum laude.  In 2000, he joined the Courant Institute of Mathematical Sciences at New York University, where he received a Ph.D. in Mathematics in 2004. His thesis Drag Reduction by Self-Similar Bending and a Transition to Forward Flight by a Symmetry-Breaking Instability was advised by Michael Shelley.
+
+
+== Research ==
+Alben's research focuses on problems arising in biomechanics,  material science, and fluid mechanics. As a graduate student at NYU, Alben worked with Jun Zhang and Michael Shelley in investigating the dynamics of flexible structures and how such structures can become more aerodynamic by altering their shape. In this study, experiments visualized a short glass fiber deforming in fluid flow, and analysis showed how the fiber can reduce the drag force exerted by the fluid by changing its shape. This work was published 2002 in Nature under the title Drag Reduction Through Self-Similar Bending of a Flexible Body, and was the subject of various news articles in periodicals including The New York Times and others. As a Postdoctoral Fellow at Harvard, Alben collaborated with Ernst A. van Nierop and Michael P. Brenner in a paper titled "How Bumps on Whale Flippers Delay Stall: An Aerodynamic Model". The paper gave a mathematical model for this hydrodynamic phenomenon. This result, featured in MIT's Technology Review and Nature, provides a theoretical basis for potential improvements in using bumps for more stable airplanes, more agile submarines, and more efficient turbine blades. In 2007, Alben investigated (with Michael P. Brenner) the self-assembly of a 3D structures from flat, elastic sheets. This experiment, featured on New Scientist, presented a new technique in nano construction; previously, the transformation of flat sheets to 3D structures were performed by random formation, but in this study, the addition of biases into the design of the sheets gave the possibility of predicting the resulting shape.
+
+
+== Honors and awards ==
+Alfred P. Sloan Foundation Research Fellow (2011)
+
+
+== References ==
+
+
+== External links ==
+Homepage
+U Michigan faculty profile

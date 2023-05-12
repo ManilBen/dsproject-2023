@@ -1,0 +1,20 @@
+Martin Aigner (born February 28, 1942 in Linz) is an Austrian mathematician and professor at Freie Universität Berlin since 1974 with interests in combinatorial mathematics and graph theory.He received his Ph.D from the University of Vienna. His book Proofs from THE BOOK (co-written with Günter M. Ziegler) has been translated into 12 languages.He is a recipient of a 1996 Lester R. Ford Award from the Mathematical Association of America for his expository article Turán's Graph Theorem. In 2018, Aigner received the Leroy P. Steele Prize for Mathematical Exposition (jointly with Günter M. Ziegler).
+
+
+== Bibliography ==
+Combinatorial Theory (1997 reprint: ISBN 3-540-61787-6, 1979: ISBN 3-540-90376-3; )
+(with Günter M. Ziegler) Proofs from THE BOOKAigner, Martin (2001). Proofs from the book. Günter M. Ziegler (2nd ed.). Berlin: Springer. ISBN 3-540-67865-4. OCLC 45223567.
+Aigner, Martin (2004). Das Buch der Beweise [Proofs from the book] (in German). Günter M. Ziegler (2., Aufl ed.). Berlin. ISBN 978-3-540-40185-8. OCLC 76595936.
+A Course in Enumeration, 2007, ISBN 3-540-39032-4
+Aigner, Martin (2007). Discrete mathematics. Providence, R.I.: American Mathematical Society. ISBN 978-0-8218-4151-8. OCLC 76821172.
+Mathematics Everywhere. Martin Aigner (Author, Editor), Ehrhard Behrends (Editor), 2010
+Alles Mathematik: Von Pythagoras zum CD-player,  by Martin Aigner, Ehrhard Behrends, 2008, ISBN 3-8348-0416-9
+Combinatorial search. Teubner, Stuttgart 1988, ISBN 3-519-02109-9
+Graphentheorie. Eine Entwicklung aus dem 4-Farben-Problem. Teubner, Stuttgart 1984, ISBN 3-519-02068-8
+Diskrete Mathematik. Mit über 500 Übungsaufgaben.
+Vieweg, Braunschweig/Wiesbaden 1993, ISBN 3-528-07268-7,
+corrected edition 12006, ISBN 3-8348-0084-8
+Aigner, Martin (2013). Markov's theorem and 100 years of the uniqueness conjecture : a mathematical journey from irrational numbers to perfect matchings. Cham: Springer. ISBN 978-3-319-00888-2. OCLC 853659945.
+
+
+== References ==

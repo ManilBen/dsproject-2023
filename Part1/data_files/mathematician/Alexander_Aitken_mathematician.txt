@@ -1,0 +1,46 @@
+Alexander Craig "Alec" Aitken   (1 April 1895 – 3 November 1967) was one of New Zealand's most eminent mathematicians. In a 1935 paper he introduced the concept of generalized least squares, along with now standard vector/matrix notation for the linear regression model. Another influential paper co-authored with his student Harold Silverstone established the lower bound on the variance of an estimator, now known as Cramér–Rao bound. He was elected to the Royal Society of Literature for his World War I memoir, Gallipoli to the Somme.
+
+
+== Life and work ==
+Aitken was born on 1 April 1895 in Dunedin, the eldest of the seven children of  Elizabeth Towers and William Aitken. He was of Scottish descent, his grandfather having emigrated from Lanarkshire in 1868. His mother was from Wolverhampton.He was educated at Otago Boys' High School in Dunedin (1908–13) where he was school dux and won the Thomas Baker Calculus Scholarship in his last year at school. He saw active service during World War I enlisting in April 1915 with the New Zealand Expeditionary Force, and serving in Gallipoli from November 1915, in Egypt, and at the Western Front. He was seriously wounded at the Somme. He spent several months in hospital in Chelsea before being invalided out of the army and shipped home to New Zealand in March 1917.Resuming his studies Aitken graduated with an MA degree from the University of Otago in 1920, then worked as a schoolmaster at Otago Boys' High School from 1920 to 1923.
+Aitken studied for a doctorate (PhD) at the University of Edinburgh, in Scotland, under Edmund Taylor Whittaker where his dissertation, "Smoothing of Data", was considered so impressive that he was awarded a DSc degree in 1925. Aitken's impact at the university had been so great that he had been elected a Fellow of the Royal Society of Edinburgh (FRSE) the year before the award of his degree, upon the proposal of Sir Edmund Whittaker, Sir Charles Galton Darwin, Edward Copson and David Gibb. Aitken was awarded the Makdougall-Brisbane Prize for 1930–32, and was active in the affairs of the RSE, serving as Councillor (1934–36), Secretary to Ordinary Meetings (1936–40), and vice-president (1948–51; 1956–59). He was also an active member of the Edinburgh Mathematical Society and a Fellow of the Faculty of Actuaries.
+Aitken spent his entire career at the University of Edinburgh, working as lecturer in Actuarial Mathematics & Statistics (1925–36), Reader in Statistics (1936–46), and finally Professor of Mathematics (1946–65).
+During World War II he worked in Hut 6 Bletchley Park decrypting ENIGMA code.Aitken was one of the best mental calculators known, and had a prodigious memory. This ability was researched by the psychologist Ian M.L. Hunter. He knew the first 1000 digits of 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+  , the 96 recurring digits of 1/97, and memorised the Aeneid in high school. However, his inability to forget the horrors he witnessed in World War I led to recurrent depression throughout his life.Aitken was elected a Fellow of the Royal Society (FRS) in 1936 and an Honorary Fellow of the Royal Society of New Zealand (Hon FRSNZ) in 1940, both for his work in statistics, algebra and numerical analysis. He was an accomplished writer, being elected a Fellow of the Royal Society of Literature (FRSL) in 1964 in response to the publication of his war memoirs, Gallipoli to the Somme. His book was the basis of an oratorio of the same name by the New Zealand composer Anthony Ritchie. He was also an excellent musician, being described by Eric Fenby as the most accomplished amateur musician he had ever known, and was a champion athlete in his younger days.
+
+
+== Awards and honours ==
+The New Zealand Mathematical Society and London Mathematical Society Aitken Lectureship occurs every two years (in odd-numbered years) when a mathematician from New Zealand is invited by both Societies to give lectures at different universities around the UK over a period of several weeks. The holders of Aitken Lectureship have been
+
+Geoff Whittle (2011)
+Robert Mclachlan (2013)
+Steven Galbraith (2015)
+Hinke Osinga (2017)
+Bakhadyr Khoussainov (2019)An annual "Aitken Prize" is awarded by the New Zealand Mathematical Society for the best student talk at their colloquium. The prize was inaugurated in 1995 at the University of Otago's Aitken Centenary Conference, a joint mathematics and statistics conference held to remember Aitken 100 years after his birth.
+
+
+== Personal life ==
+He married Winifred Betts, a lecturer in biology and the first female lecturer appointed to the University of Otago, in 1920. They had a daughter and a son. Aitken died on 3 November 1967, in Edinburgh.
+
+
+== References ==
+
+
+== Further reading ==
+I. M. L. Hunter, An exceptional talent for calculative thinking, British Journal of Psychology 53 (3) (1962), 243–258.
+New Zealand Mathematical Society Newsletter, Number 63, April 1995 (Centerfold)
+NZ Heroes page on Aitken
+A.C. Aitken (1895–1967), P.C. Fenton, Gazette of the Australian Mathematical Society, March 1995
+Alexander Aitken, Econometrics Beat: Dave Giles' Blog
+Times obituary
+Royal Society citation
+Aitken prize
+Transcript of 1954 radio interview with Aitken and another mental calculator
+Video footage of Aitken decimalising 19/23

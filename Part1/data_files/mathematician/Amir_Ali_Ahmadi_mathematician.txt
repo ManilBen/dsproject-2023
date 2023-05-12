@@ -1,0 +1,16 @@
+Amir Ali Ahmadi is a professor in the Department of Operations Research and Financial Engineering at Princeton University. He is primarily known for his work on mathematical optimization.
+
+
+== Biography ==
+Ahmadi obtained a B.S. in both mathematics and electrical engineering at the University of Maryland in 2006. He then received his M.S. and PhD from the Massachusetts Institute of Technology in 2008 and 2011 respectively, where he was supervised by Pablo Parrilo. After this, he spent a year in the Robot Locomotion Group at MIT as a postdoctoral fellow before joining the IBM Watson Research Center in 2012 as a Herman Goldstine Fellow. He is now professor in the department of Operations Research and Financial Engineering at Princeton University.
+
+
+== Honors and awards ==
+Ahmadi's work is mostly in optimization. In his thesis, he answered a 20-year-old open problem posed by N. Z. Shor. For this contribution and other contributions to the study of the computational aspects of convexity, he and his co-authors received the 2012 INFORMS Computing Society Prize. He is also the recipient of the 2017 Sloan Research Fellowship in Computer Science and 2019 Presidential Early Career Award for Scientists and Engineers.
+
+
+== References ==
+
+
+== External links ==
+Amir Ali Ahmadi's professional home page

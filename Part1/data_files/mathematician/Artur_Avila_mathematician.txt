@@ -1,0 +1,64 @@
+Artur Avila Cordeiro de Melo (born 29 June 1979) is a Brazilian and naturalized French mathematician working primarily in the fields of dynamical systems and spectral theory. He is one of the winners of the 2014 Fields Medal, being the first Latin American and lusophone to win such an award. He has been a researcher at both the IMPA and the CNRS (working a half-year in each one). He has been a professor at the University of Zurich since September 2018.
+
+
+== Biography ==
+At the age of 16, Avila won a gold medal at the 1995 International Mathematical Olympiad and received a scholarship for the Instituto Nacional de Matemática Pura e Aplicada (IMPA) to start a M.S. degree while still attending high school in Colégio de São Bento and Colégio Santo Agostinho in Rio de Janeiro. He completed his M.S. degree in 1997. Later he enrolled in the Federal University of Rio de Janeiro (UFRJ), earning his B.S in mathematics.At the age of 19, Avila began writing his doctoral thesis on the theory of dynamical systems. In 2001 he finished it and received his PhD from IMPA. That same year he moved abroad to France to do postdoctoral research. He works with one-dimensional dynamics and holomorphic functions. Since 2003 he has worked as a researcher for the Centre National de la Recherche Scientifique (CNRS) in France, later becoming a research director in 2008. His post-doctoral supervisor was Jean-Christophe Yoccoz.
+
+
+== Mathematical work ==
+Much of Artur Avila's work has been in the field of dynamical systems. In March 2005, at age 26, Avila and Svetlana Jitomirskaya proved the "conjecture of the ten martinis," a problem proposed by the American mathematical physicist Barry Simon. Mark Kac promised a reward of ten martinis to whoever solved the problem: whether or not the spectrum of a particular type of operator is a Cantor set, given certain conditions on its parameters. The problem had been unsolved for 25 years when Avila and Jitomirskaya answered it affirmatively. Later that year, Avila and Marcelo Viana proved the Zorich–Kontsevich conjecture that the non-trivial Lyapunov exponents of the Teichmüller flow on the moduli space of Abelian differentials on compact Riemann surfaces are all distinct.
+
+
+== Honours and recognition ==
+
+Later, as a research mathematician, he received in 2006 a CNRS Bronze Medal as well as the Salem Prize, and was a Clay Research Fellow. He became the youngest professorial fellow (directeur de recherches) at the CNRS in 2008. The same year, he was awarded one of the ten prestigious European Mathematical Society prizes, and in 2009 he won the Grand Prix Jacques Herbrand from the French Academy of Sciences. In 2017 he gave the Łojasiewicz Lecture (on the "One-frequency Schrödinger operators and the almost reducibility conjecture") at the Jagiellonian University in Kraków.He was a plenary speaker at the International Congress of Mathematicians in 2010.
+In 2011, he was awarded the Michael Brin Prize in Dynamical Systems.  He received the Early Career Award from the International Association of Mathematical Physics in 2012, TWAS Prize in 2013 and the Fields Medal in 2014.He was elected a foreign associate of the US National Academy of Sciences in April 2019.Avila is a member of World Minds.
+
+
+=== Diplomas, titles and awards ===
+1993: Gold medal at the Olimpíada Brasileira de Matemática, Brazil
+1994: Gold medal at the Olimpíada Brasileira de Matemática, Brazil
+1995: Gold medal at the Olimpíada Brasileira de Matemática, Brazil
+1995: Gold medal at the International Mathematical Olympiad, Canada
+2001: PhD Thesis (advisor Welington de Melo)
+2005: Cours Peccot at the Collège de France
+2006: Invited address at the ICMP
+2006: Bronze medal of the CNRS
+2006: Salem Prize
+2008: Wolff Memorial Lectures, Caltech
+2008: Invited address at the European Congress of Mathematics
+2008: European Mathematical Society Prize
+2009: Grand Prix Jacques Herbrand of the French Academy of Sciences
+2010: Porter Lectures, Rice University
+2010: Plenary address at the International Congress of Mathematicians
+2011: Blyth Lecture Series by the University of Toronto
+2011: Michael Brin Prize in Dynamical Systems
+2012: International Association of Mathematical Physics Early Career Award
+2013: Prize of the Brazilian Mathematical Society
+2013: TWAS Prize
+2014: Bellow Lectures by the Northwestern University
+2014: Fields Medal
+2015: TWAS-Lenovo Science Prize
+2017: Łojasiewicz Lecture by the Jagiellonian University: One-frequency Schrödinger operators and the almost reducibility conjecture
+
+
+=== Extra-academic distinctions ===
+2013: Member of the Brazilian Academy of Sciences
+2015: Knight of the Legion of Honor
+2019: Foreign associates of the National Academy of Sciences
+
+
+== References ==
+
+
+== Further reading ==
+Lin, Thomas; Klarreich, Erica (12 August 2014). "A Brazilian Wunderkind Who Calms Chaos". Quanta Magazine.
+Moreira Salles, João. "Artur has a problem" (translated from the Portuguese by F. Thomson-Deveaux). Piauí Magazine.
+Interview with Artur Avila Chalkdust Magazine
+
+
+== External links ==
+Artur Avila's page at University of Zurich
+Artur Avila at the Mathematics Genealogy Project
+Artur Avila's results at International Mathematical Olympiad Outdated linksArtur Avila's Lattes Platform
+Claymath fellow page

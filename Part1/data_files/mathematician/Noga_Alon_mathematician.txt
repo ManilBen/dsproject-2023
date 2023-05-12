@@ -1,0 +1,57 @@
+Noga Alon (Hebrew: נוגה אלון; born 17 February 1956) is an Israeli mathematician and a professor of mathematics at Princeton University noted for his contributions to combinatorics and theoretical computer science, having authored hundreds of papers.
+
+
+== Academic background ==
+Alon is a Professor of Mathematics at Princeton University and a Baumritter Professor Emeritus of Mathematics and Computer Science at Tel Aviv University, Israel. He graduated from the Hebrew Reali School in 1974 and received his Ph.D. in Mathematics at the Hebrew University of Jerusalem in 1983 and had visiting positions in various research institutes including MIT, The Institute for Advanced Study in Princeton, IBM Almaden Research Center, Bell Labs, Bellcore and Microsoft Research. He serves on the editorial boards of more than a dozen international journals; since 2008 he is the editor-in-chief of Random Structures and Algorithms. He has given lectures in many conferences, including plenary addresses in the 1996 European Congress of Mathematics and in the 2002 International Congress of Mathematicians, the 2009   Turán Memorial Lectures, and a lecture in the 1990 International Congress of Mathematicians.
+
+
+== Research ==
+Alon has published more than five hundred research papers, mostly in combinatorics and in theoretical computer science, and one book. He has also published under the pseudonym "A. Nilli".
+Alon is the principal founder of the Combinatorial Nullstellensatz which has many applications in combinatorics and number theory.
+
+
+== Selected works ==
+
+
+=== Books ===
+1992. The Probabilistic Method. (with Joel Spencer)  Wiley.Alon, Noga (2000). The probabilistic method. Wiley Series in Discrete Mathematics and Optimization. Joel H. Spencer (2nd ed.). New York: Wiley. ISBN 0-471-37046-0. OCLC 85820345.
+Alon, Noga (2008). The probabilistic method. Wiley Series in Discrete Mathematics and Optimization. Joel H. Spencer (3rd ed.). Hoboken, N.J.: Wiley. ISBN 978-0-470-17020-5. OCLC 173809124.
+Alon, Noga (2016). The probabilistic method. Wiley Series in Discrete Mathematics and Optimization. Joel H. Spencer (Fourth ed.). Hoboken, New Jersey: Wiley. ISBN 978-1-119-06195-3. OCLC 910535517.
+
+
+=== Articles ===
+1996. The space complexity of approximating the frequency moments. (with Yossi Matias and Mario Szegedy) ACM STOC '96.won their Gödel Prize in 2005.1987. The monotone circuit complexity of Boolean functions. (with Ravi B Boppana). Combinatorica 1987, Volume 7, Issue 1
+1986. Eigenvalues and expanders. Combinatorica 1986, Volume 6, Issue 2.
+
+
+== Awards ==
+Alon has received a number of awards, including the following:
+
+1989 – Erdős Prize;
+1991 – Feher Prize;
+2000 – Pólya Prize;
+2001 – Bruno Memorial Award;
+2005 – Landau Prize;
+2005 – Gödel Prize (with Yossi Matias and Mario Szegedy); for their foundational contribution to streaming algorithms.
+2008 – Israel Prize, for mathematics.
+2011 – EMET Prize, for mathematics.
+2021 – Leroy P. Steele Prize for Mathematical Exposition (jointly with Joel Spencer).
+2022 – Shaw Prize in Mathematical Sciences
+2022 – Knuth PrizeIn addition, Alon has been a member of the Israel Academy of Sciences and Humanities since 1997. In 2015 he was elected as a fellow of the American Mathematical Society and gave the Łojasiewicz Lecture (on the "Signrank and its applications in combinatorics and complexity") at the Jagiellonian University in Kraków. In 2017 he became a Fellow of the Association for Computing Machinery.
+
+
+== See also ==
+Necklace splitting problem
+Color-coding
+List of Israel Prize recipients
+Alon–Boppana bound
+
+
+== References ==
+
+
+== External links ==
+Noga Alon's home page
+Noga Alon at the Mathematics Genealogy Project
+Author profile in the database zbMATH
+Noga Alon publications indexed by Google Scholar h-index is 109 (As of 2022).

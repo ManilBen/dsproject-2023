@@ -1,0 +1,18 @@
+Roy Lee Adler (February 22, 1931 – July 26, 2016) was an American mathematician.
+Adler earned his Ph.D. in 1961 from Yale University under the supervision of Shizuo Kakutani (On some algebraic aspects of measure preserving transformations). He then worked as a mathematician for IBM at the Thomas J. Watson Research Center.
+Adler studies dynamical systems, ergodic theory, symbolic and topological dynamics and coding theory. The road coloring problem that was solved by Avraham Trakhtman in 2007 came from him, along with L. W. Goodwyn and Benjamin Weiss.
+He was a fellow of the American Mathematical Society. A paper was written on his work and the impact of his work by Bruce Kitchens and others.
+
+
+== Writings ==
+With Brian Marcus: Topological entropy and equivalence of dynamical systems. Memoirs of the American Mathematical Society. 20 (1979), no 219.
+With Benjamin Weiss: Similarity of automorphisms of the torus, Memoirs of the American Mathematical Society (1970), no 98.
+Symbolic dynamics and Markov partitions, Bulletin of the American Mathematical Society. 35 (1998), no 1, 1–57.
+With L. Wayne Goodwyn and Benjamin Weiss: Equivalence of topological Markov shifts, Israel Journal of Mathematics. 27 (1977), 49–63.
+With Alan Konheim and M. H. McAndrew: Topological Entropy, Transactions of the American Mathematical Society. 114 (1965), 309–319.
+With Tomasz Downarowicz and Michał Misiurewicz: Topological Entropy. Scholarpedia. 3 (2008), no 2, 2200.
+With Charles Tresser and Patrick A. Worfolk: Topological conjugacy of linear endomorphisms of the 2-torus, Transactions of the American Mathematical Society. 349 (1997), 1633–1652.
+With Benjamin Weiss: Entropy, a complete metric invariant for automorphisms of the torus, Proceeding of the National Academy of Sciences. 57 (1967), 1573–1576.
+
+
+== References ==

@@ -1,0 +1,85 @@
+Valentin Afraimovich (Russian: Валентин Сендерович Афраймович, 2 April 1945, Kirov, Kirov Oblast, USSR – 21 February 2018, Nizhny Novgorod, Russia) was a Soviet, Russian and Mexican mathematician. He made contributions to dynamical systems theory, qualitative theory of ordinary differential equations, bifurcation theory, concept of attractor, strange attractors, space-time chaos, mathematical models of non-equilibrium media and biological systems, travelling waves in lattices, complexity of orbits and dimension-like characteristics in dynamical systems.
+
+
+== Biography ==
+He got his PhD (Kandidat) degree in 1974 at the Nizhny Novgorod State University under the advice of L. P. Shil’nikov. Also in 1990 he received his Doctor of Science degree in Mathematics and Physics, at Saratov State University in Russia.
+After then, he held several academic positions, including:
+
+1992-1995 Visiting Principal Research Scientist, Georgia Institute of Technology, Atlanta.
+1995-1996 Visiting Professor, Northwestern University, Evanston, IL.
+1996-1998 Visiting Professor, National Tsing Hua University, Hsinchu, Taiwan.
+1998–present Professor–researcher, IICO, Universidad Autónoma de San Luis Potosí, S.L.P., México.Afraimovich's students include Mark Shereshevsky, Nizhny Novgorod 1990; Todd Ray Young, Atlanta, Georgia, 1995; Antonio Morante, San Luis Potosí (SLP) México, 2002; Salomé Murgia, SLP México, 2003; Alberto Cordonet, SLP Mexico, 2002; Francisco Ordaz, SLP Mexico, 2004; Leticia Ramirez, SLP Mexico, 2005; Irma Tristan-Lopez, SLP Mexico, 2010; Rosendo Vazquez-Bañuelos, 2013.
+
+
+== Selected scientific papers ==
+VS Afraimovich, G Moses, TR Young. Two dimensional heteroclinic attractor in the generalized Lotka-Volterra system. Nonlinearity 29 (2016). 1645–1667. doi:10.1088/0951-7715/29/5/1645.
+V. Afraimovich, X. Gong, M. Rabinovich. Sequential memory: Binding dynamics. Chaos, 5(10):103118, 2015.
+V. Afraimovich. M. Courbage, L. Glebsky. Directional Complexity and entropy for Lift Mappings. Discrete and Continuous Dynamical Systems. Series B. Mathematical Modelling, Analysis and Computations. Volume 20, Number 10. December 2015.
+Valentin S. Afraimovich, Todd R. Young, Mikhail I. Rabinovich. Hierarchical Heteroclinics in Dynamical Model of Cognitive Processes: Chunking. International Journal of Bifurcation and Chaos Vol. 24, No. 10, 1450132 (2014)
+V. S. Afraimovich, L. P. Shilnikov. Symbolic Dynamics in Multidimensional Annulus and Chimera States. International Journal of Bifurcation and Chaos. Vol: 24, N: 08 (August 2014) DOI: 10.1142/S0218127414400021, 1440002
+V. S. Afraimovich, T. Young, M.K. Muezzinglu, M. Rabinovich. Nonlinear Dynamics of Emotion-Cognition Interaction: When Emotion Does Not Destroy Cognition? Bull Math Biol (2011) 73:266-284. DOI 10.1007/s11538-010-9572-x
+V. S. Afraimovich, L.A. Bunimovich, S.V. Moreno, Dynamical Networks: Continuous Time and General Discrete Time Models, Regular and Chaotic Dynamics, Vol. 15, 129–147, 2010.
+V. Afraimovich, L. Glebsky, Measures Related To e,n-Complexity Functions, Discrete And Continuous Dynamical Systems, Vol. 22, N 12. 2008.
+V. S. Afraimovich, M. Rabinovich, R. Huerta, P. Varona, Transient Cognitive Dynamics, Metastability, and Decision Making, PLOS Computational Biology 04, 05: 1–9. 2008.
+V. Afraimovich. Some topological properties of lattice dynamical systems, in Dynamics of Coupled Map Lattices and of Related Spatially Extended Systems, eds. J.-R. Chazottes and B. Fernandez, Lecture Notes in Physics, Springer 2005, p 153–180.
+V. Afraimovich, V. Zhigulin and M. Rabinovich, On the origin of reproducible sequential activity in neural circuits, Chaos 14 (2004), 1123–1129.
+V. Afraimovich, L. Bunimovich and J. Hale, Sistemi dinamici, Storia della Scienza IX, Enciclopedia Italiana 841–850. (2003)
+V. Afraimovich, G.M. Zaslavsky, Space time complexity in Hamiltonian dynamics, Chaos, 13, 2, (2003), pp. 519–532.
+V. Afraimovich, J. R. Chazottes and A. Cordonet, Synchronization in directionally coupled systems, Discrete Contin. Dyn. Syst., Ser. B, vol. 1 (2001), 421–442.
+V. Afraimovich, J.-R. Chazottes and B. Saussol, Local dimensions for Poincare recurrences, Electron.Res.Announc.Amer.Math.Soc., vol.6 (2000), 64–74
+V. Afraimovich and T. Young, Relative density of irrational rotation numbers in families of circle diffeomorphisms. Ergodic theory and dynamical systems, 18 (1998), 1–16.
+V. Afraimovich and S-N. Chow, Topological spatial chaos and homoclinic points of Z-d actions in lattice dynamical systems, Japan J. Indust.Appl. Math. 12 1995, 1–17.
+V. Afraimovich, S.-N. Chow and W. Liu, Lorenz type attractors from codimensional-one bifurcation, Journal of Dynamics and Differential Equations, 7 (2), 1995, 375–407.
+V. Afraimovich and V.I. Nekorkin, Chaos of traveling waves in a discrete chain of di usively coupled maps, International Journal of Bifurcation and Chaos, 4 (3) (1994).
+V. Afraimovich and Ya. Pesin, Hyperbolicity of infinite-dimensional drift systems, Nonlinearity, 3 (1990), 1–19.
+V. Afraimovich, N.N. Verichev and M.I. Rabinovich, Stochastic synchronization of oscillations in dissipative systems, Radio zika, 29 (9), 1050–1060 (1986) (in Russian).
+V. Afraimovich, V.V. Bykov and L.P. Shil'nikov, On attracting nonstructurally stable limiting sets of the type of Lorenz attractor, Trans. of Moscow Math. Soc., 44 (1982).
+V. Afraimovich and L.P. Shil'nikov, On critical sets of Morse–Smale systems, Trans. Moscow Math. Soc., 28 (1973).
+
+
+== Selected bibliography ==
+Afraimovich, V.S.; V.I. Arnold;  et al. (1999). Bifurcation Theory And Catastrophe Theory. Springer. ISBN 3-540-65379-1.
+Afraimovich, V.S.; I. S. Aranson; M. I. Rabinovich (1989). Multidimensional Strange Attractors and Turbulence. Harwood Academic. ISBN 3-7186-4868-7.
+Afraimovich, V.S.; Sze-Bi Hsu (2003). Lectures on Chaotic Dynamical Systems. Ams/Ip Studies in Advanced Mathematics. ISBN 0-8218-3168-2.
+Afrajmovich, V.S.; V.I. Arnold; Yu S. Il'yashenko; L. P. Shil'nikov (6 June 1994). Dynamical Systems V. Springer. ISBN 3-540-18173-3.
+Afraimovich, V.S.; V. I. Nekorkin; G. V. Osipov; V. D. Shalfeev. Stability, structures and chaos in nonlinear synchronization networks. ISBN 978-981-279-871-8.
+Afraimovich, V.S.; E. Ugalde; J. Urías (2006). Fractal Dimensions for Poincaré Recurrences (Monograph Series on Nonlinear Sciences and Complexity Volume 2). Elsevier. ISBN 0-444-52189-5.
+Афраймович, В.С.; Э. Угальде; Х. Уриас (2011). Фрактальные Размерности для Времен Возвращения Пуанкаре. R&C Dynamics, Russia. ISBN 978-5-93972-903-1.
+Luo, A.; Afraimovich V.S., eds. (2010). Hamiltonian Chaos Beyond the KAM Theory. Springer. ISBN 978-3-642-12717-5.
+Luo, A.; Afraimovich V.S., eds. (2010). Long-range Interactions, Stochasticity and Fractional Dynamics. Springer. ISBN 978-3-642-12342-9.
+Luo, A.; Afraimovich V.S., eds. (2012). Continuous Dynamical Systems. Higher Education Press Limited Company and L&H Scientific Publishing. ISBN 978-1-62155-000-6.
+Luo, A.; Afraimovich V.S., eds. (2012). Discrete and Switching Dynamical Systems. Higher Education Press Limited Company and L&H Scientific Publishing. ISBN 978-1-62155-002-0.
+Afraimovich, V.; Luo A.; Fu X. (2014). Nonlinear Dynamics and Complexity (Nonlinear Systems and Complexity). Springer-Verlag Gmbh. ISBN 978-3319023526.
+Afraimovich, V.; Machado J.A.T.; Zhang J. (2016). Complex Motions and Chaos in Nonlinear Systems (Nonlinear Systems and Complexity). Springer-Verlag Gmbh. ISBN 978-3-319-28764-5.
+
+
+== Afraimovich award ==
+
+Afraimovich Award has been granted to outstanding young scholars in nonlinear physical science by NSC since 2020.
+
+
+== See also ==
+Dynamical systems
+Homoclinic orbit
+Topology
+Chaos theory
+Attractor
+Bifurcation theory
+Catastrophe theory
+Torus
+
+
+== References ==
+
+
+== External links ==
+Personal web page
+Conference celebrating Afraimovich's 65th anniversary
+Valentin S. Afraimovich at DBLP Bibliography Server 
+American Institute of Mathematical Sciences
+A super short curriculum vitae
+Valentin S. Afraimovich at the Mathematics Genealogy Project 
+Torus breakdown article at Scholarpedia
+Lagrange Award 2012
+Book dedicated to V. Afraimovich
+preface

@@ -1,0 +1,9 @@
+Alfred Aeppli was a Swiss mathematician. The Pólya–Aeppli distribution in probability theory and statistics is named after him and his doctoral advisor George Pólya.
+
+
+== Life and work ==
+Alfred Aeppli was born in Zürich on 15 July 1894 to Alfred Aeppli and Rosa Aeppli-Gehring. He went to a primary school in Zürich and the canton's Industrial School, where he received his matura in the summer of 1913. Afterwards, Aeppli studied at the Eidgenössische Technische Hochschule (ETH Zürich) at the department for higher teachers of mathematics and physics. In the winter semester of 1914–1915 he was on leave for military service. After receiving his Diplom, he worked at a private school in Germany for a year and returned to the ETH in the spring of 1919 as a research assistant of Arthur Hirsch.
+Aeppli earned his doctorate in 1924 under the supervision of George Pólya and Hermann Weyl. He came up with the Pólya–Aeppli distribution in his doctoral dissertation. This discovery was published by Pólya in 1930, and he credited its discovery to his student Aeppli. The Pólya–Aeppli distribution, now also known as the geometric Poisson distribution, is a particular case of the compound Poisson distribution, and is used to describe objects that come in clusters, where the number of clusters follows a Poisson distribution and the number of objects within a cluster follows a geometric distribution.
+
+
+== References ==

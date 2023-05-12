@@ -1,0 +1,33 @@
+Ingo Althöfer (born 1961) is a German mathematician at the University of Jena, where he holds the chair of operations research.Althöfer earned his PhD in 1986 at Bielefeld University. His dissertation, Asymptotic Properties of Certain Competition Systems in Artificial Intelligence and Ecology, was supervised by Rudolf Ahlswede.
+
+
+== Contributions ==
+Topics in Althöfer's professional research include the realization of finite metric spaces by shortest path metrics in graphs and their approximation by greedy spanners, algorithmic game theory and combinatorial game theory, and heuristic search algorithms for optimization problems.
+Althöfer is also known for his inventions of games and puzzles, including dice game EinStein würfelt nicht!, for his experiments with self-assembly of Lego building blocks by running them through a washing machine, and for his innovations in computer-human chess playing. In the 1990s he tested his "drei hirn" ["3-brains"] system, in which a human decides between the choices of two computer chess players, against strong human players including grandmaster David Bronstein and woman grandmaster Sofia Polgar. In 2004 he and Timo Klaustermeyer introduced freestyle chess, a style of human chess playing allowing arbitrary consultation with computers or other people.
+
+
+== Books ==
+Menzer, Hartmut; Althöfer, Ingo (2014). Zahlentheorie und Zahlenspiele : Sieben ausgewählte Themenstellungen (in German). Berlin/Boston: De Gruyter. ISBN 978-3-486-98963-2. OCLC 898769807.
+Althöfer, Ingo; Voigt, Roland (2014). Spiele, Rätsel, Zahlen : faszinierendes zu Lasker-Mühle, Sudoku-Varianten, Havannah, EinStein würfelt nicht, Yavalath, 3-Hirn-Schach ... (in German). Heidelberg: Springer Spektrum. ISBN 978-3-642-55301-1. OCLC 894170235.He has also self-published other books through his personal publishing company, 3-Hirn Verlag, and is one of the editors of the multi-volume book series Rudolf Ahlswede’s Lectures on Information Theory.
+
+
+== Selected Papers ==
+Althöfer, I. (1988). "Nim games with arbitrary periodic moving orders". International Journal of Game Theory. Springer Science and Business Media LLC. 17 (3): 165–175. doi:10.1007/bf01242859. ISSN 0020-7276. S2CID 118788463.
+Althöfer, Ingo (1991). "Data compression using an intelligent generator: The storage of chess games as an example". Artificial Intelligence. Elsevier BV. 52 (1): 109–113. doi:10.1016/0004-3702(91)90026-g. ISSN 0004-3702.
+Althöfer, Ingo (2004). "Improved game play by multiple computer hints". Theoretical Computer Science. Elsevier BV. 313 (3): 315–324. doi:10.1016/j.tcs.2003.08.012. ISSN 0304-3975.
+Althöfer, Ingo (10 November 2020). "Computer Chess and Chess Computers in East Germany". ICGA Journal. IOS Press. 42 (2–3): 152–164. doi:10.3233/icg-200163. ISSN 2468-2438. S2CID 226727158.
+
+
+== Selected Board Games ==
+EinStein würfelt nicht! (2005)
+Galtoni (2012), a mixture of Connect Four and the Galton board
+San Jego (2015), a variant of Clobber
+
+
+== References ==
+
+
+== External links ==
+
+Home page
+3-Hirn Verlag, Althöfer's book publishing company

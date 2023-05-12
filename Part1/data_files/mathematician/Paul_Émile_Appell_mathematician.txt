@@ -1,0 +1,66 @@
+M. P. Appell is the same person: it stands for  Monsieur Paul Appell.Paul Émile Appell (27 September 1855, in Strasbourg – 24 October 1930, in Paris) was a French mathematician and Rector of the University of Paris. Appell polynomials and Appell's equations of motion are named after him, as is rue Paul Appell in the 14th arrondissement of Paris and the minor planet 988 Appella.
+
+
+== Life ==
+Paul Appell entered the École Normale Supérieure in 1873. 
+He was elected to the French Academy of Sciences in 1892.
+In 1895, he became a Professor at the École Centrale Paris. Between 1903 and 1920 he was Dean of the Faculty of Science of the University of Paris, then Rector of the University of Paris from 1920 to 1925.
+Appell was the President of the Société astronomique de France (SAF), the French astronomical society, from 1919 to 1921.His daughter Marguerite Appell (1883–1969), who married the mathematician Émile Borel, is known as a novelist under her pen-name Camille Marbo.
+Appell was an atheist. He was awarded Order of the White Eagle.
+
+
+== Work ==
+He  worked first on projective geometry in the line of Chasles, then on algebraic functions, differential equations, and complex analysis. Appell was the editor of the collected works of Henri Poincaré. Jules Drach was co-editor of the first volume.
+
+
+=== Appell series ===
+He introduced a set of four hypergeometric series F1, F2, F3, F4 of two variables, now called Appell series, that generalize Gauss's hypergeometric series.
+He established the set of partial differential equations of which these functions  are solutions, and found formulas and expressions of these series in terms of hypergeometric series of one variable. In 1926, with Professor Joseph-Marie Kampé de Fériet, he authored a treatise on generalized hypergeometric series.
+
+
+=== Mechanics ===
+In mechanics, he proposed an alternative formulation of analytical mechanics known as Appell's equation of motion.
+He discovered a physical interpretation of the imaginary period of the doubly periodic function whose restriction to real arguments describes the motion of an ideal pendulum.
+
+
+== Publications ==
+Traité de mécanique rationnelle, 4 Vols. (Gauthier-Villars, 1893–1896)
+Traité de mécanique rationnelle Tome I
+Traité de mécanique rationnelle Tome II
+Traité de mécanique rationnelle Tome III
+Traité de mécanique rationnelle Tome IV Fasc. 1
+Traité de mécanique rationnelle Tome IV Fasc. 2
+Traité de mécanique rationnelle Tome V
+Les mouvements de roulement en dynamique with Jacques Hadamard (C. Hérissey, Évreux,  1899)
+Éléments de la théorie des vecteurs et de la géométrie analytique (Payot, 1921)
+Éléments d'analyse mathématique à l'usage des ingénieurs et des physiciens : cours professé à l'École centrale des arts et manufactures (Gauthier-Villars, 1921)
+Principes de la théorie des fonctions elliptiques et applications with E. Lacour (Gauthier-Villars, 1897)
+Le problème géométrique des déblais et remblais (Gauthier-Villars, 1928)
+[1], autobiographic (Payot, 1923)
+Théorie des fonctions algébriques et de leurs intégrales with Édouard Goursat.
+Fonctions hypergéométriques et hypersphériques with Joseph-Marie Kampé de Fériet (Gauthier-Villars, 1926)
+See catalogue of the French National Library for a more detailed list
+
+
+== See also ==
+
+Abelian integral
+Generalized Appell polynomials
+
+
+== References ==
+
+(fr:) P. Appell, "Notice sur les travaux scientifiques" Acta Mathematica 45 (1925) pp. 161–285. describes 257 of Appell's publications.
+(fr:) E. Lebon, Biographie et bibliographie analytique  des écrits de Paul Appell (Paris, 1910)
+(fr:) P. Appell, "Sur une classe de polynômes", Annales scientifiques de l'École Normale Supérieure 2e série, tome 9, 1880.
+(fr:) P. Appell, "Sur les fonctions hypergeometriques de deux variables" Journal de Mathématiques Pures et Appliquées series III,8, 173 (1882).
+(fr:) P. Appell, "Sur une interprétation des valeurs imaginaires du temps en Mécanique", Comptes Rendus Hebdomadaires des Scéances de l'Académie des Sciences, volume 87, number 1, July, 1878.
+Greenwood, THOMAS (1930). "Obituary Prof Paul Appell". Nature. 126 (3189): 924–925. doi:10.1038/126924a0.
+May, Kenneth (1970). "Appell, Paul". Dictionary of Scientific Biography. Vol. 1. New York: Charles Scribner's Sons. pp. 193–195. ISBN 978-0-684-10114-9.
+O'Connor, John J.; Robertson, Edmund F., "Paul Émile Appell", MacTutor History of Mathematics archive, University of St Andrews
+
+
+== External links ==
+(fr:) E. Lebon, Biographie et bibliographie analytique  des écrits de Paul Appell at Project Gutenberg.
+Paul Émile Appell at the Mathematics Genealogy Project
+Author profile in the database zbMATH

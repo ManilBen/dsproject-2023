@@ -1,0 +1,23 @@
+Odd Olai Aalen (born 6 May 1947, in Oslo) is a Norwegian statistician and a professor at the Department of Biostatistics at the Institute of Basic Medical Sciences at the University of Oslo.
+
+
+== Life ==
+Aalen completed his examen artium in 1966 at Oslo Cathedral School before studying first mathematics and physics and then statistics in which he graduated at the University of Oslo in 1972.
+
+
+== Work ==
+His research work is geared towards applications in biosciences. Aalen's early work on counting processes and martingales, starting with his 1976 Ph.D. thesis at the University of California, Berkeley, has had profound influence in biostatistics. Inferences for fundamental quantities associated with cumulative hazard rates, in survival analysis and models for analysis of event histories, are typically based on the Nelson–Aalen estimator or appropriate related statistics. The Nelson–Aalen estimator is related to the Kaplan-Meier estimator and generalisations thereof.
+Aalen is currently professor emeritus at the Oslo Centre for Biostatistics and Epidemiology at the Faculty of Medicine at the University of Oslo.
+
+
+== Honors and awards ==
+He is an elected member of the Norwegian Academy of Science and Letters.
+
+
+== References ==
+
+
+== External links ==
+Odd Aalen at the Mathematics Genealogy Project
+The BMMS Centre
+Aalen's home page

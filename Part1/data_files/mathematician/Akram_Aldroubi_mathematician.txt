@@ -1,0 +1,18 @@
+Akram Aldroubi is an American mathematician known for his work in sampling theory, harmonic analysis, and their applications to signal and image processing as well as biomedical data analysis.
+
+
+== Education ==
+Aldroubi received a diplôme in electrical engineering from École Polytechnique Fédérale de Lausanne, in Switzerland, in 1982. He studied mathematics at Carnegie Mellon University, earning his master’s in 1984 and his doctorate in 1987.
+
+
+== Career ==
+After Carnegie, Aldroubi worked as a researcher at the National Institutes of Health. He moved to the Department of Mathematics at Vanderbilt University in 1997 where he currently holds a position of professor. He has worked on sampling theory, wavelets, frame theory and their applications to signal and image processing.In 2009, he was awarded the Fulbright Foreign Scholarship to continue teaching and conduct research. In 2014, Aldroubi was inducted as a Fellow of the American Mathematical Society for "contributions to modern harmonic analysis and its applications, and for building bridges between mathematics and other areas of science and engineering."
+
+
+== Bibliography ==
+with Unser, Michael (1996). Wavelets in Medicine and Biology. CRC Press. ISBN 9780849394836.
+with Lin, EnBing (1998). Wavelets, Multiwavelets, and Their Applications. American Mathematical Society. ISBN 9780821807934.
+with Cabrelli, Carlos; Jaffard, Stephane; Molter, Ursula (April 21, 2016). New Trends in Applied Harmonic Analysis: Sparse Representations, Compressed Sensing, and Multifractal Analysis. Birkhäuser. ISBN 9783319278735.
+
+
+== References ==

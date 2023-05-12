@@ -1,0 +1,16 @@
+David Michael Avis (born March 20, 1951) is a Canadian and British computer scientist known for his contributions to geometric computations. Avis is a professor in computational geometry and applied mathematics in the School of Computer Science, McGill University, in Montreal. Since 2010, he belongs to Department of Communications and Computer Engineering, School of Informatics, Kyoto University.
+Avis received his Ph.D. in 1977 from Stanford University. He has published more than 70 journal papers and articles. Writing with Komei Fukuda, Avis  proposed a reverse-search algorithm for the
+vertex enumeration problem; their algorithm generates all of the vertices of a convex polytope.[AF92][AF96]
+
+
+== Selected publications ==
+
+
+== References ==
+
+
+== External links ==
+School of Computer Science(McGill Univ.)
+David Avis’ homepage(McGill Univ.)
+David Avis' homepage(Kyoto Univ.)
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/a/Avis:David.html

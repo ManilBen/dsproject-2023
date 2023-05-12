@@ -1,0 +1,8 @@
+Walter Edwin Arnoldi (December 14, 1917 – October 5, 1995) was an American engineer mainly known for the Arnoldi iteration, an eigenvalue algorithm used in numerical linear algebra. His main research interests included modelling vibrations, acoustics, aerodynamics of aircraft propeller, and oxygen reclamation problems of space science. His 1951 paper The principle of minimized iterations in the solution of the eigenvalue problem is one of the most cited papers in numerical linear algebra.
+
+
+== Life and career ==
+Born in New York City, Arnoldi earned a degree in mechanical engineering from the Stevens Institute of Technology in 1937 before achieving a Master of Science degree from Harvard University. He worked at the Hamilton Standard Division of the United Technologies Corporation from 1939 until his retirement in 1977; known as United Aircraft for much of his career. He was married to Flora (von Weiler) Arnoldi with whom he had two sons, Douglas and Carl. He lived in West Hartford, Connecticut since 1950. He died in West Hartford on October 5, 1995.
+
+
+== References ==

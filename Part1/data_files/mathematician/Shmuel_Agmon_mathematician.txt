@@ -1,0 +1,37 @@
+Shmuel Agmon (Hebrew: שמואל אגמון; born 2 February 1922) is an Israeli mathematician. He is known for his work in analysis and partial differential equations.
+
+
+== Biography ==
+Shmuel Agmon was born in Tel Aviv to writer Nathan Agmon and Chaya Gutman, and spent the first years of his life in Nazareth. A member of the HaMahanot HaOlim youth movement, Agmon studied at the Gymnasia Rehavia and joined a hakhshara program at Kibbutz Na'an after graduating from high school.
+He began his studies in mathematics at the Hebrew University of Jerusalem in 1940, but enlisted in the Jewish Brigade of the British Army before graduating. He served for four years in Cyprus, Italy and Belgium during World War II.After his discharge, he completed his undergraduate and master's degrees at the Hebrew University and went to France for further studies. He obtained a Ph.D. from Paris-Sorbonne University in 1949, under the supervision of Szolem Mandelbrojt. He returned to Jerusalem after working as a visiting scholar at Rice University from 1950 to 1952, and was appointed full professor at the Hebrew University in 1959.
+
+
+== Work ==
+Agmon's contributions to partial differential equations include Agmon's method for proving exponential decay of eigenfunctions for elliptic operators.
+
+
+== Awards ==
+Agmon was awarded the 1991 Israel Prize in mathematics. He received the 2007 EMET Prize "for paving new paths in the study of partial-elliptical differential equations and their problematic language and for advancing the knowledge in the field, as well as his essential contribution to the development of the Spectral Theory and the Distribution Theory of Schrödinger Operators." He has also received the Weizmann Prize and the Rothschild Prize. In 2012 he became a fellow of the American Mathematical Society.
+
+
+== Selected works ==
+Agmon, Shmuel (1951). "Functions of exponential type in an angle and singularities of Taylor series". Trans. Amer. Math. Soc. 70 (3): 492–508. doi:10.1090/s0002-9947-1951-0041222-5. MR 0041222.
+with Lipman Bers: Agmon, Shmuel; Bers, Lipman (1952). "The expansion theorem for pseudo-analytic functions". Proc. Amer. Math. Soc. 3 (5): 757–764. doi:10.1090/s0002-9939-1952-0057349-4. MR 0057349.
+Agmon, Shmuel (1953). "Complex variable Tauberians". Trans. Amer. Math. Soc. 74 (3): 444–481. doi:10.1090/s0002-9947-1953-0054079-5. MR 0054079.
+Agmon, Shmuel (1960). "Maximum theorems for solutions of higher order elliptic equations". Bull. Amer. Math. Soc. 66 (2): 77–80. doi:10.1090/s0002-9904-1960-10402-8. MR 0124618.
+Lectures on elliptic boundary value problems. Van Nostrand. 1965. iii+291 p.; 2nd edition. AMS Chelsea Pub. 2010. ISBN 978-0-8218-4910-1.
+Unicité et convexité dans les problèmes différentiels. Presses de l'Université de Montréal. 1966. 156 p.
+Spectral properties of Schrödinger operators and scattering theory. Scuola normale superiore di Pisa. 1975.
+Lectures on exponential decay of solutions of second-order elliptic equations: bounds on eigenfunctions of N-body Schrödinger operators. Princeton University Press. 1982. ISBN 978-0-691-08318-6.
+
+
+== See also ==
+Agmon's inequality
+
+
+== External links ==
+
+Shmuel Agmon at the Mathematics Genealogy Project
+
+
+== References ==

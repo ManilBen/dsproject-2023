@@ -1,0 +1,13 @@
+Karen I. Aardal (born 1961) is a Norwegian and Dutch applied mathematician, theoretical computer scientist, and operations researcher. Her research involves combinatorial optimization, integer programming, approximation algorithms, and facility location, with applications such as positioning emergency vehicles to optimize their response time. She is a professor in the Delft Institute of Applied Mathematics at the Delft University of Technology, and the chair of the Mathematical Optimization Society for the 2016–2019 term.
+
+
+== Education and career ==
+Aardal is originally from Norway. She earned her Ph.D. in 1992 at the Université catholique de Louvain in Belgium. Her dissertation, On the Solution of One and Two-Level Capacitated Facility Location Problems by the Cutting Plane Approach, was supervised by Laurence Wolsey. Her dissertation won the second-place SOLA Dissertation Award of the Institute for Operations Research and the Management Sciences Section on Location Analysis.Aardal was formerly a researcher at the Dutch Centrum Wiskunde & Informatica, and additionally affiliated with Eindhoven University of Technology since 2005. She moved to Delft in 2008.She was elected to the 2019 class of Fellows of the Institute for Operations Research and the Management Sciences.
+
+
+== References ==
+
+
+== External links ==
+Official website 
+Karen Aardal publications indexed by Google Scholar

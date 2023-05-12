@@ -1,0 +1,29 @@
+Stephen Frank Altschul (born February 28, 1957) is an American mathematician who has designed algorithms that are used in the field of bioinformatics (the Karlin-Altschul algorithm and its successors). Altschul is the co-author of the BLAST algorithm used for sequence analysis of proteins and nucleotides.
+
+
+== Education ==
+Altschul graduated summa cum laude from Harvard University, where he was elected to Phi Beta Kappa in mathematics and has a Ph.D. in the same field from Massachusetts Institute of Technology.
+
+
+== Research ==
+His research interest is centered on sequence alignment algorithms, statistics of sequence comparison and measurement of sequence similarity.
+
+
+== Background ==
+He is the son of Stephanie Rosemary (née Wagner) and Arthur Altschul, a former partner at Goldman Sachs. In 1994, he married Caroline Kershaw James, the daughter of Caroline James-Pritz of Cincinnati and Harry Keithan James of Dayton, Ohio. The Rev. Luther D. Miller Jr. performed the ceremony at St. David's Episcopal Church in Washington.His half-sister is journalist Serena Altschul known for her tenure at MTV. On his father's side, he is a member of the Lehman family.
+He has two sons, James and William Altschul. William Altschul is a former college Ultimate player at Washington University in St. Louis.
+
+
+== From mathematics to bioinformatics ==
+During his undergraduate years, Altschul developed an interest in biology. As a result, he started reading books about DNA. One of the books which he read was The Double Helix by Watson. Furthermore, he had also taken a course on Evolutionary Biology. Altschul had also spent two summers working in laboratories at Rockfeller University where he helped to write computer codes for an X-ray crystallography project.Due to his interest, Altschul had considered trying to apply to graduate school in biology. He instead decided to apply to programs in applied mathematics, with the hope of finding some applications of mathematics to biology to work on.
+
+
+== Notable appointments/positions held ==
+Upon graduation, Stephen Frank Altschul worked in the Mathematics Research Branch of the National Institute of Diabetes and Digestive and Kidney Diseases as an IRTA postdoctoral fellowship. From 1990 to present, he has worked in the NCBI Computational Biology Branch, holding the position of senior investigator.
+
+
+== References ==
+
+
+== External links ==
+highlycited.com

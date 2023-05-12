@@ -1,0 +1,47 @@
+Shreeram Shankar Abhyankar (22 July 1930 – 2 November 2012)  was an Indian American mathematician known for his contributions to algebraic geometry. He, at the time of his death, held the Marshall Distinguished Professor of Mathematics Chair at Purdue University, and was also a professor of computer science and industrial engineering. He is known for Abhyankar's conjecture of finite group theory.
+His latest research was in the area of computational and algorithmic algebraic geometry.
+
+
+== Career ==
+Abhyankar was born in a Chitpavan Brahmin family in Ujjain, Madhya Pradesh, India. He earned his B.Sc. from Royal Institute of Science of University of Mumbai in 1951, his M.A. at Harvard University in 1952, and his Ph.D. at Harvard in 1955. His thesis, written under the direction of Oscar Zariski, was titled Local uniformization on algebraic surfaces over modular ground fields. Before going to Purdue, he was an associate professor of mathematics at Cornell University and Johns Hopkins University.
+Abhyankar was appointed the Marshall Distinguished Professor of Mathematics at Purdue in 1967. His research topics include algebraic geometry (particularly resolution of singularities, a field in which he made significant progress over fields of finite characteristic), commutative algebra, local algebra, valuation theory, theory of functions of several complex variables, quantum electrodynamics, circuit theory, invariant theory, combinatorics, computer-aided design, and robotics. He popularized the Jacobian conjecture.
+
+
+== Death ==
+Abhyankar died of a heart condition on 2 November 2012 at his residence near Purdue University.
+
+
+== Selected publications ==
+Abhyankar, Shreeram S. (1967). "Local rings of high embedding dimension". American Journal of Mathematics. 89 (4): 1073–1077. doi:10.2307/2373418. JSTOR 2373418. MR 0220723.
+Abhyankar, Shreeram S. (1977). Lectures on expansion techniques in algebraic geometry. Tata Institute of Fundamental Research Lectures on Mathematics and Physics. Vol. 57. Notes by Balwant Singh. Tata Institute of Fundamental Research. MR 0542446.
+Abhyankar, Shreeram S.; Moh, Tzuong-Tsieng (1975). "Embeddings of the line in the plane". Journal für die reine und angewandte Mathematik. 276: 148–166. MR 0379502.
+Zariski, Oscar (1971). Algebraic surfaces. Ergebnisse der Mathematik und ihrer Grenzgebiete. Vol. 61. With appendices by Shreeram S. Abhyankar, Joseph Lipman, and David Mumford (Second supplemented ed.). New York–Heidelberg: Springer-Verlag. MR 0469915.
+
+
+== Honours ==
+Abhyankar has won numerous awards and honours.
+
+Abhyankar received the Herbert Newby McCoy Award from Purdue University in 1973 .
+Fellow of the Indian Academy of Sciences
+Editorial board member of the Indian Journal of Pure and Applied Mathematics
+Chauvenet Prize from the Mathematical Association of America (1978)
+Honorary Doctorate Degree (Docteur Honoris Causa) by the University of Angers in France (29 October 1998)
+Fellow of the American Mathematical Society (2012)
+
+
+== See also ==
+Abhyankar's conjecture
+Abhyankar's inequality
+Abhyankar's lemma
+Abhyankar–Moh theorem
+
+
+== References ==
+
+
+== External links ==
+
+"Homepage of Shreeram Abhyankar".
+"Obituary of Shreeram Abhyankar". Legacy.com.
+Mulay, Shashikant; Sathaye, Avinash (November 2014), "Shreeram Abhyankar (July 22, 1930 – November 2, 2012)" (PDF), Notices of the American Mathematical Society, Providence, RI: American Mathematical Society, 61 (10): 1196–1216, doi:10.1090/noti1175
+Shreeram Shankar Abhyankar at the Mathematics Genealogy Project

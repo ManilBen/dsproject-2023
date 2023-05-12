@@ -1,0 +1,25 @@
+Jonathan Lazare Alperin (; born 1937) is an American mathematician specializing in the area of algebra known as group theory. He is notable for his work in group theory which has been cited over 500 times according to the Mathematical Reviews.  The Alperin–Brauer–Gorenstein theorem is named after him.
+
+
+== Biography ==
+Alperin attended school at Princeton University and wrote his Ph.D. dissertation in 1961 "On a Special Class of Regular p-Groups" under the direction of Graham Higman.  He was awarded a Guggenheim Fellowship in 1974.  He has several times (1969, 1979, and 1983) been a visiting scholar at the Institute for Advanced Study. In 2012 he became a fellow of the American Mathematical Society.Alperin was a professor at the University of Chicago. He has published over 60
+papers and his work has been cited over 500 times.
+He is also known for his conjecture, (Alperin 1987), a topic of current research in modular representation theory, and for his work on the local control of fusion, (Alperin 1967), part of local group theory. In (Alperin, Brauer & Gorenstein 1970), the Alperin–Brauer–Gorenstein theorem was proven, giving the classification of finite simple groups with quasi-dihedral Sylow 2-subgroups.
+
+
+== Selected bibliography ==
+Alperin, J. L. (1967), "Sylow intersections and fusion", Journal of Algebra, 6 (2): 222–241, doi:10.1016/0021-8693(67)90005-1, ISSN 0021-8693, MR 0215913
+Alperin, J. L.; Brauer, R.; Gorenstein, D. (1970), "Finite groups with quasi-dihedral and wreathed Sylow 2-subgroups.", Transactions of the American Mathematical Society, 151 (1): 1–261, doi:10.2307/1995627, ISSN 0002-9947, JSTOR 1995627, MR 0284499
+Alperin, J. L. (1986), Local representation theory, Cambridge Studies in Advanced Mathematics, vol. 11, Cambridge University Press, ISBN 978-0-521-30660-7, MR 0860771
+Alperin, J. L. (1987), "Weights for finite groups", The Arcata Conference on Representations of Finite Groups (Arcata, Calif., 1986), Proc. Sympos. Pure Math., vol. 47, Providence, R.I.: Amer. Math. Soc., pp. 369–379, MR 0933373
+Alperin, J. L.; Bell, Rowen B. (1995), Groups and representations, Graduate Texts in Mathematics, vol. 162, Berlin, New York: Springer-Verlag, ISBN 978-0-387-94525-5, MR 1369573
+
+
+== References ==
+
+
+== External links ==
+Mathematical Reviews author profile
+Jonathan Lazare Alperin at the Mathematics Genealogy Project
+Home page at Chicago
+Short biography in the Notices of the AMS

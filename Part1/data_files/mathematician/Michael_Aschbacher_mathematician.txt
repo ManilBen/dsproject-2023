@@ -1,0 +1,28 @@
+Michael George Aschbacher (born April 8, 1944) is an American mathematician best known for his work on finite groups. He was a leading figure in the completion of the classification of finite simple groups in the 1970s and 1980s. It later turned out that the classification was incomplete, because the case of quasithin groups had not been finished. This gap was fixed by Aschbacher and Stephen D. Smith in 2004, in a pair of books comprising about 1300 pages. Aschbacher is currently the Shaler Arthur Hanisch Professor of Mathematics at the California Institute of Technology.
+
+
+== Education and career ==
+Aschbacher received his B.S. at the California Institute of Technology in 1966 and his Ph.D. at the University of Wisconsin–Madison in 1969. He joined the faculty of the California Institute of Technology in 1970 and became a full professor in 1976. He was a visiting scholar at the Institute for Advanced Study in 1978–79. He was awarded the Cole Prize in 1980, and was elected to the National Academy of Sciences in 1990. In 1992, Aschbacher was elected a Fellow of the American Academy of Arts and Sciences. He was awarded the Rolf Schock Prize for Mathematics by the Royal Swedish Academy of Sciences in 2011. In 2012 he received the Leroy P. Steele Prize for Mathematical Exposition and the Wolf Prize in Mathematics, and became a fellow of the American Mathematical Society.
+
+
+== Classification of finite simple groups ==
+In 1973, Aschbacher became a leading figure in the classification of finite simple groups. Aschbacher considered himself somewhat of an outsider in the world of conventional group theory, claiming that he was not "plugged into the system at that point in time". 
+Although he had access to several preprints that were shared among the practitioners of the field, he reproduced many proofs that had already been discovered by other researchers and published them in his early papers. Aschbacher only became interested in finite simple groups as a postdoctorate. He wrote his dissertation in combinatorics and was able to utilize many techniques developed in this area to make early contributions to the study of finite simple groups, which surprised the community of researchers. In particular, Daniel Gorenstein, another leader of the classification of finite simple groups, said that Aschbacher's entrance was "dramatic".In fact, the rate of Aschbacher's results proved so astounding that many other mathematicians decided to leave the field to pursue other problems. Aschbacher was proving one major result after another and when he announced his progress at the Duluth conference, mathematicians were convinced that the problem was almost solved. This conference represented a turning point for the problem as many mathematicians (in particular those relatively new to the field) decided to leave the field to pursue other problems.However, Aschbacher's entrance into the field did not come without difficulties. His papers, beginning with the first he wrote in the field for publication, were very difficult to read. Some commented that his proofs lacked explanations of very sophisticated counting arguments. As Aschbacher's proofs became longer, it became even more difficult for others to understand his proofs. Even some of his own coauthors had trouble reading their own papers. From that point on, researchers no longer read papers as independent documents, but rather ones that required the context of its author. As a result, responsibility of finding errors in the classification problem was up to the entire community of researchers rather than just peer-reviewers alone. That Aschbacher's proofs were hard to read was not due to a lack of ability, but rather to the astounding complexity of the ideas he was able to produce.
+
+
+== Books ==
+Finite group theory ISBN 0-521-78675-4
+Sporadic groups ISBN 0-521-42049-0
+3-Transposition groups ISBN 0-521-57196-0
+The finite simple groups and their classification ISBN 0-300-02449-5
+Overgroups of Sylow subgroups in sporadic groups ISBN 0-8218-2344-2
+Aschbacher, Michael; Smith, Stephen D. (2004), The classification of quasithin groups. I Structure of Strongly Quasithin K-groups, Mathematical Surveys and Monographs, vol. 111, Providence, R.I.: American Mathematical Society, ISBN 978-0-8218-3410-7, MR 2097623
+Aschbacher, Michael; Smith, Stephen D. (2004b), The classification of quasithin groups. II Main theorems: the classification of simple QTKE-groups., Mathematical Surveys and Monographs, vol. 112, Providence, R.I.: American Mathematical Society, ISBN 978-0-8218-3411-4, MR 2097624
+Solomon, Ronald (2006), "Review of The classification of quasithin groups. I, II by Aschbacher and Smith", Bulletin of the American Mathematical Society, 43: 115–121, doi:10.1090/s0273-0979-05-01071-2
+
+
+== References ==
+
+
+== External links ==
+Aschbacher's webpage at Caltech

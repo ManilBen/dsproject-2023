@@ -1,0 +1,66 @@
+Alexander Vladimirovich Arhangelskii (Russian: Александр Владимирович Архангельский, Aleksandr Vladimirovich Arkhangelsky, born 13 March 1938 in Moscow) is a Russian mathematician. His research, comprising over 200 published papers, covers various subfields of general topology. He has done particularly important work in metrizability theory and generalized metric spaces, cardinal functions, topological function spaces and other topological groups, and special classes of topological maps. After a long and distinguished career at Moscow State University, he moved to the United States in the 1990s. In 1993 he joined the faculty of Ohio University, from which he retired in 2011.
+
+
+== Biography ==
+Arhangelskii was the son of Vladimir Alexandrovich Arhangelskii and Maria Pavlova Radimova, who divorced by the time he was four years old. He was raised in Moscow by his father. He was also close to his uncle, childless aircraft designer Alexander Arkhangelsky. In 1954, Arhangelskii entered Moscow State University, where he became a student of Pavel Alexandrov. At the end of his first year, Arhangelskii told Alexandrov that he wanted to specialize in topology.In 1959, in the thesis he wrote for his specialist degree, he introduced the concept of a network of a topological space. Now considered a fundamental topological notion, a network is a collection of subsets that is similar to a basis, without the requirement that the sets be open. Also in 1959 he married Olga Constantinovna.He received his Candidate of Sciences degree (equivalent to a Ph.D.) in 1962 from the Steklov Institute of Mathematics, supervised by Alexandrov. He was granted the Doctor of Sciences degree in 1966.
+It was in 1969 that Arhangelskii published what is considered his most significant mathematical result. Solving a problem posed in 1923 by Alexandrov and Urysohn, he proved that a first-countable, compact Hausdorff space must have a cardinality no greater than the continuum. In fact, his theorem is much more general, giving an upper bound on the cardinality of any Hausdorff space in terms of two cardinal functions. Specifically, he showed that for any Hausdorff space X,
+
+  
+    
+      
+        
+          |
+        
+        X
+        
+          |
+        
+        ≤
+        
+          2
+          
+            χ
+            (
+            X
+            )
+            L
+            (
+            X
+            )
+          
+        
+      
+    
+    {\displaystyle |X|\leq 2^{\chi (X)L(X)}}
+  where χ(X) is the character, and L(X) is the Lindelöf number. Chris Good referred to Arhangelskii's theorem as an "impressive result", and "a model for many other results in the field." Richard Hodel has called it "perhaps the most exciting and dramatic of the difficult inequalities", a "beautiful inequality", and "the most important inequality in cardinal invariants."In 1970 Arhangelskii became a full professor, still at Moscow State University. He spent 1972–75 on leave in Pakistan, teaching at the University of Islamabad under a UNESCO program.Arhangelskii took advantage of the few available opportunities to travel to mathematical conferences outside of the Soviet Union. He was at a conference in Prague when the 1991 Soviet coup d'état attempt took place. Returning under very uncertain conditions, he began to seek academic opportunities in the United States. In 1993 he accepted a professorship at Ohio University, where he received the Distinguished Professor Award in 2003.Arhangelskii was one of the founders of the journal Topology and its Applications, and volume 153 issue 13, July 2006, was a special issue, with most of the papers based on talks given at a special conference held at Brooklyn College 30 June–3 July 2003 in honor of his 65th birthday.
+
+
+== Selected publications ==
+
+
+=== Books ===
+Arkhangel'skii, Alexander Vladimirovich; Ponomarev, V.I. (1984). Fundamentals of General Topology: Problems and Exercises. Mathematics and Its Applications. Vol. 13. Dordrecht Boston: D. Reidel. ISBN 978-90-277-1355-1. OCLC 9944489.
+Arkhangel'skii, A. V.; Ponomarev, V. I. (31 December 1984). Fundamentals of General Topology: Problems and Exercises. D. Reidel. ISBN 9027713553.
+Arkhangel'skii, A. V. (30 November 1991). Topological Function Spaces. Kluwer Academic Publishers. ISBN 0-7923-1531-6.
+Arhangel'skii, Alexander; Tkachenko, Mikhail (27 May 2008). Topological Groups and Related Structures. Atlantis Press. ISBN 978-90-78677-06-2.
+
+
+=== Papers ===
+Arkhangel'skii, A.V. (1959). "An addition theorem for the weight of sets lying in bicompacta". Doklady Akademii Nauk SSSR. 126: 239–241.
+Arhangel'skiĭ, A. (1966). "Mappings and Spaces". Russian Mathematical Surveys. 21 (4): 115–162. Bibcode:1966RuMaS..21..115A. doi:10.1070/RM1966v021n04ABEH004169.
+Arkhangel'skiĭ, A.V. (1969). "An approximation of the theory of dyadic compacta". Soviet Mathematics. 10: 151–154.
+Arhangel'skii, A.V. (1969). "On the cardinality of bicompacta satisfying the first axiom of countability". Soviet Mathematics. 10: 967–970.
+Arkhangelskii, A. V. (1978). "Structure and Classification of Topological Spaces and Cardinal Invariants". Russian Mathematical Surveys. 33 (6): 33–96. Bibcode:1978RuMaS..33...33A. doi:10.1070/RM1978v033n06ABEH003884.
+Arkhangel'skii, A. V. (1980). "Some properties of radial spaces". Mathematical Notes. 27 (1): 50–54. doi:10.1007/BF01149814. S2CID 121200408.
+Arkhangel'skii, A. V. (1980). "Relations among the invariants of topological groups and their subspaces". Russian Mathematical Surveys. 35 (3): 1–24. doi:10.1070/RM1980v035n03ABEH001674.
+Arkhangel'skii, A. B.; Shakhmatov, D. B. (1990). "On pointwise approximation of arbitrary functions by countable families of continuous functions". Journal of Mathematical Sciences. 50 (2): 1497–1512. doi:10.1007/BF01388512. S2CID 121547929.
+Arhangel'skii, A.V. (5 June 1996). "Relative topological properties and relative topological spaces". Topology and Its Applications. 70 (2–3): 87–99. doi:10.1016/0166-8641(95)00086-0.
+
+
+== References ==
+
+
+== External links ==
+Personal profile at Ohio University
+"Moscow State University page". Archived from the original on 12 February 2009. Retrieved 29 June 2012.
+Alexandr Vladimirovich Arkhangel’skiĭ at zbMATH

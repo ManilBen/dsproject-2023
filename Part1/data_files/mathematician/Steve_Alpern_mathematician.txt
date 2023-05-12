@@ -1,0 +1,8 @@
+Professor Steve Alpern is a professor of Operational Research at the University of Warwick, where he recently moved after working for many years at the London School of Economics. His early work was mainly in the area of dynamical systems and ergodic theory, but his more recent research has been concentrated in the fields of search games and rendezvous. He informally introduced the rendezvous problem as early as 1976.  His collaborators include Shmuel Gal, Vic Baston and Robbert Fokkink.
+
+
+== External links ==
+Author profile in the database zbMATH
+
+
+== References ==

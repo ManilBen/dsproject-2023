@@ -1,0 +1,25 @@
+Abū Muḥammad Jābir ibn Aflaḥ (Arabic: أبو محمد جابر بن أفلح, Latin: Geber/Gebir; 1100–1150) was an Arab Muslim  astronomer and mathematician from Seville, who was active in 12th century al-Andalus. His work Iṣlāḥ al-Majisṭi (Correction of the Almagest) influenced Islamic, Jewish, and Christian astronomers.
+
+
+== Iṣlāḥ al-Majisṭi (Correction of the Almagest) ==
+This work is a commentary and reworking of Ptolemy's Almagest and is the first criticism of it in the Islamic West. He particularly criticized the mathematical basis of the work. For example, he replaced the use of Menelaus' theorem with ones based on spherical trigonometry, in what seems to be an attempt to increase the mathematical precision of the work. These theorems had been developed by a group of 10th century Islamic mathematicians who included Abū al-Wafā' Būzjānī and then also by Abu Abd Allah Muhammad ibn Muadh Al-Jayyani who worked in al-Andalus during the 11th century. Jābir does not credit any of these authors and does not refer to a single Islamic author in this work.One substantial change Jābir made to Ptolemy's account is that he placed the orbits of Venus and Mercury, the minor planets, outside that of the Sun, rather than between the Moon and the Sun as had been the case in the original work.
+
+
+== Inventor ==
+
+He invented an observational instrument known as the torquetum, a mechanical device to transform between spherical coordinate systems.
+
+
+== Influence ==
+Several later Muslim authors were influenced by Jābir, including Ibn Rushd (Averroes) and Nur ad-Din al-Betrugi, both of whom worked in al-Andalus. The work was transmitted to Egypt in the 12th century by Maimonides and further east by the end of the 13th century.The work was translated from the Arabic into both Hebrew and Latin, the latter by Gerard of Cremona, who Latinized his name as "Geber". Through this translation, it had a wide influence on later European mathematicians and astronomers and helped to promote trigonometry in Europe.Much of the material on spherical trigonometry in Regiomontanus' On Triangles (c.1463) was taken directly and without credit from Jābir's work, as noted in the 16th century by Gerolamo Cardano.
+
+
+== Notes ==
+
+
+== References ==
+Calvo, Emilia (2007). "Jābir ibn Aflaḥ: Abū Muḥammad Jābir ibn Aflaḥ".  In Thomas Hockey;  et al. (eds.). The Biographical Encyclopedia of Astronomers. New York: Springer. pp. 581–2. ISBN 978-0-387-31022-0. (PDF version)
+
+
+== External links ==
+Lorch, R. P. (2008) [1970-80]. "Jābir Ibn Aflah Al-Ishbīlī, Abū Muḥammad". Complete Dictionary of Scientific Biography. Encyclopedia.com.

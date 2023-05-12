@@ -1,0 +1,29 @@
+Robert Adrain (30 September 1775 – 10 August 1843) was an Irish political exile who won renown as a mathematician in the United States. He left Ireland after leading republican insurgents in the Rebellion of 1798, and settled in New Jersey and Pennsylvania. With Nathaniel Bowditch, he shares the distinction of being the first scholar to publish original mathematical research in America. This included his formulation of the method of least squares while working on a surveying problem (in two proofs of the exponential law of error published independently of Carl Friedrich Gauss) for which he is chiefly remembered. His fields of applied mathematical interest included physics, astronomy and geodesy. Many of his mathematical investigations focussed on the shape of the Earth.
+
+
+== Biography ==
+Adrian was born in Carrickfergus, County Antrim, Ireland. His father, of French Huguenot descent, was a school teacher and maker of mathematical instruments, and he apparently received a good education until he was fifteen when both his parents died. He then supported himself and his four siblings by assuming his father's position as a teacher and as private tutor. In the cause of democratic reform and national independence, on June 7, 1798 he led a contingent of United Irishmen in the rebel army commanded by Henry Joy McCracken at the Battle of Antrim. In the confrontation with British Crown forces, he was near fatally wounded by one of his own men. After being nursed back to health, with a bounty on his head he, his wife and infant child escaped to America.Although he was himself largely self-taught in mathematics, he secured a teaching position at the academy at Princeton, New Jersey. In 1801 he became president of the York County Academy in York, Pennsylvania. He wrote for the Mathematical Correspondent (edited by George Baron), the first mathematical journal in the United States, contributing the first article published in America on diophantine algebra. Later he twice attempted, in 1808 and 1814, to found his own journal, The Analyst, or, Mathematical Museum. While he failed to attract sufficient subscribers, the first volume of the Analyst has been considered "the best collection of mathematical work produced in the United States up to that time".  As well as from Adrian, it included contributions from Nathaniel Bowditch, Robert Patterson, John Gummere and Ferdinand Rudolph Hassler. Recognition followed. 
+In 1809 Adrian was called to a professorship at Rutgers (then Queen's) College which, in 1810, awarded him an honorary M.A.. In 1812 he was elected a Fellow of the American Philosophical Society and the next year, when he took a position at Columbia, of the American Academy of Arts and Sciences.  From 1827 he was Professor of Mathematics in the University of Pennsylvania
+1825 he founded a somewhat more successful publication targeting a wider readership, The Mathematical Diary, which was published through 1832. It was fashioned after the Correspondent, but at a higher level of mathematical involvement in problems solving and exposition.In 1834, Adrian was asked to resign from the University of Pennsylvania on grounds of class ill-discipline (instances of students overturning benches and throwing eggs). He returned to New Brunswick where he rented a school room and offered private tutoring until 1836. He then returned to New York and taught at the Columbia College Grammar School before retiring to New Brunswick in 1840 where three years later he died.It is suggested that Adrian, today, consistent with his conviction that "the last and highest department of mathematical science consists in its application to the laws and phenomenon of the natural world", he would be considered an applied mathematician. Among his broad interests in physics, astronomy and geography, his paramount concern was dynamic geodesy, spcifically the mathematical investigation of the shape of the earth.Adrain was the father of Congressman Garnett B. Adrain.  He is commemorated by a blue plaque, unveiled at Carrickfergus by the Ulster History Circle.
+
+
+== References ==
+
+
+=== Sources ===
+Webb, Alfred (1878). "Adrian, Robert" . A Compendium of Irish Biography. Dublin: M. H. Gill & son.
+Struik, D.J (1970). "Robert Adrain". Dictionary of Scientific Biography. Vol. 1. New York: Charles Scribner's Sons. pp. 65–66. ISBN 0-684-10114-9.
+Stigler, Stephen M. "Adrain, Robert". Oxford Dictionary of National Biography (online ed.). Oxford University Press. doi:10.1093/ref:odnb/172. (Subscription or UK public library membership required.)Attribution This article incorporates text from a publication now in the public domain: "Adrain, Robert". Dictionary of National Biography. London: Smith, Elder & Co. 1885–1900.
+
+
+== Further reading ==
+Robert Adrain. "Research concerning the probabilities of the errors which happen in making observations, &c". The Analyst, or Mathematical Museum. Vol. I, Article XIV, pp 93–109. Philadelphia: William P. Farrand and Co., 1808.
+Brian Hayes. "Science on the Farther Shore". American Scientist, 90(6):499, 2002. JSTOR 27857746
+Thomas Preveraud. « Vers des mathématiques américaines. Enseignements et éditions: de Robert Adrain à la genèse nationale d’une discipline (1800–1843). », université de Nantes, Centre François Viète.
+Stephen M. Stigler. "Mathematical statistics in the early States". Annals of Statistics, 6:239–265, 1978. doi:10.1214/aos/1176344123
+
+
+== External links ==
+
+MacTutor biography
+http://www.libraryireland.com/biography/RobertAdrain.php

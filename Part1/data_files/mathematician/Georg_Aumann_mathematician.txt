@@ -1,0 +1,126 @@
+Georg Aumann (11 November 1906, Munich, Germany – 4 August 1980), was a German mathematician. He was known for his work in general topology and regulated functions. During World War II, he worked as part of a group of five mathematicians, recruited by Wilhelm Fenner, and which included Ernst Witt, Alexander Aigner, Oswald Teichmueller and Johann Friedrich Schultze, and led by Wolfgang Franz, to form the backbone of the new mathematical research department in the late 1930s, which would eventually be called: Section IVc of Cipher Department of the High Command of the Wehrmacht (abbr. OKW/Chi).  He also worked as a cryptanalyst, on the initial breaking of the most difficult cyphers. He also researched and developed cryptography theory.
+
+
+== Life ==
+Born in Munich, George Aumann initially considered a career as a civil servant. From 1925, Aumann studied mathematics and physics at the Ludwig-Maximilian-University of Munich, among others with Professor Constantin Carathéodory and Professor Heinrich Tietze. He was promoted in 1931 to Doctor of Philosophy with a thesis titled: contributions to the theory of decomposition spaces (German:Beiträge zur Theorie der Zerlegungsräume) In 1933 he habilitated twice, at the Technical University of Munich, and at the University of Munich (with different degrees of postdoctoral dissertation). In 1934–35 he was appointed a Rockefeller scholar at the Institute for Advanced Study in Princeton N.J. In 1936 he became an extraordinary professor at the Goethe University in Frankfurt. At the beginning of the war, he was conscripted for military service Appeals to a full professorship failed several times because he was regarded as politically unreliable among the Nazis Ministry of Education. In all these years his wife was an indispensable, prudent and energetic support to him.
+In 1949 he became full professor at the University of Würzburg and in 1950 at the University of Munich. In 1960 he moved to a professorship at the Technical University of Munich.  After the war, he received an apology.In 1954 he published Real Functions, a nine-chapter textbook on real analysis. In a review, Paul Halmos said "The quality, quantity, organization, and exposition of its contents, together with the fact that much of the material in it has not been available hitherto in book form, serve to make it a recommended part of the library of every modern analyst." The text was re-printed in 1969.He also dealt with conformal illustrations, properties of complex polynomials, band theory and cluster theory. Aumann also wrote a three-dimensional analysis textbook with Otto Haupt and a three-volume mathematics textbook for engineers.In 1958 Aumann became a full member of the Bavarian Academy of SciencesIn 1977 the University of Erlangen awarded Aumann an Honorary Doctor of Science degree, Doctor rerum naturalium honoris causa.
+
+
+== Contact and neighborhood relations ==
+In 1970 Aumann contributed to the theory of binary relations with a generalization of the set membership relation ∈. The elements of a universe U form the domain of this relation while the range is the power set on U, denoted P(U). A contact relation C with this domain and range is expressed in terms of the calculus of relations using compositions:
+
+  
+    
+      
+        
+          C
+          
+            T
+          
+        
+        
+          
+            
+              C
+              ¯
+            
+          
+        
+         
+        ⊆
+         
+        ∋
+        
+          
+            
+              C
+              ¯
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle C^{T}{\bar {C}}\ \subseteq \ \ni {\bar {C}},}
+   where CT is the converse of C, 
+  
+    
+      
+        ∋
+      
+    
+    {\displaystyle \ni }
+   is the converse of set membership, and 
+  
+    
+      
+        
+          
+            
+              C
+              ¯
+            
+          
+        
+      
+    
+    {\displaystyle {\bar {C}}}
+   is the complementary relation to C.Alternatively, using the left residual ∈\C, the condition for a contact relation may be expressed 
+  
+    
+      
+        C
+        (
+        ∈
+        ∖
+        C
+        )
+        ⊆
+        C
+      
+    
+    {\displaystyle C(\in \backslash C)\subseteq C}
+   through use of Schröder rules. Aumann contacts have been further developed by Gunther Schmidt and Michael Winter.Aumann showed in 1977 how a neighborhood system r in the power set on A can be identified from a corresponding binary relation 
+  
+    
+      
+        
+          ∼
+          
+            r
+          
+        
+      
+    
+    {\displaystyle \sim _{r}}
+   on maps from A to B, where B has at least two elements. The relation 
+  
+    
+      
+        f
+         
+        
+          ∼
+          
+            r
+          
+        
+         
+        g
+      
+    
+    {\displaystyle f\ \sim _{r}\ g}
+   between two maps holds when there is a subset of A in r where f and g agree.
+
+
+== Publications ==
+The following are a small subset of his known publications.
+
+Real Functions (German:Reelle Funktionen), Fundamentals of Mathematical Sciences, Springer Verlag, 2nd Edition 1969
+Higher Mathematics (German:Höhere Mathematik), Volumes 1–3, BI Universitätsaschenbücher 1970/71
+Ad artem ultimam: an introduction to the world of thought in mathematics (German:Ad artem ultimam: eine Einführung in die Gedankenwelt der Mathematik), Oldenbourg 1974
+With Otto Haupt: Introduction to Real Analysis (German:Einführung in die reelle Analysis), 3 Volumes, De Gruyter, 3rd Edition 1974 to 1983
+Approximation of functions (German:Approximation von Funktionen), in Robert Sauer, Istvan Szabo The mathematical tools of the engineer (German:Die mathematischen Hilfsmittel des Ingenieurs), Volume 3, Springer Verlag 1968
+
+
+== References ==

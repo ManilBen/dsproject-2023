@@ -1,0 +1,62 @@
+Rouben V. Ambartzumian (Armenian: Ռուբեն Վ․ Համբարձումյան;Russian: Рубен В. Амбарцумян) (born 1941) is an Armenian mathematician and Academician of National Academy of Sciences of Armenia. He works in Stochastic Geometry and Integral Geometry where he created a new branch, combinatorial integral geometry. The subject of combinatorial integral geometry received support from mathematicians K. Krickeberg and D. G. Kendall at the 1976 Sevan Symposium (Armenia) which was sponsored by Royal Society of London and The London Mathematical Society. In the framework of the later theory he solved a number of classical problems in particular the solution to the Buffon Sylvester problem as well as the Hilbert's fourth problem in 1976. He is a holder of the Rollo Davidson Prize of Cambridge University of 1982. Rouben's interest in Integral Geometry was inherited from his father. Nobel prize winner Allan McLeod Cormack Laureate for Tomography wrote: "Ambartsumian gave the first numerical inversion of the Radon transform and it gives the lie to the often made statement that computed tomography would have been impossible without computers". Victor Hambardzumyan, in his book "A Life in Astrophysics", wrote about the work of Rouben V. Ambartzumian, "More recently, it came to my knowledge that the invariance principle or invariant embedding was applied in a purely mathematical field of integral geometry where it gave birth to a novel, combinatorial branch." See R. V. Ambartzumian, «Combinatorial Integral Geometry», John Wiley, 1982.
+
+
+== Experience ==
+1968 – present, Head of department, Institute of Mathematics, National Academy of Sciences of Armenia
+1990 – 2010 Chief Editor of the Izvestia NAN RA Matematika (in Russian)
+1990 – 2010 Translation Editor of Journal of Contemporary Mathematical Analysis, Allerton Press, Inc. New York (the English Translation of Izvestia NAS RA Matematika)
+2009 -2013 Director of the FREEZWATER project, Yerevan, Armenia
+
+
+== Education, scientific degrees ==
+1986              Academician of National Academy of Sciences of Armenia
+1975	        Soviet Doctor of Mathematics and Physics, from Steklov Mathematical Institute, Moscow
+1968 	        Soviet Kandidat of Mathematics and Physics , from Steklov Mathematical	Institute, Moscow
+1959–1964	Moscow State University diploma, Mathematician.
+
+
+== Books ==
+1982 – R.V. Ambartzumian "Combinatorial Integral Geometry with Applications to Mathematical Stereology, John Wiley, Chichester, NYThe book was positively reviewed in many journals. In particular Ralph Alexander wrote in the Bulletin (New Series) of the American Math Society the following
+"Ambartzumian established a base camp in a little explored area of geometry. From here a number of interesting problems can be seen from a new perspective. With luck a boom town could arise. At the very least this work is a significant contribution to the foundations of integral geometry".
+
+1989 – R.V. Ambartzumian, D.Stoyan, J.Mecke “Introduction to Stochastic Geometry”, Nauka, Moscow (in Russian)
+1990 – R.V. Ambartzumian  “Factorization Calculus and Geometric Probability, Encyclopedia of Mathematics and Its Applications 33, Cambridge University Press, Cambridge
+1989 – R.V. Ambartzumian, J.Mecke, D.Stoyan “Geometrische Wahrscheinlichkeiten und Stochastische Geometrie” Akademie Verlag, Berlin
+2015 – R.V. Ambartzumian “WILSONIAN ARMENIA: stories behind the failed project”
+
+
+== Collections of papers,  Editor ==
+“Combinatorial Principles in Stochastic Geometry” (in Russian) NASRA Publishing House, Yerevan 1980The paper contains a review of the main results of Yerevan research group in planar stochastic geometry, in particular the second order random geometrical processes using the methods of integration of combinatorial decompositions and invariant imbedding.
+
+“Stochastic Geometry, Geometric Statistics, Stereology” (Proceedings of the Conference held at Oberwolfach, 1983). Teubner - Texte zur Mathematik, Band 65, Leipzig 1983
+“Stochastic and Integral Geometry”,  (Proceedings of the Second Sevan Symposium on Integral and Stochastic Geometry), in Acta Applicandae Mathematicae, Vol 9, Nos 1-2 (1987)
+
+
+== Organizer of International Conferences ==
+1978 – I Sevan Symposium on Integral Geometry “200 anniversary of Buffon problem”, Sevan, Armenia. Sponsorship from the Royal Society of London
+1983 – Conference on Stochastic Geometry, Geometric Statistics and Stereology, Oberwolfach (Germany)
+1985 – II Sevan Symposium on Integral and Stochastic Geometry, Sevan, Armenia
+1991- Conference on Stochastic Geometry, Oberwolfach (Germany)
+2013- Swiss –Armenian Round Table
+
+
+== References ==
+"Academician R. V. Ambartzumian". Journal of Contemporary Mathematical Analysis. 48: 1–3. 2013. doi:10.3103/S1068362313010019. S2CID 195125736.
+"Publications of Rouben V. Ambartzumian in J CONTEMP MATH ANAL-ARMEN ACA - Journal of Contemporary Mathematical Analysis-armenian Academy of Sciences". msra.cn.
+Ambartzumian R. V. (2007). "Chord calculus and stochastic geometry". Journal of Contemporary Mathematical Analysis. 42 (1): 3–27. doi:10.3103/s1068362307010013. S2CID 124183883.
+Ambartzumian, R. V., Wicksell problem for planar particles of random shape http://www.math.uni-magdeburg.de/stoch2002/abstracts/s6-ambartzumian.pdf
+"Risultati sintetici". sbn.it.
+Ambartzumian, R. V, Wilsonain Armenia: stories behind the failed project https://www.lap-publishing.com/catalog/details/store/de/book/978-3-659-75300-8/wilsonian-armenia:-stories-behind-the-failed-project?search=wilsonian%20armeina
+Mathematician Rouben Ambartzumian celebrates his diamond jubilee today http://www.lragir.am/index/eng/0/society/rss/36468
+https://link.springer.com/article/10.3103%2FS1068362307010013?LI=true
+Palm distributions and random colorings of the plane http://www.mathnet.ru/php/presentation.phtml?option_lang=eng&presentid=250
+Ambartzumian, R.V. J. Contemp. Mathemat. Anal. (2009) 44: 25. https://doi.org/10.3103/S1068362309010063
+Ambartzumian, R.V. J. Contemp. Mathemat. Anal. (2007) 42: 3. https://doi.org/10.3103/S1068362307010013
+Ambartzumian, R.V. J. Contemp. Mathemat. Anal. (2008) 43: 3. https://doi.org/10.3103/s11957-008-1002-0
+Амбарцумян, Р. В. (1999) Аналитические результаты комбинаторной интегральной геометрии : Обзор. Հայաստանի ԳԱԱ Տեղեկագիր. Մաթեմատիկա, 34 (6). pp. 7–51. ISSN 0002-3043 http://mathematics.asj-oa.am/id/eprint/580
+Ambartzumian, R. V. (2013) Parallel X-ray tomography of convex domains as a search problem in two dimensions. Հայաստանի ԳԱԱ Տեղեկագիր. Մաթեմատիկա, 48 (1). pp. 37–52. ISSN 0002-3043 http://mathematics.asj-oa.am/id/eprint/2334
+https://books.google.com/books?id=DYIfNZ_RRS4C&dq=%22%D1%80+%D0%B2+%D0%B0%D0%BC%D0%B1%D0%B0%D1%80%D1%86%D1%83%D0%BC%D1%8F%D0%BD%22+OR+%22r+v+ambartzumian%22&pg=PR9
+A. A. Krasnovsky Jr., N. N. Drozdova, Ya. V. Roumbal, A. V. Ivanov, and R. V. Ambartzumian, "Biophotonics of molecular oxygen: activation efficiencies upon direct and photosensitized excitation," Chin. Opt. Lett. 3, S1-S4 (2005) http://col.osa.org/abstract.cfm?URI=col-3-101-S1
+Chemical Physics Letters Volume 400, Issues 4–6, 21 December 2004,A. A. Krasnovsky Jr. R. V. Ambartzumian Pages 531-535 https://doi.org/10.1016/j.cplett.2004.11.009
+Ambartzumian, R.V.; Oganian, V.K. (1998). "Parametric versions of Hilbert's fourth problem". Israel Journal of Mathematics. 103: 41–65. doi:10.1007/BF02762267.
+Ambartzumian, R. V. (2013) Sevan methodologies revisited: Random line processes. Հայաստանի ԳԱԱ Տեղեկագիր. Մաթեմատիկա, 48 (1). pp. 9–36. ISSN ISSN 0002-3043 http://mathematics.asj-oa.am/id/eprint/2333

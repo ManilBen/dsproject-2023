@@ -1,0 +1,25 @@
+Francis John Anscombe (13 May 1918 – 17 October 2001) was an English statistician.
+
+
+== Education and career ==
+Born in Hove in England, Anscombe was educated at Trinity College at Cambridge University. After serving in the Second World War, he joined Rothamsted Experimental Station for two years before returning to Cambridge as a lecturer.
+In experiments, Anscombe emphasized randomization in both the design and analysis phases. In the design phase, Anscombe argued that the experimenters should randomize the labels of blocks. In the analysis phase, Anscombe argued that the randomization plan should guide the analysis of data; Anscombe's approach has influenced John Nelder and R. A. Bailey in particular.
+Anscombe moved to Princeton University in 1956, and in the same year he was elected as a Fellow of the American Statistical Association. He became the founding chairman of the statistics department at Yale University in 1963.
+
+
+== Research ==
+
+According to David Cox, his best-known work may be his 1961 account of formal properties of residuals in linear regression.
+His earlier suggestion for a variance-stabilizing transformation for Poisson data is often known as the Anscombe transform.He later became interested in statistical computing, and stressed that "a computer should make both calculations and graphs", and illustrated the importance of graphing data with four data sets now known as Anscombe's quartet. He later published a textbook on statistical computing in APL.In economics and decision theory, Anscombe is best known for a 1963 paper with Robert Aumann which provides the standard basis for the theory of subjective probability.
+
+
+== Personal life ==
+Anscombe was brother-in-law to another well-known statistician, John Tukey of Princeton University; their wives were sisters.
+
+
+== References ==
+
+
+== External links ==
+Frank Anscombe at the Mathematics Genealogy Project
+Francis John Anscombe Papers. Manuscripts and Archives, Yale University Library.

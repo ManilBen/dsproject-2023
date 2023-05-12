@@ -1,0 +1,40 @@
+Neal Russell Amundson (January 10, 1916 – February 16, 2011) was an American chemical engineer and applied mathematician. He was the Chair of the Department of Chemical Engineering at the University of Minnesota for over 25 years. Later, he was the Cullen Professor of Chemical & Biomolecular Engineering and Mathematics at the University of Houston. Amundson was considered one of the most prominent chemical engineering educators and researchers in the United States. The Chemical Engineering and Materials Science building at the University of Minnesota-Twin Cities bears his name.
+
+
+== Early life and education ==
+Neal Amundson was born and raised in Saint Paul, Minnesota, as the only child of a pipefitter and a housewife who struggled to survive the Great Depression. As a young child of 9, Neal became a scratch golfer with golf clubs provided by his father, Oscar Amundson.  Neal graduated from St. Paul Central High School in 1933 and was sixth in his class of 658 students.  Neal was awarded a bachelor's degree in chemical engineering in 1937 and was first in his class of 52 students that year from the University of Minnesota.  He was employed as a process engineer with Standard Oil of New Jersey at a plant in Louisiana.  He then returned to Minnesota where he met his wife, Shirley Dimond in 1941, and had three children.  He entered graduate school at the University of Minnesota and earned his master's degree in chemical engineering in 1941; and his PhD in mathematics in 1945.
+
+
+== Career ==
+He taught in the mathematics department until 1947 and joined the University of Minnesota's Chemical Engineering Department, where he served as Chair from 1949 until 1977.  During his 25 years as department chair, Amundson helped the department to achieve a high national ranking among chemical engineering departments, which it still retains.Amundson joined the University of Houston (UH) in 1977 as a Cullen Professor and a faculty member of the Chemical Engineering & Mathematics departments. He served as UH Provost from 1987 to 1989. Amundson is known internationally for his pioneering work applying mathematical modeling and analysis to the solution of chemical engineering problems.  His technical contributions are in the areas of mathematical modeling and analysis of chemical reactors, separation systems, polymerization units, and coal gasification units. Amundson was one of the main architects of the analytical methodology practiced by chemical engineers today.Amundson wrote more than 200 technical articles as well as several books.  He chaired the U.S. National Research Council committee that wrote the influential "Frontiers in Chemical Engineering" report. He was the U.S. editor of Chemical Engineering Science from 1955 to 1972. Amundson was elected a member of National Academy of Engineering in 1970 and the National Academy of Sciences in 1992. He was elected a Fellow of the American Academy of Arts and Sciences in 1992.  The National Academy of Engineering (NAE) bestowed on Amundson the prestigious NAE Founders' Award in 1990.In 1996, Amundson was the first recipient of the International Symposia on Chemical Reaction Engineering (ISCRE) award for excellence, an award that is also named for him. The chemical engineering building at his alma mater University of Minnesota is named in his honor. He received numerous professional awards from the American Institute of Chemical Engineers (AIChE), American Chemical Society (ACS), International Symposium on Chemical Reaction Engineering (ISCRE), and American Society for Engineering Education (ASEE).
+He received honorary doctorates from the Universities of Minnesota, Notre Dame, Pennsylvania, Guadalajara, and Northwestern University. He received the highest faculty honors given by the Universities of Minnesota and Houston.
+
+
+== Key publications ==
+Neal Amundson has authored numerous journal articles describing significant advances in chemical reaction engineering and chemical engineering which includes but is not limited to:
+
+A. Acrivos, Neal Amundson, "Applications of matrix mathematics to chemical engineering problems", Industrial & Engineering Chemistry 47, 1533 (1955).
+L. Lapidus, Neal Amundson, "Mathematics of adsorption in beds - VI: The effect of longitudinal diffusion in ion exchange and chromatographic columns", Journal of Physical Chemistry 56, 984 (1952).
+L. Lapidus, Neal Amundson, "Chemical reactor stability and sensitivity", AIChE Journal 1, 513 (1955).
+O. Bilous, Neal Amundson, "Chemical reactor stability and sensitivity - II: Effect of parameters on sensitivity of empty tubular reactors", AIChE Journal 2, 117-126 (1956).
+R. Aris, Neal Amundson, "An analysis of chemical reactor stability and control - I: The possibility of local control, with perfect or imperfect control mechanisms", Chemical Engineering Science 7, 121 (1958).
+K.Valentas, O. Bilous, Neal Amundson, "Analysis of breakage in dispersed phase systems", Industrial and Engineering Chemistry Fundamentals 5, 271 (1966).
+Dan Luss, Neal Amundson, "Uniqueness of the steady state solutions for chemical reaction occurring in a catalyst particle or in a tubular reactor with axial diffusion", Chemical Engineering Science 22, 253-266 (1967).
+F.R. Newbold, Neal R. Amundson, "A model for evaporation of a multicomponent droplet", AIChE Journal 19, 22-30 (1973).
+Hugo S. Caram, Neal R. Amundson, "Diffusion and reaction in a stagnant boundary layer about a carbon particle", Industrial and Engineering Chemistry Fundamentals 16, 171-181 (1977).
+
+
+== Legacy and impact on chemical engineering ==
+Neal's vision was to combine modern advances in science together with elegant yet practical mathematical methods.  In his first two decades as department head of chemical engineering at the University of Minnesota, Amundson hired several chemists, mathematicians, and chemical engineers. He encouraged young faculty to explore new topics in chemical engineering such as biological systems and focused on broadening the discipline to include materials science and engineering. Neal acknowledged the importance of emerging fields and had a goal of attracting young faculty in topics such as microbiology and polymers.  In two decades, he hired several faculty that would become leaders of chemical engineering and materials science; these diverse individuals were then combined into a coherent program bound by his philosophy for team teaching and collaborative research.  Neal was famous for stating, "I never hired anybody if I thought I was smarter than they are."  Amundson promoted the idea of teaching courses in groups, with young faculty teaching and lecturing alongside senior professors; his legacy continues at the University of Minnesota.
+Neal Amundson has been called the "father of modern chemical engineering" to recognize his invigoration of chemical engineering with mathematics and emerging research fields.  His work has impacted multiple generations of students, including his mentoring of 52 PhD students throughout his career.  As of 2006, Neal Amundson's academic family tree contains more than 3,000 individuals.  His work on reaction engineering, transport phenomena, and complex reacting systems remains the foundation of modern reaction engineering and chemical engineering.  As stated by Profssors Andreas Acrivos and Dan Luss, "Seldom has an individual exerted such a major influence in the development of an important field as was done by Neal Amundson to chemical engineering."
+
+
+== Death ==
+Amundson died on February 16, 2011, at the age of 95.
+
+
+== Notes ==
+
+
+== External links ==
+Andreas Acrivos and Dan Luss, "Neal Russell Amundson", Biographical Memoirs of the National Academy of Sciences (2013)

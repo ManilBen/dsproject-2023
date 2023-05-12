@@ -1,0 +1,29 @@
+Joseph Arkin ((1923-05-25)May 25, 1923 – (2002-08-05)August 5, 2002) was a mathematician, lecturer and professor at the West Point military academy.Originally from Brooklyn, New York, Professor Joseph "Joe" Arkin was married for 48 years to Judith Lobel Arkin. They had four daughters, Helen, Aviva, Jessica and Sarah.
+Professor Joseph Arkin worked at the Department of Mathematical Sciences at the United States Military Academy since 1986, until he retired from the faculty on September 23, 1994. He also spent time as a visiting lecturer at Princeton and The New York Academy of Sciences. He was a member of the American Mathematical Society since 1964, and member of the Fibonacci Association since 1965.Most of his contributions and collaborative academic research was in the branch of number theory. He authored and co-authored publications, in collaboration with notable mathematicians like Paul Erdős, Ronald Graham, E.G. Straus, Richard Pollack, Vern Hoggatt, Paul Smith, V.E. Smith, Gerald Bergum, and Stefan Burr, among others.Many of his studies have appeared in publications such as the Mathematics Magazine, Fibonacci Quarterly, SIAM Review, Duke Mathematical Journal, Journal of Recreational Mathematics, and in Notices of the American Mathematical Society.Arkin also published papers in the Canadian Journal of Mathematics, the Pacific Journal of Mathematics, and the Mathematics and Computer Education Journal.
+
+
+== Academic research ==
+Arkin, Joseph; Hoggatt, V. E.; Straus, E. G. (1979). "On Euler's Solution to a Problem of Diophantus" (PDF). The Fibonacci Quarterly. 17: 333–339.
+Arkin, Joseph (1966). "A note on a theorem of Jacobi" (PDF). Fibonacci Quarterly. 4: 359–62.
+Arkin, Joseph (1969). "Convergence of the Coefficients in a Recurring Power Series" (PDF). Fibonacci Quarterly. 7: 41–55.
+Arkin, Joseph; Pollack, Richard (1970). "Recurrence Formulas" (PDF). Fibonacci Quarterly. 8: 4–5.
+Arkin, Joseph (1970). "An Extension of Fibonacci Numbers" (PDF). Fibonacci Quarterly. 8: 199–216.
+Arkin, Joseph (1970). "An extension of a theorem of Euler" (PDF). Fibonacci Quarterly. 8: 421–27.
+Arkin, Joseph (1970). "Certain Arithmetical Properties of )" (PDF). Fibonacci Quarterly. 8 (5): 531–37.
+Arkin, Joseph (1973). "Convergence of the Coefficients in the kth Power of a Power Series" (PDF). Fibonacci Quarterly. 11 (1): 15–24.
+Arkin, Joseph (1973). "The First Solution of the Classical Eulerian Magic Cube Problem of Order Ten" (PDF). Fibonacci Quarterly. 11 (2): 174–78.
+Arkin, Joseph (1973). "A solution to the classical problem of finding systems of three mutually orthogonal issues in a cube formed by three superimposed 10 x 10 x 10 cubes" (PDF). Fibonacci Quarterly. 11 (5): 480–84.
+Arkin, Joseph (1974). "A solution of orthogonal triples in four superimposed 10 x 10 x 10 Latin cubes" (PDF). Fibonacci Quarterly. 12 (2): 133–40.
+Arkin, Joseph; Strauss, E. G. (1974). "Latin k-Cubes" (PDF). Fibonacci Quarterly. 12 (3): 288–91.
+Arkin, Joseph; Hoggatt, Jr., V. E. (1975). "The Generalized Fibonacci Issue and Its Relation to Wilson's Theorem" (PDF). Fibonacci Quarterly. 13 (2): 107–09.
+Arkin, Joseph; Smith, Paul (1976). "Trebly-magic systems in a Latin 3-cube of order eight" (PDF). Fibonacci Quarterly. 14 (2): 167–70.
+Arkin, Joseph; Singh, K. (1981). "A new type magic latin 3-cube of order ten" (PDF). Fibonacci Quarterly. 19 (1): 76–82.
+Arkin, Joseph; Straus, E. G. (1981). "Orthogonal Latin Systems" (PDF). Fibonacci Quarterly. 19 (4): 289–92.
+Arkin, Joseph; Arney, D.C.; Bergum, G .E.; Burr, Stephan A.; Porter, B. J. (1989). "Unique Fibonacci Formulas" (PDF). Fibonacci Quarterly. 27 (4): 296–302.
+Arkin, Joseph; Arney, D.C.; Bergum, G.E.; Vurr, S.A.; Porter, B. J (1989). "Recurring-Sequence Tiling" (PDF). Fibonacci Quarterly. 27 (4): 323–332.
+Arkin, Joseph; Arney, D.C.; Bergum, G .E.; Burr, Stephan A.; Porter, B. J. (1990). "Tiling the kth power of a power series" (PDF). Quarterly. 28 (3): 266–272.
+Arkin, Joseph (1965). "An Extension of the Fibonacci Numbers". American Mathematical Monthly. 72 (3): 275–79. doi:10.2307/2313696. JSTOR 2313696.
+Arkin, Joseph (1965). "Ladder Network Analysis using Polynomials" (PDF). Fibonacci Quarterly. 3 (2): 139–42.
+
+
+== References ==

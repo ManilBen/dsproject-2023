@@ -1,0 +1,8 @@
+Bradley K. Alpert is a computational scientist at NIST. He is probably best known for co-developing fast spherical filters. His fast spherical filters were (and remain) critical in the construction of the most efficient three-dimensional fast multipole methods (FMMs) for solving the Helmholtz equation and Maxwell's equations. Other well-known work of his includes contributions to computational methods for time-domain wave propagation, quadratures for singular integrals, and multiwavelets.Alpert was awarded the 2006 Flemming Award for his work on spherical filters and his other contributions to scientific computing. He was awarded a Bronze Medal from the U.S. Department of Commerce in 1997 for joint work on processing antenna measurements corrupted by errors in the positions of probes.Alpert received his Ph.D. from Yale University in 1990, under the supervision of Vladimir Rokhlin. Alpert worked as a casualty actuary early in his career, and was a Hans Lewy postdoctoral fellow at Lawrence Berkeley National Laboratory and U.C. Berkeley.
+
+
+== References ==
+
+
+== External links ==
+Bradley K. Alpert's home page

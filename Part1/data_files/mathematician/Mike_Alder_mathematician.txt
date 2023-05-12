@@ -1,0 +1,31 @@
+Michael D. Alder is an Australian mathematician, formerly an assistant professor at the University of Western Australia. Alder is known for his popular writing, such as sardonic articles about the lack of basic arithmetic skills in young adults.
+
+
+== Career ==
+Alder received a B.Sc. in physics from Imperial College, then a PhD in algebraic topology from the University of Liverpool, and an M. Eng. Sc. from the University of Western Australia. He was an assistant professor at the University of Western Australia until 2011.
+
+
+== Newton's flaming laser sword ==
+
+Newton's flaming laser sword (also known as Alder's razor) is a philosophical razor devised by Alder and discussed in an essay in the May/June 2004 issue of Philosophy Now. The principle, which addresses the differing views of scientists and philosophers on epistemology and knowledge, was summarized by Alder as follows:
+
+In its weakest form it says that we should not dispute propositions unless they can be shown by precise logic and/or mathematics to have observable consequences. In its strongest form it demands a list of observable consequences and a formal demonstration that they are indeed consequences of the proposition claimed.
+The razor is humorously named after Isaac Newton, as it is inspired by Newtonian thought and is called a "Laser Sword" because it is "much sharper and more dangerous than Occam's Razor".Alder writes that the average scientist does not hold philosophy in high regard, considering it "somewhere between sociology and literary criticism". He has strongly criticized what he sees as the disproportionate influence of Greek philosophy—especially Platonism—in modern philosophy. He contrasts the scientist's Popperian approach to the philosopher's Platonic approach, which he describes as pure reason. He illustrates this with the example of the irresistible force paradox, amongst others. According to Alder, the scientist's answer to the paradox "What happens when an irresistible force is exerted on an immovable object" is that the premise of the question is flawed: either the object is moved (and thus the object is movable), or it is not (thus the force is resistible):
+Eventually I concluded that language was bigger than the universe, that it was possible to talk about things in the same sentence which could not both be found in the real world. The real world might conceivably contain some object which had never so far been moved, and it might contain a force that had never successfully been resisted, but the question of whether the object was really immovable could only be known if all possible forces had been tried on it and left it unmoved. So the matter could be resolved by trying out the hitherto irresistible force on the hitherto immovable object to see what happened. Either the object would move or it wouldn't, which would tell us only that either the hitherto immovable object was not in fact immovable, or that the hitherto irresistible force was in fact resistible.
+That is, to the scientist, the question can be solved by experiment. Alder admits, however, that "While the Newtonian insistence on ensuring that any statement is testable by observation... undoubtedly cuts out the crap, it also seems to cut out almost everything else as well."
+
+
+== See also ==
+Defeasible reasoning – Reasoning that is rationally compelling, though not deductively valid
+Falsifiability – Property of a theory/hypothesis/statement that can be logically contradicted by an empirical test
+Hanlon's razor – Adage to assume stupidity over malice
+Hitchens's razor – Epistemological razor
+Logical positivism – Movement in Western philosophy – a similar epistemological reductionist standard
+McNamara fallacy – Erroneous reasoning based on numeric metrics
+
+
+== References ==
+
+
+== External links ==
+"Mike Alder's Home Page". 15 May 2007. Archived from the original on 14 April 2011.

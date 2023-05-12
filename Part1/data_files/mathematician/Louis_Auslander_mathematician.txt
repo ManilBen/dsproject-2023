@@ -1,0 +1,38 @@
+Louis Auslander (July 12, 1928 – February 25, 1997) was a Jewish American mathematician. He had wide-ranging interests both in pure and applied mathematics and worked on Finsler geometry, geometry of solvmanifolds and nilmanifolds, locally affine spaces, many aspects of harmonic analysis, representation theory of solvable Lie groups, and multidimensional Fourier transforms and the design of signal sets for communications and radar. He is the author of more than one hundred papers and ten books.
+
+
+== Education and career ==
+Auslander received his Ph.D. at the University of Chicago in 1955 under Shiing-Shen Chern. He was a visiting scholar at the Institute for Advanced Study in 1955-57 and again in 1971-72.
+After holding a variety of faculty positions at US universities, in 1965 Auslander joined the faculty at City University of New York, Graduate Center and since 1971 he had been a Distinguished Professor of Mathematics and Computer Science there. 
+
+
+== Personal life ==
+Louis Auslander was married twice, first for over 25 years to Elinor Newstadt Auslander, with whom he had three children (Nathan, Rose, and Daniel), and later to Fernande Couturier Auslander. His brother Maurice Auslander was also a mathematician.
+
+
+== Selected publications ==
+
+
+=== Articles ===
+Auslander, Louis & Kostant, Bertram (1971). "Polarization and unitary representations of solvable Lie groups". Inventiones Mathematicae. 14 (4): 255–354. doi:10.1007/bf01389744. S2CID 122009744.
+Auslander, L.; Tolimieri, R. (1979). "Is computing the finite Fourier transform pure or applied mathematics?". Bulletin of the American Mathematical Society. New Series. 1: 847–897. doi:10.1090/s0273-0979-1979-14686-x.
+
+
+=== Books ===
+with L. Markus: Flat Lorentz 3-Manifolds, AMS 1957
+with Robert MacKenzie: Introduction to differentiable Manifolds, McGraw Hill 1963
+with Leon W. Green and Frank J. Hahn: Flows on homogeneous spaces, Princeton University Press 1963 (with the assistance of Lawrence Markus and William S. Massey and an appendix by L. Greenberg)
+with Calvin C. Moore: Unitary representations of solvable Lie groups, AMS 1966
+Abelian Harmonic Analysis, Theta Functions and Function Algebras on a Nilmanifold, Springer, 1975
+Lecture Notes on Nil-Theta Functions, CBMS lectures, American Mathematical Society, 1977
+Minimal flows and their extensions, North-Holland 1988
+as editor: Signal processing theory, 2 vols., Springer 1990
+
+
+== References ==
+
+SourcesShiing-Shen Chern, Thomas Kailath, Bertram Kostant, Calvin C. Moore, Anna Tsao, Louis Auslander (1928–1997), Notices of the American Mathematical Society, vol 45, number 3, March 1998
+
+
+== External links ==
+Louis Auslander at the Mathematics Genealogy Project

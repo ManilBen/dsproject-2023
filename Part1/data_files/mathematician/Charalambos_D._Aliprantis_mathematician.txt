@@ -1,0 +1,26 @@
+Charalambos Dionisios Aliprantis (Greek: Χαράλαμπος Διονύσιος Αλιπράντης; May 12, 1946 – February 27, 2009) was a Greek-American economist and mathematician who introduced Banach space and Riesz space methods in economic theory.  He was born in Cefalonia, Greece in 1946 and immigrated to the US in 1969, where he obtained his PhD in Mathematics from Caltech in June 1973.
+He was a distinguished professor of Economics and Mathematics at Purdue University.  He was the founding editor of the journals Economic Theory and Annals of Finance, an Editor of Positivity and a founding member of the Society for the Advancement of Economic Theory.
+
+
+== References ==
+
+
+=== About Aliprantis ===
+Anonymous (Summer 2009). "In memoriam ... Charalambos D. (Roko) Aliprantis" (PDF). Math PUrview. West Lafayette, Indiana: Department of Mathematics, Purdue University: 13.
+Basile, Achille (2009). "Obituary: Memory of Charalambos D. Aliprantis". Decisions in Economics and Finance. A Journal of Applied Mathematics. 32 (1): 1–4. doi:10.1007/s10203-009-0088-5. MR 2496681.
+Cornet, Bernard; Prescott, Edward C.; Yannelis, Nicholas C. (2008). "Introduction of the special issue: Economic theory in honor of Charalambos D. Aliprantis". Journal of Mathematical Economics. 44 (7–8): 551–552. doi:10.1016/j.jmateco.2007.08.002. MR 2414885.
+
+
+=== Books by Aliprantis ===
+Abramovich, Yuri A.; Aliprantis, Charalambos D. (2002). An Invitation to Operator Theory. Graduate Studies in Mathematics. Vol. 50. American Mathematical Society. ISBN 978-0-8218-2146-6. MR 1921782.
+Aliprantis, Charalambos D.; Border, Kim C. (2006). Infinite dimensional analysis: A hitchhiker's guide (Third ed.). Berlin: Springer. pp. xxii+703 pp. ISBN 978-3-540-32696-0. MR 2378491.
+Aliprantis, Charalambos D.; Brown, Donald J.; Burkinshaw, Owen (1990). Existence and optimality of competitive equilibria. Berlin: Springer-Verlag. pp. xii+284. ISBN 978-3-540-52866-1. MR 1075992.
+Aliprantis, Charalambos D; Burkinshaw, Owen (1998). Principles of real analysis (Third ed.). Academic. pp. xii+415 pp. ISBN 978-0-12-050257-8. MR 1669668.
+Aliprantis, Charalambos D.; Burkinshaw, Owen (2003). Locally solid Riesz spaces with applications to economics (second ed.). Providence, R.I.: American Mathematical Society. ISBN 978-0-8218-3408-4. MR 2011364.
+Aliprantis, Charalambos D.; Burkinshaw, Owen (2006). Positive operators (Reprint of the 1985 Academic Press original ed.). Dordrecht: Springer. pp. xx+376 pp. ISBN 978-1-4020-5007-7. MR 2262133.
+Kalton, N. J. (1987). "Book Review: Positive operators". Bulletin of the American Mathematical Society. 17 (1): 168–169. doi:10.1090/S0273-0979-1987-15551-0. ISSN 0273-0979.
+Aliprantis, Charalambos D.; Tourky, Rabee (2007). Cones and duality. Graduate Studies in Mathematics. Vol. 84. Providence, RI: American Mathematical Society. pp. xiv+279 pp. ISBN 978-0-8218-4146-4. MR 2317344.
+
+
+== External links ==
+Author profile in the database zbMATH

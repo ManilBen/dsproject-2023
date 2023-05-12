@@ -1,0 +1,22 @@
+Dan Abramovich, born  (1963-03-12) March 12, 1963 in Haifa, is a mathematician working in the fields of algebraic geometry and arithmetic geometry.  As of 2019, he holds the title of L. Herbert Ballou University Professor at Brown University, and he is an Elected Fellow of the American Mathematical Society.
+
+
+== Career ==
+Abramovich received the bachelor's degree at Tel Aviv University in 1987 and completed the doctorate at Harvard University in 1991 under Joe Harris (Subvarieties of abelian varieties and of Jacobians of curves).  From 1991 to 1994 he was Moore Instructor at the Massachusetts Institute of Technology. Thereafter he held faculty positions at Boston University from 1994 to 1999 and since 2003 has been Professor at Brown University.Among other topics, he has dealt with birational geometry, the resolution of singularities, subvarieties of Abelian varieties, limits for the torsion of elliptic curves, rational and integer points on algebraic varieties and moduli spaces of vector bundles on curves. Together with Felipe Voloch, in 1992 he succeeded in making progress toward proving the Mordell-Lang Conjecture in characteristic p (the full proof came later from Ehud Hrushovski). He has been a guest scholar at, among other institutions, the Hebrew University of Jerusalem, the Max Planck Institute for Mathematics in Bonn, the Mathematical Sciences Research Institute (MSRI), the Pierre and Marie Curie University in Paris and at IHES. He was an invited speaker at ICM 2018 (Resolution of singularities of complex algebraic varieties and their families). From 1996 to 1998 he was a Sloan Fellow. He is a Fellow of the American Mathematical Society.
+
+
+== Publications ==
+Soulé, C.; Abramovich, D.; Burnol, J. F.; Kramer, J. K. (25 June 1992). Lectures on Arakelov Geometry. Cambridge University Press. doi:10.1017/cbo9780511623950. ISBN 978-0-521-41669-6.
+Abramovich, Dan; Karu, Kalle; Matsuki, Kenji; Włodarczyk, Jarosław (5 April 2002). "Torification and factorization of birational maps". Journal of the American Mathematical Society. American Mathematical Society (AMS). 15 (3): 531–572. doi:10.1090/s0894-0347-02-00396-x. ISSN 0894-0347.
+Abramovich, Dan; Matsuki, Kenji; Rashid, Suliman (1 January 1999). "A note on the factorization theorem of toric birational maps after Morelli and its toroidal extension". Tohoku Mathematical Journal. Mathematical Institute, Tohoku University. 51 (4). doi:10.2748/tmj/1178224717. ISSN 0040-8735.
+Abramovich, Dan; Oort, Frans (2000). "Alterations and Resolution of Singularities". Resolution of Singularities. Basel: Birkhäuser Basel. arXiv:math/9806100. doi:10.1007/978-3-0348-8399-3_3. ISBN 978-3-0348-9550-7. S2CID 15820921.
+Abramovich, D.; Karu, K. (2000). "Weak semistable reduction in characteristic 0". Inventiones Mathematicae. Springer Science and Business Media LLC. 139 (2): 241–273. Bibcode:2000InMat.139..241A. doi:10.1007/s002229900024. ISSN 0020-9910. S2CID 119145930.
+with Voloch: Toward a proof of the Mordell-Lang conjecture in positive characteristic, Intern. Math. Research Notices, Band 5, 1992, S. 103–115
+
+
+== References ==
+
+
+== External links ==
+Homepage
+Profile at Brown University

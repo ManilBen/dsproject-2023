@@ -1,0 +1,28 @@
+Arnon Avron (Hebrew: ארנון אברון; born 1952) is an Israeli mathematician and Professor at the School of Computer Science at Tel Aviv University. His research focuses on applications of mathematical logic to computer science and artificial intelligence.
+
+
+== Biography ==
+Born in Tel Aviv in 1952, Arnon Avron studied mathematics at Tel Aviv University and the Hebrew University of Jerusalem, receiving a Ph.D. magna cum laude from Tel Aviv University in 1985. Between 1986 and 1988, he was a visitor at the University of Edinburgh's Laboratory for Foundations of Computer Science, where he began his association with computer science.In 1988 he became a senior faculty member of the Department of Computer Science (later School of Computer Science) of Tel Aviv University, chairing the School in 1996–1998, and becoming a Full Professor in 1999.
+
+
+== Research ==
+Avron's research interests include proof theory, automated reasoning, non-classical logics, foundations of mathematics, and applications of mathematical logic in computer science and artificial intelligence. Arnon made a significant contribution to the theory of automated reasoning with his introduction of hypersequents, a generalization of the sequent calculus. Avron also introduced the use of bilattices to paraconsistent logic, and made contributions to predicative set theory and geometry.
+
+
+== Selected works ==
+
+
+=== Books ===
+Avron, Arnon (2001). Introduction to Discrete Mathematics (in Hebrew). Tel Aviv: Tel Aviv University Press.
+Avron, Arnon (1998). Gödel's Theorems and the Problem of the Foundations of Mathematics. Broadcast University Series (in Hebrew). Israel: Ministry of Defense Publications.
+
+
+=== Articles ===
+Avron, Arnon (1996). "The method of hypersequents in the proof theory of propositional non-classical logics" (PDF).  In Hodges, Wilfrid; Hyland, Martin; Steinhorn, Charles; Truss, John (eds.). Logic: From Foundations to Applications. New York: Clarendon Press. pp. 1–32. ISBN 978-0-19-853862-2.
+Avron, Arnon; Honsell, Furio; Mason, Ian A.; Pollack, Robert (1992). "Using typed lambda calculus to implement formal systems on a machine". Journal of Automated Reasoning. 9 (3): 309–354. doi:10.1007/BF00245294. S2CID 2528793.
+Avron, Arnon (1991). "Natural 3-valued logics—characterization and proof theory". The Journal of Symbolic Logic. 56 (1): 276–294. doi:10.2307/2274919. JSTOR 2274919. S2CID 15084999.
+Avron, Arnon (1991). "Hypersequents, logical consequence and intermediate logics for concurrency". Annals of Mathematics and Artificial Intelligence. 4 (3–4): 225–248. doi:10.1007/BF01531058. S2CID 9610134.
+Avron, Arnon (1988). "The semantics and proof theory of linear logic". Theoretical Computer Science. 57 (2–3): 161–184. CiteSeerX 10.1.1.29.9. doi:10.1016/0304-3975(88)90037-0.
+
+
+== References ==

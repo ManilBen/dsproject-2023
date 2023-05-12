@@ -1,0 +1,33 @@
+Léon César Autonne (28 July 1859, Odessa – 12 January 1916) was a French engineer and mathematician, specializing in algebraic geometry, differential equations, and linear algebra.
+
+
+== Education and career ==
+Autonne studied from 1878 to 1880 at l'École polytechnique and then at the École des ponts et chaussées and became there Ingénieur en chef. He received in 1882 from the Sorbonne his Ph.D. with dissertation Recherches sur les intégrales algébriques des équations differentielles à coefficients rationnels, with Charles Hermite as chair of the thesis committee. The dissertation was based on research initiated by Camille Jordan.
+An 1891 article by Autonne in the Comptes rendus de l'Académie des Sciences de Paris is one of the earliest uses of the concept of Lie groups (as groups of Monsieur Lie).Autonne won the Prix Dalmont in 1894. He was an invited speaker at the International Congress of Mathematicians in 1897, 1900, 1904 and 1908. On 6 January 1902 he was made Chevalier de la Légion d'honneur.
+The Autonne-Takagi factorization of complex symmetric matrices is named in his honour.
+
+
+== Selected publications ==
+Recherches sur les intégrales algébriques des équations differentielles à coefficients rationnels, Gauthier-Villars 1882
+Sur la théorie des équations différentielles du 1e ordre et du 1e degré, Gauthier-Villars 1891 (180 pages)
+Sur la representation des courbes gauches algebriques 1896 (37 pages)
+"Sur l'hermitien". Comptes rendus hebdomadaires des séances de l'Académie des sciences: 209–213. 1901.
+Sur les formes quaternaires à deux séries de variables: applications à la géométrie et au calcul intégral, Hayez, 1901
+Sur les formes mixtes, Annales de l'Université de Lyon, 1905
+Sur les groupes de matrices linéares non invertibles, Annales de l'Université de Lyon, 1909
+Sur les groupes commutatifs et pseudo-nuls de quantités hypercomplexes, Annales de l'Université de Lyon, 1912
+Notice sur les recherches mathématiques, Gauthier Villars 1913 (Autonne's CV and publication list, 35 pages)
+Sur les matrices hypohermitiennes et sur les matrices unitaires, Annales de l'Université de Lyon, 1915
+
+
+== Sources ==
+Henri Poincaré: La correspondance d'Henri Poincaré avec des mathématiciens de A à H, Cahiers du séminaire d'histoire des mathématiques, tome 7, 1986, p. 80 (letters from Autonne from 1881 to 1884 on the theme of the dissertation by Autonne, which were not published elsewhere; the answering letters from Poincaré are not reproduced in this source), numdam
+Necrology (in French), Revue générale des sciences, 1918, p. 33, available online [1].
+Michel Dürr: "AUTONNE Léon", in Dominique Saint-Pierre (dir.), Dictionnaire historique des académiciens de Lyon 1700-2016, Lyon : Éditions de l'Académie (4, avenue Adolphe Max, 69005 Lyon), 2017, p. 80-81.
+
+
+== References ==
+
+
+== External links ==
+BNF

@@ -1,0 +1,29 @@
+Luigi Amoroso (26 March 1886 – 28 October 1965) was an Italian neoclassical economist influenced by Vilfredo Pareto. He provided support for and influenced the economic policy during the fascist regime.
+
+
+== Work ==
+The microeconomical concept of the Amoroso–Robinson relation is named after him (and Joan Robinson): according to paper (Tusset 2000) he is one of the first economists to have studied the dynamical equilibrium theory by using an analogy between economic systems and classical mechanics, thus applying to theories of economical behaviour mathematical tools as the calculus of variation. In his young years he contributed to the theory of functions of several complex variables, giving for the first time a set of necessary and sufficient conditions for the solvability of the Dirichlet problem for holomorphic functions of several variables in the paper (Amoroso 1912). Also, in 1927 he provided to his former Normale schoolfellow Mauro Picone the funding for the creation of the Istituto Nazionale per le Applicazioni del Calcolo, now called Istituto per le Applicazioni del Calcolo "Mauro Picone" by means of a local bank.
+
+
+== Selected works ==
+
+
+=== Mathematics ===
+Amoroso, Luigi (1912), "Sopra un problema al contorno", Rendiconti del Circolo Matematico di Palermo (in Italian), 33 (1): 75–85, doi:10.1007/BF03015289, JFM 43.0453.03, S2CID 122956910. "On a boundary value problem" (English translation of title) is the first paper where a set of (fairly complicate) necessary and sufficient conditions for the solvability of the Dirichlet problem for holomorphic functions of several variables is given.
+
+
+== See also ==
+Amoroso–Robinson relation
+Vilfredo Pareto
+Mauro Picone
+Joan Robinson
+Several complex variables
+
+
+== Notes ==
+
+
+== References ==
+
+
+=== Biographical and general references ===

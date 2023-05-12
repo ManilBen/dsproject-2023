@@ -1,0 +1,27 @@
+Mina Aganagić is a mathematical physicist who works as a professor in the Center for Theoretical Physics, the Department of Mathematics, the Department of Physics at the University of California, Berkeley.
+
+
+== Career ==
+Aganagić was raised in Sarajevo, Bosnia and Herzegovina, Yugoslavia.
+She has a bachelor's degree and a doctorate from the California Institute of Technology, in 1995 and 1999 respectively; her PhD advisor was John Henry Schwarz.  She was a postdoctoral fellow at the Harvard University physics department
+from 1999 to 2003. She then joined the physics faculty at the University of Washington, where she became a Sloan Research Fellow and a DOE Outstanding Junior Investigator. She moved to UC Berkeley in 2004. In 2016 the Simons Foundation gave her a Simons Investigator Award and the same year American Physical Society had awarded her with its fellowship.
+
+
+== Research ==
+She is known for applying string theory to various problems in mathematics, including knot theory (refined Chern–Simons theory),[3] enumerative geometry,[2] mirror symmetry,[1][4] and the geometric Langlands correspondence.[5]
+
+
+== Selected publications ==
+Aganagić, Mina; Vafa, Cumrun (2000), Mirror symmetry, D-branes and counting holomorphic discs, arXiv:hep-th/0012041, Bibcode:2000hep.th...12041A
+Aganagić, Mina; Klemm, Albrecht; Mariño, Marcos; Vafa, Cumrun (2005), "The topological vertex", Communications in Mathematical Physics, 254 (2): 425–478, arXiv:hep-th/0305132, Bibcode:2005CMaPh.254..425A, doi:10.1007/s00220-004-1162-z, MR 2117633, S2CID 12221793
+Aganagić, Mina; Shakirov, Shamil (2011), Knot homology from refined Chern–Simons theory, arXiv:1105.5117, Bibcode:2011arXiv1105.5117A
+Aganagić, Mina; Vafa, Cumrun (2012), Large N duality, mirror symmetry, and a Q-deformed A-polynomial for knots, arXiv:1204.4709, Bibcode:2012arXiv1204.4709A
+Aganagić, Mina; Frenkel, Edward; Okounkov, Andrei (2017), Quantum q-Langlands Correspondence, arXiv:1701.03146, Bibcode:2017arXiv170103146A
+
+
+== References ==
+
+
+== External links ==
+Physics Department home page
+Math Department home page

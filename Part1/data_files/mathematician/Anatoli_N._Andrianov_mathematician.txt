@@ -1,0 +1,19 @@
+Anatoli (or Anatoly) Nikolaievich Andrianov (Анатолий Николаевич Андрианов, born 21 July 1936) is а Russian mathematician.
+Andrianov received in 1962 his Ph.D. under Yuri Linnik at the Leningrad State University with thesis Investigation of quadratic forms by methods of the theory of correspondences and in 1969 his Russian doctorate of sciences (Doctor Nauk). He is a professor at the Steklov Institute in Saint Petersburg.
+His research deals with the multiplicative arithmetic of quadratic forms, zeta functions of automorphic forms, modular forms in several variables (such as  Siegel modular forms, Hecke operators, spherical functions, and theta functions).
+Andrianov was an Invited Speaker at the ICM in 1970 in Nice with talk On the zeta function of the general linear group and in 1983 in Warsaw with talk Integral representation of quadratic forms by quadratic forms: multiplicative properties. He held visiting positions at several academic institutions, including the Max Planck Institute for Mathematics in Bonn, at the Institut Fourier in Grenoble and at the Institute for Advanced Study (1974).
+
+
+== Selected publications ==
+Quadratic forms and Hecke operators. Grundlehren der mathematischen Wissenschaften. Vol. 286. Springer Verlag. 1987. ISBN 0-387-15294-6; xii+374 pages{{cite book}}:  CS1 maint: postscript (link)
+with V. G. Zhuravlev: Modular forms and Hecke Operators. Translations of Mathematical Monographs. Vol. 145. American Mathematical Society. 1995. ISBN 9780821802779. (translated by Neal Koblitz from Russian original, published Nauka, Moscow 1990)
+Introduction to Siegel modular forms and Dirichlet series. New York: Springer. 2009. ISBN 978-038-778752-7.
+
+
+== References ==
+
+
+== External links ==
+Andrianov's homepage
+Andrianov's publication list, mathnet.ru
+Author profile in the database zbMATH

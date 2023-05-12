@@ -1,0 +1,34 @@
+Yves André (born December 11, 1959) is a French mathematician, specializing in arithmetic geometry.
+
+
+== Biography ==
+André received his doctorate in 1984 from Pierre and Marie Curie University (Paris VI) with thesis advisor Daniel Bertrand and thesis Structure de Hodge, équations différentielles p-adiques, et indépendance algébrique de périodes d'intégrales abéliennes. He became at CNRS in 1985 a Researcher, in 2000 a Research Director 2nd Class, and in 2009 a Research Director 1st Class (at École Normale Supérieure and Institut de mathématiques de Jussieu – Paris Rive Gauche).
+
+
+== Research ==
+In 1989, he formulated the one-dimensional-subvariety case of what is now known as the André-Oort conjecture on special subvarieties of Shimura varieties. Only partial results have been proven so far; by André himself and by Jonathan Pila in 2009. In 2016, André used Scholze's method of perfectoid spaces to prove Melvin Hochster's direct summand conjecture that any finite extension of a regular commutative ring splits as a module.
+
+
+== Awards ==
+In 2011, André received the Prix Paul Doistau–Émile Blutet of the Académie des Sciences. In 2015, he was elected as a Member of the Academia Europaea. He was an invited speaker at the 2018 International Congress of Mathematicians in Rio de Janeiro and gave a talk titled Perfectoid spaces and the homological conjectures.
+
+
+== Selected publications ==
+G-Functions and Geometry A Publication of the Max-Planck-Institut für Mathematik, Bonn. Wiesbaden. 1989. ISBN 978-3-663-14108-2. OCLC 860266118.
+André, Yves (18 October 2022). "Mumford-Tate groups of mixed Hodge structures and the theorem of the fixed part". Compositio Mathematica (in French). 82 (1): 1–24. ISSN 1570-5846. Retrieved 22 November 2022.
+Andre, Yves (1996). "On the Shafarevich and Tate conjectures for hyperkähler varieties". Mathematische Annalen. Springer Science and Business Media LLC. 305 (1): 205–248. doi:10.1007/bf01444219. ISSN 0025-5831.
+André, Yves; Baldassarri, F. (2001). De Rham cohomology of differential modules on algebraic varieties. Basel, Switzerland: Birkhäuser. ISBN 978-3-0348-8336-8. OCLC 679321692.
+Period mappings and differential equations. From C to Cp: Tohoku-Hokkaido Lectures in Arithmetic Geometry, Tokyo, Memoirs Mathematical Society of Japan 2003 (with appendix by F. Kato, N. Tsuzuki)
+"Une introduction aux motifs (Motifs purs, motifs mixtes, périodes)". Société Mathématique de France (in French). Retrieved 22 November 2022.
+André, Yves. "Galois theory, motives and transcendental numbers". Renormalization and Galois Theories. Zuerich, Switzerland: European Mathematical Society Publishing House. doi:10.4171/073-1/4.
+André, Yves (7 December 2017). "La conjecture du facteur direct". Publications mathématiques de l'IHÉS (in French). Springer Science and Business Media LLC. 127 (1): 71–93. arXiv:1609.00345. doi:10.1007/s10240-017-0097-9. ISSN 0073-8301.
+
+
+== References ==
+
+
+== External links ==
+"Yves André - Grothendieck et les équations différentielles". YouTube. 4 April 2016.
+"Yves André - Direct summand conjecture and perfectoid Abhyankar lemma: an overview". YouTube. 11 November 2016.
+"Yves André: What is... a motivic Galois group". YouTube. 18 January 2018.
+"Yves André: Periods of relative 1 motives". YouTube. 18 January 2018.

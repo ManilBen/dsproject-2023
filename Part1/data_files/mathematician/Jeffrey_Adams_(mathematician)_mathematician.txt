@@ -1,0 +1,12 @@
+Jeffrey David Adams (born 1956) is a mathematician at the University of Maryland who works on unitary representations of reductive Lie groups, and who led the project Atlas of Lie groups and representations that calculated the characters of the representations of E8. The project to calculate the representations of E8 has been compared to the Human Genome Project in scope. Together with Dan Barbasch and David Vogan, he co-authored a monograph on a geometric approach to the Langlands classification and Arthur's conjectures in the real case.
+He completed his PhD at Yale University under the supervision of Gregg Zuckerman in 1981.
+In 2012 he became a fellow of the American Mathematical Society.
+
+
+== References ==
+
+
+== External links ==
+Home page of Jeffrey Adams
+Jeffrey Adams at the Mathematics Genealogy Project
+Adams, Jeffrey; Barbasch, Dan; Vogan, David A., Jr. The Langlands classification and irreducible characters for real reductive groups. Progress in Mathematics, 104. Birkhäuser Boston, Inc., Boston, MA, 1992. xii+318 pp. ISBN 0-8176-3634-X, doi:10.1007/978-1-4612-0383-4

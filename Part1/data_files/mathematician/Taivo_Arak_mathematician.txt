@@ -1,0 +1,25 @@
+Taivo Arak (2 November 1946, Tallinn – 17 October 2007, Stockholm) was an Estonian mathematician, specializing in probability theory.
+
+
+== Biography ==
+In 1969 he graduated from Leningrad State University. There he received in 1972 his Russian candidate degree (Ph.D.) under I. A. Ibragimov.In 1983 Arak defended his dissertation for his Russian doctorate (higher doctoral degree similar to habilitation).
+From 1972 to 1981 he worked at the Tallinn University of Technology. From 1981 he worked at the Institute of Cybernetics of the Academy of Sciences of the Estonian SSR. In 1986 he was an Invited Speaker at the International Congress of Mathematicians in Berkeley, California.Most of his research dealt with the theory of probability.
+
+
+== Awards ==
+Markov Prize (1983) - for the series of papers "Равномерные предельные теоремы для сумм независимых случайных величин" (Uniform limit theorems for sums of independent random variables).
+
+
+== Selected publications ==
+with Andrei Yuryevich Zaitsev: Uniform limit theorems for sums of independent random variables. Proceedings of the Steklov Institute of Mathematics, Vol. 174. American Mathematical Soc. 1988. ISBN 9780821831182.
+with Donatas Surgailis: Arak, T.; Surgailis, D. (February 1989). "Markov fields with polygonal realizations". Probability Theory and Related Fields. 80 (4): 543–579. doi:10.1007/BF00318906. S2CID 120932428.
+with D. Surgailis: Grigelionis, Bronius (1990). "Markov random graphs and polygonal fields with Y-shaped nodes". In: Probability theory and mathematical statistics. Proc. 5th Vilnius conference, vol. 1. pp. 57–67. ISBN 9067641286.
+with Peter Clifford and D. Surgailis: Arak, T.; Clifford, P.; Surgailis, D. (1993). "Point-based polygonal models for random graphs". Advances in Applied Probability. 25 (2): 348–372. doi:10.2307/1427657. JSTOR 1427657. S2CID 120107892.
+
+
+== References ==
+
+
+== External links ==
+Арак Тайво Викторович, ras.ru
+Arak Taivo Viktorovich, list of publications. mathnet.ru

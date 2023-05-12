@@ -1,0 +1,22 @@
+Richard Alejandro Arratia is a mathematician noted for his work in combinatorics and probability theory.
+
+
+== Contributions ==
+Arratia developed the ideas of interlace polynomials with Béla Bollobás and Gregory Sorkin, found an equivalent formulation of the Stanley–Wilf conjecture as the convergence of a limit, and was the first to investigate the lengths of superpatterns of permutations.He has also written highly cited papers on the Chen–Stein method on distances between probability distributions, on random walks with exclusion, and on sequence alignment.He is a coauthor of the book Logarithmic Combinatorial Structures: A Probabilistic Approach.
+
+
+== Education and employment ==
+Arratia earned his Ph.D. in 1979 from the University of Wisconsin–Madison under the supervision of David Griffeath. He is currently a professor of mathematics at  the University of Southern California.
+
+
+== Selected publications ==
+Research papers
+Books
+
+
+== References ==
+
+
+== External links ==
+"Richard Arratia". Microsoft Academic Search.
+USC faculty page

@@ -1,0 +1,41 @@
+Sheldon Jay Axler (born November 6, 1949, Philadelphia) is an American mathematician and textbook author. He is a professor of mathematics and the Dean of the College of Science and Engineering at San Francisco State University.
+He graduated from Miami Palmetto Senior High School in Miami, Florida in 1967. He obtained his AB in mathematics with highest honors at Princeton University (1971) and his PhD in mathematics, under professor Donald Sarason, from the University of California, Berkeley, with the dissertation "Subalgebras of 
+  
+    
+      
+        
+          L
+          
+            ∞
+          
+        
+      
+    
+    {\displaystyle L^{\infty }}
+  " in 1975. As a postdoc, he was a C. L. E. Moore instructor at the Massachusetts Institute of Technology.
+He taught for many years and became a full professor at Michigan State University. In 1997, Axler moved to San Francisco State University, where he became the chair of the Mathematics Department.
+Axler received the Lester R. Ford Award for expository writing in 1996 from the Mathematical Association of America for a paper titled "Down with Determinants!" in which he shows how one can teach or learn linear algebra without the use of determinants. Axler later wrote a textbook, Linear Algebra Done Right (3rd ed. 2015), to the same effect.
+In 2012, he became a fellow of the American Mathematical Society. He was an Associate Editor of the American Mathematical Monthly and the Editor-in-Chief of the Mathematical Intelligencer.
+
+
+== Books ==
+Linear Algebra Done Right, third edition, Undergraduate Texts in Mathematics, Springer, 2015 (twelfth printing, 2009).
+(with John E. McCarthy, and Donald Sarason) editors. Holomorphic Spaces, Cambridge University Press 1998.
+(with Paul Bourdon, and Wade Ramey) Harmonic Function Theory, second edition, Graduate Texts in Mathematics, Springer, 2001.
+Harmonic Function Theory software, a Mathematica package for symbolic manipulation of harmonic functions, version 7.00, released 1 January 2009 (previous versions released in 1992, 1993, 1994, 1996, 1999, 2000, 2001, 2002, 2003, and 2008).
+Precalculus: A Prelude to Calculus, Wiley, 2009 (third printing, 2010).
+(with Peter Rosenthal and Donald Sarason) editors. A Glimpse at Hilbert Space Operators, Birkhäuser, 2010.
+College Algebra, John Wiley & Sons 2011.
+Algebra & Trigonometry, John Wiley & Sons, January 2011.
+Measure, Integration & Real Analysis (open access, updated 2020), Springer, November 2019.
+
+
+== References ==
+
+
+== External links ==
+Axler's Home Page
+Sheldon Axler at the Mathematics Genealogy Project
+College of Science & Engineering Newsletter from San Francisco State University.
+Senior Fellow Sheldon Axler from California Council on Science and Technology.
+Author profile in the database zbMATH

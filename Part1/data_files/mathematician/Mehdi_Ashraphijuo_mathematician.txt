@@ -1,0 +1,23 @@
+Mehdi Ashraphijuo (Medi Ash) is an Iranian-American mathematician, financial risk manager, academic and writer, residing in New York City. Ash is currently a vice president and executive director at Goldman Sachs and an adjunct assistant professor at Columbia University. He is a CFA and FRM charter-holder. In addition, he is a board member at business advisory board of School For Business at Metropolitan College of New York (MCNY).Ash completed a PhD in the area of information theory at Columbia University in the City of New York. He has authored journal and conference publications in various fields and received the Jury Award from Columbia University in recognition of his research. Since completion of his graduate studies, he has worked at Goldman Sachs investment banking company in the field of risk management. Concurrently, he has joined the Columbia University faculty team to teach graduate courses in convex optimization and digital signal processing. He has won numerous prestigious awards, among them he was awarded the Qualcomm Innovation Fellowship and was a finalist for the Bell Labs Prize.
+
+
+== Journal Publications ==
+Mehdi Ashraphijuo, Vaneet Aggarwal, Xiaodong Wang, “On the Capacity Region and the Generalized Degrees of Freedom Region for the MIMO Interference Channel with Feedback,” IEEE Transactions on Information Theory, vol. 59, no. 12, pp. 8357–8376, December 2013.
+Mehdi Ashraphijuo, Vaneet Aggarwal, Xiaodong Wang, “On the Capacity and Degrees of Freedom Regions of Two-User MIMO Interference Channels with Limited Receiver Cooperation,” IEEE Transactions on Information Theory, vol. 60, no. 7, pp. 4170–4196, July 2014.
+Mehdi Ashraphijuo, Vaneet Aggarwal, Xiaodong Wang, “On the Capacity Regions of Two-Way Diamond Channels,” IEEE Transactions on Information Theory, vol. 33, no. 12, pp. 6060–6090, November 2015.
+Mehdi Ashraphijuo, Vaneet Aggarwal, Xiaodong Wang, “On the Capacity of Energy Harvesting Communication Link,” IEEE Journal on Selected Areas in Communications, vol. 33, no. 12, pp. 2671–2686, December 2015.
+Mehdi Ashraphijuo, Ali Tajer, Chen Gong, Xiaodong Wang, “A Receiver-centric Approach to Interference Management: Fairness and Outage Optimization,” IEEE Transactions on Information Theory, vol. 62, no. 10, pp. 5619–5642, October 2016.
+Mehdi Ashraphijuo, Vaneet Aggarwal, Xiaodong Wang, “On the Symmetric K-user Interference Channels with Limited Feedback,” IEEE Transactions on Information Theory, vol. 62, no. 12, pp. 6969–6985, December 2016.
+Tao Li, Mehdi Ashraphijuo, Xiaodong Wang, Pingyi Fan, “Traffic Off-loading with Energy-Harvesting Small Cells and Coded Content Caching,” IEEE Transactions on Communications, vol. 65, no. 2, pp. 906–917, February 2017.
+Mehdi Ashraphijuo, Xiaodong Wang, Meixia Tao, “Multicast Beamforming Design in Multicell Networks with Successive Group Decoding,” IEEE Transactions on Transactions on Wireless Communications, vol. 16, no. 6, pp. 3492–3506, June 2017.
+Mehdi Ashraphijuo, Vaneet Aggarwal, Xiaodong Wang, “The DoF of Two-way Butterfly Networks,” IEEE Communications Letters, vol. 21, no. 10, pp. 2254–2257, October 2017.
+Mehdi Ashraphijuo, Vaneet Aggarwal, Xiaodong Wang, “On the DoF of Two-way 2x2x2 Relay Networks with or without Relay Caching,” IET Communications, vol. 11, no. 13, pp. 2089–2094, October 2017.
+Mehdi Ashraphijuo, Xiaodong Wang, “On the DoF of Two-way MIMO Butterfly Networks,” IEEE Transactions on Vehicular Technology, vol. 67, no. 7, pp. 6125–6133, July 2018.
+Mehdi Ashraphijuo, Morteza Ashraphijuo, Xiaodong Wang, “On the DoF of Two-Way 2x2x2 MIMO Relay Networks,” IEEE Transactions on Vehicular Technology, vol. 67, no. 11, pp. 10554–10563, November 2018.
+
+
+== References and Links ==
+
+
+== External links ==
+Publication list

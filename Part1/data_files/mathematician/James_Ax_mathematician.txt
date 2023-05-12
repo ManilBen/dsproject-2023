@@ -1,0 +1,39 @@
+James Burton Ax (10 January 1937 – 11 June 2006) was an American mathematician who made groundbreaking contributions in algebra and number theory using model theory. He shared, with Simon B. Kochen, the seventh Frank Nelson Cole Prize in Number Theory, which was awarded for a series of three joint papers on Diophantine problems.
+
+
+== Education and career ==
+James Ax graduated from Peter Stuyvesant High School in New York City and then the Brooklyn Polytechnic University. He earned his Ph.D. from the University of California, Berkeley in 1961 under the direction of Gerhard Hochschild, with a dissertation on The Intersection of Norm Groups. After a year at Stanford University, he joined the mathematics faculty at Cornell University. He spent the academic year 1965–1966 at Harvard University on a Guggenheim Fellowship. In 1969, he moved from Cornell to the mathematics department at Stony Brook University and remained on the faculty until 1977, when he retired from his academic career. In 1970 he was an Invited Speaker at the ICM in Nice with talk Transcendence and differential algebraic geometry. In the 1970s, he worked on the fundamentals of physics, including an axiomatization of space-time and the group theoretical properties of the axioms of quantum mechanics. 
+In the 1980s, he and Berkeley classmate Jim Simons founded a quantitative finance firm, Axcom Trading Advisors, which was later acquired by Renaissance Technologies and renamed the Medallion Fund. The latter fund was named after the Cole Prize won by James Ax and the Veblen Prize won by James Simons.
+In the early 1990s, Ax retired from his financial career and went to San Diego, California, where he studied further on the foundations of quantum mechanics and also attended, at the University of California, San Diego, courses on playwriting and screenwriting. (In 2005 he completed a thriller screenplay entitled Bots.)
+The Ax Library in the Department of Mathematics at the University of California, San Diego houses his mathematical books.
+
+
+== Personal ==
+Ax is the father of American cosmologist Brian Keating and Kevin B. Keating (b. 1967), who is the president of the Kevin and Masha Keating Family Foundation. After Ax and his first wife divorced, she remarried a man named Keating, and young Brian and his older brother Kevin took the stepfather's name. Brian Keating explained (in 2020) that he and his father were not close during his childhood; his father often joked that 'I don't really care about kids until they learn algebra.'
+
+
+== Selected publications ==
+Ax, James (1962). "The intersection of norm groups". Transactions of the American Mathematical Society. 105 (3): 462–474. doi:10.1090/s0002-9947-1962-0141651-2. MR 0141651.
+Ax, James (1965). "A field of cohomological dimension 1 which is not C1". Bulletin of the American Mathematical Society. 71 (5): 717–718. doi:10.1090/s0002-9904-1965-11354-4. MR 0199177.
+Ax, James (1965). "On the undecidability of power series fields". Proceedings of the American Mathematical Society. 16 (4): 846. doi:10.1090/s0002-9939-1965-0177890-2. MR 0177890.
+Ax, James (1965). "Proof of some conjectures on cohomological dimension". Proceedings of the American Mathematical Society. 16 (6): 1214–1221. doi:10.1090/s0002-9939-1965-0188263-0. MR 0188263.
+Ax, James (1965). "On the units of an algebraic number field". Illinois Journal of Mathematics. 9 (4): 584–589. doi:10.1215/ijm/1256059299. MR 0181630.
+Ax, James (1967). "Solving diophantine problems modulo every prime". Annals of Mathematics. Series 2. 85 (2): 161–183. doi:10.2307/1970438. JSTOR 1970438.
+Ax, James (1968). "The elementary theory of finite fields". Annals of Mathematics. Series 2. 88 (2): 239–271. doi:10.2307/1970573. JSTOR 1970573.
+Ax, James (1970). "Zeros of polynomials over local fields—The Galois action". Journal of Algebra. 15 (3): 417–428. doi:10.1016/0021-8693(70)90069-4.
+Ax, James (1971). "On Schanuel's conjectures". Annals of Mathematics. Series 2. 93 (2): 252–268. doi:10.2307/1970774. JSTOR 1970774.
+
+
+== See also ==
+Ax–Grothendieck theorem
+Ax–Kochen theorem
+Leopoldt's conjecture
+Schanuel's conjecture
+
+
+== References ==
+
+
+== External links ==
+James Ax at the Mathematics Genealogy Project
+James B. Ax Library  - at UCSD.

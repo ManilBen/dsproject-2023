@@ -1,0 +1,19 @@
+Nachman Aronszajn (26 July 1907 – 5 February 1980) was a Polish American mathematician. Aronszajn's main field of study was mathematical analysis, where he systematically developed the concept of reproducing kernel Hilbert space. He also contributed to mathematical logic.
+
+
+== Life ==
+An Ashkenazi Jew, Aronszajn received his Ph.D. from the University of Warsaw, in 1930, in Poland. Stefan Mazurkiewicz was his thesis advisor. He also received a Ph.D. from Paris University, in 1935; this time Maurice Fréchet was his thesis advisor. He joined the Oklahoma State University faculty, but moved to the University of Kansas in 1951 with his colleague Ainsley Diamond after Diamond, a Quaker, was fired for refusing to sign a newly instituted loyalty oath. Aronszajn retired in 1977. He was a Summerfield Distinguished Scholar from 1964 to his death.
+
+
+== Work ==
+He introduced, together with Prom Panitchpakdi, injective metric spaces under the name of "hyperconvex metric spaces". Together with Kennan T. Smith, Aronszajn offered proof of the Aronszajn–Smith theorem. Also, the existence of Aronszajn trees was proven by Aronszajn; Aronszajn lines, also named after him, are the lexicographic orderings of Aronszajn trees.
+He also made a contribution to the theory of reproducing kernel Hilbert space. The Moore–Aronszajn theorem is named after him.
+
+
+== References ==
+
+
+== External links ==
+Nachman Aronszajn on Scientific Commons.
+Guide to the Nachman Aronszajn Collection – personal papers of Nachman Aronszajn, 1951–1977
+Nachman Aronszajn at the Mathematics Genealogy Project

@@ -1,0 +1,51 @@
+Carl Barnett Allendoerfer (April 4, 1911 – September 29, 1974) was an American mathematician in the mid-twentieth century, known for his work in topology and mathematics education.
+
+
+== Background ==
+Allendoerfer was born in Kansas City, the son of a prominent banker.  He graduated from Haverford College in 1932 and attended New College, Oxford as a Rhodes Scholar, 1932-1934.  He received his Ph.D. in mathematics from Princeton University in 1937.
+
+
+== Research & Teaching ==
+Allendoerfer taught at Haverford College in the mid-1940s where he became known for work with André Weil on the Gauss–Bonnet theorem, an important theorem in differential geometry.  He continued his studies of differential geometry at the Institute for Advanced Study (1948-1949).
+In 1951, he became professor and later chair of the Mathematics Department at the University of Washington, where he is known for establishing the Summer Mathematics Institute for High School Teachers.  Allendoerfer was president of the Mathematical Association of America (1959–60) and editor of its monthly journal.  In 1966 he won a Lester R. Ford Award.  In 1972, he received the MAA's Award for Distinguished Service to Mathematics.  After his death, the MAA established the Carl B. Allendoerfer Award, which is given each year for "expository excellence published in Mathematics Magazine."
+Allendoerfer is also known as a proponent of the New Math movement in the 1950s and 1960s, which sought to improve American primary and secondary mathematics education by teaching abstract concepts like set theory early in the curriculum.  Allendoerfer was a member of Commission on Mathematics of the College Entrance Examination Board whose 1959 report Program for College Preparatory Mathematics outlined many concepts of the New Math. The commission and report were criticized by some for emphasizing pure mathematics in place of more traditional and practical considerations like arithmetic.
+Allendoerfer was the author, with Cletus Oakley (1899–1990), of several prominent mathematics textbooks used in the 1950s and 1960s.  He was also author of a series of math films.
+
+
+== Selected publications ==
+
+
+=== Articles ===
+Allendoerfer, C. B. (1937). "Einstein spaces of class one". Bulletin of the American Mathematical Society. 43 (4): 265–270. doi:10.1090/S0002-9904-1937-06533-5.
+Allendoerfer, Carl B. (1937). "The imbedding of Riemann spaces in the large". Duke Mathematical Journal. 3 (2): 317–333. doi:10.1215/S0012-7094-37-00324-7.
+Allendoerfer, Carl B.; Weil, André (1943). "The Gauss-Bonnet theorem for Riemannian polyhedra". Transactions of the American Mathematical Society. 53: 101–129. doi:10.1090/S0002-9947-1943-0007627-9. S2CID 55472545.
+Allendoerfer, C. B. (1948). "Global theorems in Riemannian geometry". Bulletin of the American Mathematical Society. 54 (3): 249–259. doi:10.1090/S0002-9904-1948-08965-0.
+Allendoerfer, Carl B. (1948). "Steiner's formulae on a general 𝑆ⁿ⁺¹". Bulletin of the American Mathematical Society. 54 (2): 128–135. doi:10.1090/S0002-9904-1948-08966-2.
+
+
+=== Books ===
+Allendoerfer, Carl B., & Oakley, Cletus O. (1955). Principles of Mathematics.  McGraw-Hill. (ISBN 0-07-001390-X)
+Allendoerfer, Carl B., & Oakley, Cletus O. (1959). Fundamentals of Freshman Mathematics. McGraw-Hill. (ISBN 0-07-001366-7)
+Allendoerfer, Carl B.  (1965). Mathematics for Parents.  MacMillan.
+Allendoerfer, Carl B., & Oakely, Cletus O. (1967). Fundamentals of College Algebra. McGraw-Hill.
+Allendoerfer, Carl B.  (1971). Principles of Arithmetic and Geometry for Elementary School Teachers.   MacMillan.
+Allendoerfer, Carl B. (1974). Calculus of Several Variables and Differentiable Manifolds. Macmillan. (ISBN 0-02-301840-2)
+Allendoerfer, Carl B., Oakley, Cletus O., & Kerr, Donald R. (1977). Elementary Functions. McGraw-Hill. (ISBN 0-07-001371-3)
+
+
+== Films ==
+Allendoerfer produced the following films for Ward's Natural Science in Rochester, New York:
+
+Cycloidal Curves or Tales from Wanklenberg Woods.
+The Gauss-Bonnet Theorem
+Geometric Concepts or How to Get Somewhere with Rigid Motion and Uniform Stretches
+Area and Pi or How to Measure What There Is
+Geometric Transformations
+Equivalent Sets
+
+
+== References ==
+
+
+== External links ==
+Mathematics Association of America Carl B. Allendoerfer Award

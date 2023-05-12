@@ -1,0 +1,20 @@
+Erdal Arıkan is a Turkish professor in Electrical and Electronics Engineering Department at Bilkent University, Ankara, Turkey. He is known for his implementation of polar coding.
+
+
+== Career ==
+
+
+=== Academic background ===
+Arıkan briefly served as a tenure-track assistant professor at the University of Illinois at Urbana-Champaign. He joined Bilkent University as a faculty member in 1987.In 2008 Arıkan improved the implementation of polar codes, a system of coding that provides a mathematical basis for the solution of Shannon's channel capacity problem. A three-session lecture on the matter given in January 2015 at Simons Institute's Information Theory Boot Camp at the University of California, Berkeley is available on YouTube. The lecture is also featured on the Simons Institute webpage, which includes the slides used by Arıkan in his presentation.Arıkan is an IEEE Fellow, and was chosen as an IEEE Distinguished Lecturer for 2014-2015.
+
+
+=== Awards ===
+In 2010, Arıkan received the IEEE Information Theory Society Paper Award and the Sedat Simavi Science Award for the solution of a problem related to the construction of coding schemes that send information at a rate better suited to the capacity of communication channels. Arıkan became the recipient for the Kadir Has Achievement Award in 2011 for the same accomplishment. He was named an IEEE fellow in 2012.In 2018, Arıkan was selected to receive the IEEE Richard W. Hamming Award "for contributions to information and communications theory, especially the discovery of polar codes and polarization techniques." The same year, it was announced that he would be honored with the 2019 Claude E. Shannon Award.
+Huawei presented Arıkan with a special award in July 2018, recognizing "his outstanding contribution to the development of communications technology."
+
+
+== References ==
+
+
+== External links ==
+Levy, Steven (16 November 2020). "Huawei, 5G, and the Man Who Conquered Noise". Wired. ISSN 1059-1028. Archived from the original on 6 December 2020. A Turkish scientist's obscure theoretical breakthrough helped the Chinese tech giant gain control of the future. US telecoms never had a chance.

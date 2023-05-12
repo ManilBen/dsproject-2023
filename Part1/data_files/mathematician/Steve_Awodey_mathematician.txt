@@ -1,0 +1,21 @@
+Steven M. Awodey (; born 1959) is an American mathematician and logician. He is a Professor of Philosophy and Mathematics at Carnegie Mellon University.
+
+
+== Biography ==
+Awodey studied mathematics and philosophy at the University of Marburg and the University of Chicago. He earned his Ph.D. from Chicago under Saunders Mac Lane in 1997. He is an active researcher in the areas of category theory and logic, and has also written on the philosophy of mathematics. He is one of the originators of the field of homotopy type theory. He was a member of the School of Mathematics at the Institute for Advanced Study in 2012–13.
+
+
+== Bibliography ==
+Gottfried Gabriel, ed. of the original German text, with introduction and annotations (2004).  Eric H. Reck; Steve Awodey (eds.). Frege's Lectures on Logic: Carnap's Student Notes, 1910-1914. Translated by Eric H. Reck; Steve Awodey. Chicago: Open Court; xiv+170 p.{{cite book}}:  CS1 maint: postscript (link) CS1 maint: uses authors parameter (link)
+Awodey, Steve (2010) [2006]. Category Theory (2nd ed.). Oxford & New York: Oxford University Press. ISBN 978-0-19-9237-18-0.
+
+
+== References ==
+
+
+== External links ==
+Connelly, James (November 2005 – February 2006). "Review of Frege's Lectures on Logic". The Bertrand Russell Society Quarterly. Archived from the original on 2010-06-14. Retrieved 2014-02-10.
+Birkedal, Lars (June 2007). "Review: STEVE AWODEY, Category Theory". Studia Logica. 86 (1): 133–135. doi:10.1007/s11225-007-9053-x. JSTOR 40210743. S2CID 29254475.
+"Natural Models of Type Theory - Steve Awodey". YouTube. Institute for Advanced Study. August 12, 2016.
+"Univalent Foundations Seminar - Steve Awodey". YouTube. Institute for Advanced Study. August 17, 2016.
+"Constructive Type Theory and Homotopy - Steve Awodey". YouTube. Institute for Advanced Study. August 30, 2016.

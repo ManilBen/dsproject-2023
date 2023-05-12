@@ -1,0 +1,103 @@
+Sergio Albeverio (born 17 January 1939) is a Swiss mathematician and mathematical physicist working in numerous fields of mathematics and its applications. In particular he is known for his work in probability theory, analysis (including infinite dimensional, non-standard, and stochastic analysis), mathematical physics, and in the areas algebra, geometry, number theory, as well as in applications, from natural to social-economic sciences.
+He initiated (with Raphael Høegh-Krohn) a systematic mathematical theory of Feynman path integrals and of infinite dimensional Dirichlet forms and associated stochastic processes (with applications particularly in quantum mechanics, statistical mechanics and quantum field theory). He also gave essential contributions to the development of areas such as p-adic functional and stochastic analysis as well as to the singular perturbation theory for differential operators. Other important contributions concern constructive quantum field theory and representation theory of infinite dimensional groups. He also initiated a new approach to the study of galaxy and planets formation inspired by stochastic mechanics.
+
+
+== Life and career ==
+Albeverio is the son of Olivetta Albeverio Brighenti (1910–1968, tailor and then housewife) and Luigi (Gino) Albeverio (1905–1968, plumber and then owner of a small company of heating and plumbing). He grew up in Lugano, Switzerland. He is married to Solvejg Albeverio Manzoni (painter and writer) since 1970. They have a daughter, Mielikki Albeverio (dipl. socialsc.).
+Study of mathematics and physics at the ETH Zürich with a Diploma Thesis (1962) under the direction of Markus Fierz and David Ruelle, and a PhD Thesis (1966) under the direction of Res Jost and Markus Fierz.
+Assistant at ETH Zürich (1962–67), visiting lecturer at Imperial College (1967–68, R. F. Streater). Invitation by Irving Segal as co-worker (MIT, 1968–69), replaced by a year stay as teacher at Liceo Cantonale, Lugano, due to family reasons.
+Research Fellowship at Princeton University (1970–72, A. S. Wightman). Visiting Professorships at University of Oslo (1973–77, R. Høegh-Krohn), University of Naples (1973–74, G. F. Dell'Antonio), University of Aix-Marseille II (1976–77, D. Kastler, R. Stora).
+Since 1977 permanent professorships in Germany:
+1977–79 University of Bielefeld
+1979–97 Titular of Chair for Probability and Mathematical Physics, Ruhr-University Bochum
+Since 1997: Titular of Chair for Probability and Mathematical Statistics, University of Bonn (Emeritus since 2008). Member of the Hausdorff Center for Mathematics since its foundation (2006).
+1997–2009: Professor and Director of Mathematics Section at Accademia di Architettura, USI, Mendrisio; 2011–2015 Chair Professorship in Mathematics, KFUPM, Dhahran.
+Longer research and invited professorship positions at many universities and research centers in Europe, China, Japan, Mexico, USSR/Russia, USA.
+
+
+== Research interests ==
+Albeverio's main research interests include probability theory (stochastic processes; stochastic analysis; SPDEs); analysis (functional and infinite dimensional, non-standard, p-adic); mathematical physics (classical and quantum, in particular hydrodynamics, statistical physics, quantum field theory, quantum information, astrophysics); geometry (differential, non-commutative); topology (configuration spaces, knot theory); operator algebras, spectral theory; dynamical systems, ergodic theory, fractals; number theory (analytic, p-adic); representation theory; algebra; information theory and statistics; applications of mathematics in biology, earth sciences, economics, engineering, physics, social sciences, models for urban systems; epistemology, philosophical and cultural issues.
+
+
+== Achievements ==
+S. Albeverio has served on many advisory boards, committees and associations, including:
+
+Committee of International Association of Mathematical Physics
+Advisory Board of the Doppler Institute, Prague
+Advisory Board of CFM, Lisbon
+Scientific Board of Mathematical Research Institute, Linnaeus University, Växjö
+Committee for Evaluation of Research (CIVR), Rome
+Panel member of ERC Synergy
+Nucleo di Valutazione (supervisory council) of Universitá di Roma III
+Jury member for Universitá di Roma I, La Sapienza
+Evaluation board of the Oberwolfach Mathematical Research Institute
+Scientific Director of the Research Center for Mathematics and Physics (CERFIM), Locarno, and MACS-Lab (USI, Mendrisio)
+Directory of the Institute for Scientific and Interdisciplinary Studies (ISSI), Locarno
+Scientific Committee at the Center for Interdisciplinary Research (ZiF), Bielefeld University
+Scientific Director at the Interdisciplinary Center for Complex Systems (IZKS), University of Bonn
+Esperto at Liceo Cantonale, Bellinzona
+Honorary Member of Società Matematica Svizzera Italiana (SMASI)
+Host of over 30 Alexander v. Humboldt Fellows; over 30 PhD students supervised
+Organizer of over 70 international conferences, symposia, and workshops
+
+
+== Awards and prizes ==
+1992: Max-Planck Award in mathematics (with Z. M. Ma and M. Röckner)
+1998: Nomination Professor per Chiara Fama, University of Rome II
+2000: Conference in Honor of S. Albeverio for his 60th birthday, Max Planck Institute for Mathematics in the Sciences, Leipzig, on Stochastic Processes, Physics and Geometry
+2002: Doctor honoris causa of the University of Oslo on the occasion of the bicentennial of the birth of Niels H. Abel
+2002: Long-term professorship per chiara fama, University of Trento
+2002: Chair of plenary session at the International Congress of Mathematicians (ICM), Beijing
+Since 2002: Listed in the ISI Highly Cited
+2003: Prize for Interdisciplinary Project, University of Bonn
+2015: Director (with A. B. Cruzeiro and D. Holm) of the Research Semester on Geometric Mechanics, Variational and Stochastic Methods at Centre Interfacultaire Bernoulli (CIB), EPFL
+Over 250 invited lectures at international conferences in Mathematics, Physics and applications, including:
+Plenary lectures at the International Congress of Mathematical Physics (ICMP): Rome 1977, Boulder 1983, Marseille 1986, Swansea 1988; organization of a session at Lisbon 2003
+1994: N. Wiener Memorial Symposium, East Lansing
+1995: S. Lefschetz Memorial Lecture, Mexico City
+2000: Lectures at Saint-Flour on the occasion of the 30th anniversary of the Saint-Flour Lectures in Probability
+2005: Plenary lecture for the conference on the occasion of K. Itô's 90th birthday, Oslo
+Plenary lectures at symposia/conferences in honor of: G. Da Prato (1996), G. F. Dell'Antonio (2003 and 2013), L. Gross (2010), E. Balslev (2010), F. Guerra (2013), H. Holden (2016), D. Holm (2017)
+
+
+== Selected publications ==
+Over 900 publications in scientific journals or volumes of proceedings.
+
+
+=== Monographs ===
+with Raphael Høegh-Krohn: Mathematical theory of Feynman Path Integrals, Lecture Notes in Mathematics, Band 523, Springer Verlag 1976, 2nd ed. (with Raphael Høegh-Krohn and Sonia Mazzucchi) 2008
+with Raphael Høegh-Krohn, Jens Erik Fenstad, Tom Lindstrøm: Nonstandard Methods in stochastic analysis and mathematical physics, Academic Press 1986, Dover 2009 Russian translation by A. K. Svonskin, M. A. Shubin, Moscow: Mir (1990)
+with Fritz Gesztesy, Raphael Høegh-Krohn, Helge Holden: Solvable Models in Quantum Mechanics, Springer 1988, 2nd ed., American Mathematical Society Chelsea Publishing, 2005 Russian translation by Yu. A. Kuperin, K. A. Makarov, V. A. Geilerk, Moscow: Mir (1990)
+with Raphael Høegh-Krohn, J. Marion, D. Testard, B. Torresani: Noncommutative distributions: unitary representations of gauge groups and algebras, Marcel Dekker 1993
+with Jürgen Jost, Sylvie Paycha, Sergio Scarlatti: A mathematical introduction to String Theory. Variational Problems, Geometric and Probabilistic Methods, Cambridge University Press 1997
+with Pavel Kurasov: Singular perturbations of differential operators. Solvable Schrödinger type operators, London Mathematical Society Lecturenotes, Cambridge University Press 2000
+with Franco Flandoli, Yakov G. Sinai, edited by Giuseppe Da Prato and Michael Röckner: SPDEs in hydrodynamics: recent progress and prospects. Lectures given at the C.I.M.E. Summer School held in Cetraro, 29 August –3 September 2005. Lecture notes in mathematics, 1942. Berlin: Springer, Florence: Fondazione C.I.M.E. 2008
+with Yuri Kondratiev, Yuri Kozitsky, Michael Röckner: The statistical mechanics of quantum lattice systems. A path integral approach. EMS Tracts in Mathematics 8, Zürich: European Mathematical Society 2009
+with R.-Z. Fan, F. S. Herzberg: Hyperfinite Dirichlet forms and stochastic processes, Berlin: Springer 2010
+with A. Khrennikov, V. Shelkovich: Theory of p-adic distributions: linear and nonlinear models, Cambridge University Press 2010
+with L. Gross and E. Nelson: Mathematical Physics at Saint-Flour, Berlin: Springer 2012. (Reprint of Saint-Flour Lecture in 2000, first published in S. Albeverio, W. Schachermayer, M. Talagrand: Lectures in Probability and Statistics. Lectures from the 30th Summer School in Probability Theory held in Saint-Flour, 2000. Berlin: Springer 2003)
+
+
+=== Edited books (selection) ===
+with M. Demuth, E. Schrohe, B.-W. Schulze: Parabolicity, Volterra calculus, and conical singularities. A volume of advances in partial differential equations. Operator Theory: Advances and Applications 138, Basel: Birkhäuser (2002)
+with M. Demuth, E. Schrohe, B.-W. Schulze: Nonlinear hyperbolic equations, spectral theory, and wavelet transformations. Operator Theory: Advances and Applications 145, Basel: Birkäuser (2003)
+with Z.-M. Ma, M. Röckner: Recent Developments in Stochastic Analysis and Related Topics. Proceedings of the first Sino-German conference on stochastic analysis, Beijing, China, 29 August – 3 September 2002, World Scientific (2004)
+with A. B. de Monvel, H. Ouerdiane: Proceedings of the International Conference on Stochastic Analysis and Applications. Hammamet, 22–27 October 2001. Dordrecht: Kluwer Academ. Publ. (2004)
+with F. De Martini and G. F. Dell'Antonio: Entanglement and decoherence: mathematics and physics of quantum information and computation. Oberwolfach Rep. 2 (1), pp. 185–255 (2005) (EMS Publ.)
+with V. Jentsch, H. Kantz: Extreme events in nature and society. Berlin: Springer (2006)
+with F. Minazzi: Foundations of Mathematics today. Note di Matematica, Storia, Cultura, PRISTEMStoria 14/15 (2006)
+with A. Vancheri, P. Giordano, D. Andrey: The Dynamics of the Complex Urban Systems: An interdisciplinary approach. Heidelberg: Springer (2007)
+with M. Marcolli, S. Paycha, J. Plazas: Traces in Geometry, Number Theory, and Quantum Fields. Wiesbaden: Vieweg (2008)
+with S.-M. Fei, A. Cabello, N.-H. Jing, D. Goswami: Quantum Information and Entanglement. Advances in Mathematical Physics 2010 (2010)
+with Ph. Blanchard: Direction of Time. Berlin: Springer (2016)
+
+
+== References ==
+
+
+== External links ==
+Homepage of Sergio Albeverio at Bonn University (includes a list of publications)
+Sergio Albeverio at the Hausdorff Center for Mathematics
+Sergio Albeverio at MathSciNet
+Sergio Albeverio at Mathematics Genealogy Project
+Sergio Albeverio at ResearchGate

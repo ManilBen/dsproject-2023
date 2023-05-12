@@ -1,0 +1,15 @@
+Sheshayya A. Choudum (born 1947) was a professor and a former chair of the department of mathematics at IIT Madras. He has often worked in chromatic numbers, degree sequences, graph enumeration, and bivariegated graphs.
+Choudum hails from Manvi, Raichur district, Karnataka. He completed a M.Sc., in Mathematics from Karnataka University, Dharwar and a Ph.D in 1975 from  IIT Madras. From there, he came to the Department of Mathematics University of Mumbai. Prior to joining the Computer Science Department at IIT Madras, he was with the Department of Mathematics of Madurai Kamaraj University. While at Madurai, he visited the University of Reading to work with Crispin Nash-Williams. Choudum has guided 10 Ph.D students in graph theory.
+
+
+== Books ==
+A First Course in Graph Theory by S.A. Choudum Macmillan, 1999 ISBN 0-333-92040-6
+Graph Theory, by S.A. Choudum, NPTEL (IITM), India, 2011.
+
+
+== References ==
+
+
+== External links ==
+S. A. Choudum at the Mathematics Genealogy Project
+Dr. Choudum's webpage at IIT Madras

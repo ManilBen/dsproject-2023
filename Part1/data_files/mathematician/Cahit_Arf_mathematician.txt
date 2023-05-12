@@ -1,0 +1,67 @@
+Cahit Arf (Turkish: [dʒahit aɾf]; 24 October 1910 – 26 December 1997) was a Turkish mathematician. He is known for the Arf invariant of a quadratic form in characteristic 2 (applied in knot theory  and surgery theory) in  topology, the Hasse–Arf theorem in ramification theory, Arf semigroups and Arf rings.
+
+
+== Biography ==
+Cahit Arf was born on 11 October 1910 in Selanik (Thessaloniki), which was then a part of the Ottoman Empire. His family migrated to Istanbul with the outbreak of the Balkan War in 1912. The family finally settled in İzmir where Cahit Arf received his primary education. Upon receiving a scholarship from the Turkish Ministry of Education he continued his education in Paris and graduated from École Normale Supérieure.
+Returning to Turkey, he taught mathematics at Galatasaray High School. In 1933 he joined the Mathematics Department of Istanbul University. In 1937 he went to Göttingen, where he received his PhD from the University of Göttingen and he worked with Helmut Hasse and Josue Cruz de Munoz. He returned to Istanbul University and worked there until his involvement with the foundation work of Scientific and Technological Research Council (TÜBİTAK) upon President Cemal Gürsel's appointment in 1962. After serving as the founding director of the council in 1963, he joined the Mathematics Department of Robert College in Istanbul. Arf spent the period of 1964–1966 working at the Institute for Advanced Study in Princeton, New Jersey. He later visited University of California, Berkeley for one year.
+Upon his final return to Turkey, he joined the Mathematics Department of the Middle East Technical University and continued his studies there until his retirement in 1980. Arf received numerous awards for his contributions to mathematics, among them are: İnönü Award in 1948, Scientific and Technological Research Council of Turkey (TÜBİTAK) Science Award in 1974, and Commandeur des Palmes Academiques (France) in 1994. Arf was a member of the Mainz Academy and the Turkish Academy of Sciences. He was the president of the Turkish Mathematical Society from 1985 until 1989. Arf died on December 26, 1997 in Bebek, Istanbul, at the age of 87. His collected works were published, in 1988, by the Turkish Mathematical Society.
+
+
+== Influence ==
+
+Arf's influence on science in general and mathematics in particular was profound. Although he had very few formal students, many of the mathematicians of Turkey, at some time of their careers, had fruitful discussions on their field of interest with him and had received support and encouragement.
+He facilitated the now-celebrated visit of Robert Langlands to Turkey (now famous for the Langlands program, among many other things); during which Langlands worked out some arduous calculations on the epsilon factors of Artin L-functions.
+Arf's portrait is depicted on the reverse of the Turkish 10 lira banknote issued in 2009.Middle East Technical University Department of Mathematics organizes a special lecture session called the Cahit Arf lecture each year in  memory of Arf.
+
+
+== Arf Lectures ==
+Since 2001 the Arf lectures in honor of Cahit Arf have been held annually at the Cahit Arf Auditorium in the Department of Mathematics of Middle East Technical University.  Each lecture is presented by a distinguished mathematician selected by the advisory board. Since 2006, the Arf Lecturers are invited to deliver their talks at  IMBM (Istanbul Center for Mathematical Sciences) too. 
+
+2022: Andrew Sutherland of the Massachusetts Institute of Technology
+2019: Geordie Williamson of The University of Sydney
+2018: Fernando Rodriguez Villegas of The Abdus Salam International Centre for Theoretical Physics
+2015: Vladimir Voevodsky of Institute for Advanced Study, Princeton
+2013/14: Persi Diaconis of Stanford University
+2012: David Nadler of Northwestern University and University of California, Berkeley
+2011: Jonathan Pila of University of Oxford
+2010: John W Morgan of Simons Center for Geometry and Physics at Stony Brook University
+2009: Ben Joseph Green of University of Cambridge
+2008: Günter Harder of Mathematisches Institut der Universitat Bonn and Max Planck Institute for Mathematics
+2007: Hendrik Lenstra of Universiteit Leiden Mathematisch Instituut
+2006: Jean-Pierre Serre of Collège de France
+2005: Peter Sarnak of Princeton University and the Institute for Advanced Study, Princeton
+2004: Robert Langlands of the Institute for Advanced Study, Princeton
+2003: David Mumford of Brown University Division of Applied Mathematics
+2002: Don Zagier of University of Utrecht / Collège de France
+2001: Gerhard Frey of University of Essen Institute for Experimental Mathematics
+
+
+== See also ==
+Hasse–Arf theorem
+Arf invariant
+Arf semigroup
+Arf ring
+
+
+== Notes ==
+
+
+== References ==
+Arf, Cahit (1990), The collected papers of Cahit Arf, Turkish Mathematical Society, archived from the original on 2009-05-01
+Ikeda, Masatoshi G. (1998), "Cahit Arf's contribution to algebraic number theory and related fields", Turkish Journal of Mathematics, 22 (1): 1–14, ISSN 1300-0098, MR 1631730, archived from the original on 2011-08-22
+Sertöz, Ali Sinan (16 January 2013), A scientific biography of Cahit Arf (1910-1997), arXiv:1301.3699, Bibcode:2013arXiv1301.3699S
+Terzioğlu, Tosun; Yılmaz, A. (2005), Anlamak tutkunu bir matematikçi: Cahit Arf, TÜBA
+
+
+== Further reading ==
+Roquette, Peter (2013), "Cahit Arf and his invariant", Contributions to the history of number theory in the 20th century, Heritage of European Mathematics, Zürich: European Mathematical Society, pp. 189–222, ISBN 978-3-03719-113-2, Zbl 1276.11001
+
+
+== External links ==
+
+Cahit Arf Lectures homepage
+Page and links on Cahit Arf
+A documentary on Cahit Arf
+O'Connor, John J.; Robertson, Edmund F., "Cahit Arf", MacTutor History of Mathematics archive, University of St Andrews
+Cahit Arf at the Mathematics Genealogy Project
+Author profile in the database zbMATH

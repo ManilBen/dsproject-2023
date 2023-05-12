@@ -1,0 +1,18 @@
+Giovanni Alberti (born March 21, 1965) is an Italian mathematician who is active in the fields of calculus of variations, real analysis and geometric measure theory.
+
+
+== Scientific activity ==
+Alberti has studied at Scuola Normale Superiore under the guide of Giuseppe Buttazzo and Ennio De Giorgi; he is professor of mathematics at the University of Pisa. Alberti is mostly known for two remarkable theorems he proved at the beginning of his career, that eventually found applications in various branches of modern mathematical analysis. The first is a very general Lusin type theorem for gradients asserting that every Borel vector field can be realized as the gradient of a continuously differentiable function outside a closed subset of a priori prescribed (small) measure. The second asserts the rank-one property of the distributional derivatives of functions with bounded variation, thereby verifying a conjecture of De Giorgi. This theorem has found several applications, as for instance in the Ambrosio's proof of an open problem posed by Di Perna and Lions concerning the well-posedness of the continuity equation involving BV vector fields. This result is nowadays commonly known as Alberti's rank-one theorem and its proof rests of a very delicate use of sophisticated tools from geometric measure theory; in particular, it makes use of the concept of tangent measure to another measure. Subsequently, Alberti has given contributions to the study of various aspects of Ginzburg-Landau vortices and of the continuity equation.
+
+
+== Recognition ==
+Alberti has been awarded the Caccioppoli prize in 2002 and has been an invited speaker at the fourth European Congress of Mathematics.
+
+
+== References ==
+
+
+== External links ==
+Website at the University of Pisa
+Site of Caccioppoli Prize Archived 2019-05-14 at the Wayback Machine
+Fourth European Congress of Mathematics

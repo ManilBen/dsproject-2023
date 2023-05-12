@@ -1,0 +1,24 @@
+Esther M. (Estie) Arkin is an Israeli–American mathematician and computer scientist whose research interests include operations research, computational geometry, combinatorial optimization, and the design and analysis of algorithms. She is a professor of applied mathematics and statistics at Stony Brook University. At Stony Brook, she also directs the undergraduate program in applied mathematics and statistics,
+and is an affiliated faculty member with the department of computer science.
+
+
+== Education and career ==
+Arkin graduated from Tel Aviv University in 1981. She earned a master's degree at Stanford University in 1983, and completed her Ph.D. at Stanford in 1986. Her doctoral dissertation, Complexity of Cycle and Path Problems in Graphs, was supervised by Christos Papadimitriou.
+After working as a visiting professor at Cornell University, she joined the Stony Brook faculty in 1991.
+
+
+== Selected publications ==
+Arkin, Esther M.; Silverberg, Ellen B. (September 1987), "Scheduling jobs with fixed start and end times", Discrete Applied Mathematics, 18 (1): 1–8, doi:10.1016/0166-218X(87)90037-0, MR 0905173
+Arkin, Esther; Joneja, Dev; Roundy, Robin (April 1989), "Computational complexity of uncapacitated multi-echelon production planning problems", Operations Research Letters, 8 (2): 61–66, doi:10.1016/0167-6377(89)90001-1
+Arkin, E. M.; Chew, L. P.; Huttenlocher, D. P.; Kedem, K.; Mitchell, J. S. B. (March 1991), "An efficiently computable metric for comparing polygonal shapes", IEEE Transactions on Pattern Analysis and Machine Intelligence, 13 (3): 209–216, doi:10.1109/34.75509, hdl:1813/8729, S2CID 8247618
+Arkin, Esther M.; Hassin, Refael (December 1994), "Approximation algorithms for the geometric covering salesman problem", Discrete Applied Mathematics, 55 (3): 197–218, doi:10.1016/0166-218X(94)90008-6, MR 1308878
+Arkin, Esther M.; Fekete, Sándor P.; Mitchell, Joseph S. B. (October 2000), "Approximation algorithms for lawn mowing and milling", Computational Geometry: Theory and Applications, 17 (1–2): 25–50, doi:10.1016/S0925-7721(00)00015-8, MR 1794471
+Arkin, Esther M.; Bender, Michael A.; Demaine, Erik D.; Fekete, Sándor P.; Mitchell, Joseph S. B.; Sethia, Saurabh (January 2005), "Optimal covering tours with turn costs", SIAM Journal on Computing, 35 (3): 531–566, arXiv:cs/0309014, doi:10.1137/S0097539703434267, MR 2201447, S2CID 1174606
+
+
+== References ==
+
+
+== External links ==
+Home page
+Esther Arkin publications indexed by Google Scholar

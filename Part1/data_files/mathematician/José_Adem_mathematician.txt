@@ -1,0 +1,22 @@
+José Adem (27 October 1921 – 14 February 1991) was a Mexican mathematician who worked in algebraic topology, and proved the Adem relations between Steenrod squares.
+
+
+== Life and education ==
+Born José Adem Chahín in Tuxpan, Veracruz, (published his works as José Adem), Adem showed an interest in mathematics from an early age, and moved to Mexico City in 1941 to pursue a degree in engineering and mathematics. He obtained his B.S. in mathematics from the National Autonomous University of Mexico (UNAM) in 1949. During this time met Solomon Lefschetz, a famous algebraic topologist who was spending prolonged periods of time in Mexico. Lefschetz recognized Adem's mathematical talent, and sent him as a doctoral student to Princeton University where he graduated in 1952. His dissertation, Iterations of the squaring operations in algebraic topology, was written under the supervision of Norman Steenrod and introduced what are now called the Adem relations.His brother is geophysicist Julián Adem, who obtained a Ph.D. in applied mathematics from Brown University in 1953. Julián's son is topologist Alejandro Adem.
+
+
+== Career ==
+Adem became a researcher at the Mathematics Institute of UNAM (1954–1961), and then head of the Mathematics Department at the  Instituto Politécnico Nacional (1961–1973).
+He was elected to El Colegio Nacional on 4 April 1960.In 1951 he was awarded a Guggenheim Fellowship.  In 1956, Adem started the second series of the Boletín de la Sociedad Matemática Mexicana.
+
+
+== Publications ==
+Adem, José (1952). "The iteration of the Steenrod squares in algebraic topology". Proceedings of the National Academy of Sciences of the United States of America. 38 (8): 720–726. Bibcode:1952PNAS...38..720A. doi:10.1073/pnas.38.8.720. MR 0050278. PMC 1063640. PMID 16589167.
+Adem, José (1953). "Relations on iterated reduced powers". Proceedings of the National Academy of Sciences of the United States of America. 39 (7): 636–638. Bibcode:1953PNAS...39..636A. doi:10.1073/pnas.39.7.636. MR 0056293. PMC 1063836. PMID 16589316.
+
+
+== References ==
+
+
+== External links ==
+Gitler, Samuel, ed. (1982). Symposium on Algebraic Topology in honor of José Adem. Papers from the Symposium held in Oaxtepec, August 10–17, 1981. Contemporary Mathematics. Vol. 12. Providence, R.I.: American Mathematical Society. ISBN 0-8218-5010-5. MR 0676309.

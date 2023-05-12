@@ -1,0 +1,6 @@
+Kazuhiko Aomoto is a Japanese mathematician who introduced the Aomoto-Gel'fand hypergeometric function and the Aomoto integral.
+He was a professor at Nagoya University. In 1996 he received the Mathematical Society of Japan autumn prize for his research on complex integration.
+
+
+== References ==
+Kita, Michitake; Aomoto, Kazuhiko (2011), Theory of hypergeometric functions, Springer Monographs in Mathematics, Berlin, New York: Springer-Verlag, ISBN 978-4-431-53912-4, MR 2799182

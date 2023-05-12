@@ -1,0 +1,22 @@
+Dorit Aharonov (Hebrew: דורית אהרונוב; born 1970) is an Israeli computer scientist specializing in quantum computing.
+Aharonov graduated from Weizmann Institute of Science with an MSc in Physics. She received her doctorate for Computer Science in 1999 from the Hebrew University of Jerusalem, and her thesis was entitled Noisy Quantum Computation. She also did her post-doctorate in the mathematics department of Princeton University and in the computer science department of University of California Berkeley. She was a visiting scholar at the Institute for Advanced Study in 1998–99.Aharonov was an invited speaker in International Congress of Mathematicians 2010, Hyderabad on the topic of "Mathematical Aspects of Computer Science".
+
+
+== Research ==
+Aharonov's research is mainly about quantum information processes, which includes:
+quantum algorithms
+quantum cryptography and computational complexity
+quantum error corrections and fault tolerance
+connections between quantum computation and quantum Markov chains and lattices
+quantum Hamiltonian complexity and its connections to condensed matter physics
+transition from quantum to classical physics
+understanding entanglement by studying quantum complexity
+
+
+== References ==
+
+
+== External links ==
+Aharonov's home page at the Hebrew University of Jerusalem
+Profile in Nature
+Dorit Aharonov in panel discussion, "Harnessing Quantum Physics" with Michele Mosca, Avi Wigderson, Daniel Gottesman, Peter Shor, and Ignacio Cirac.

@@ -1,0 +1,40 @@
+Naum Ilyich Akhiezer (Ukrainian: Нау́м Іллі́ч Ахіє́зер; Russian: Нау́м Ильи́ч Ахие́зер; 6 March 1901 – 3 June 1980) was a Soviet and Ukrainian mathematician of Jewish origin, known for his works in approximation theory and the theory of differential and integral operators. He is also known as the author of classical books on various subjects in analysis, and for his work on the history of mathematics. He is the brother of the theoretical physicist Aleksandr Akhiezer.
+
+
+== Biography ==
+Naum Akhiezer was born in Cherykaw (now in Belarus). He studied in the Kiev Institute of Public Education (now Taras Shevchenko National University of Kyiv). In 1928, he defended his PhD thesis "Aerodynamical Investigations" under the supervision of Dmitry Grave. From 1928 to 1933, he worked at the Kyiv University and at the Kiev Aviation Institute.
+In 1933, Naum Akhiezer moved to Kharkiv. From 1933 to his death, except for the years of war and evacuation, he was a professor at Kharkov University and at other institutes in Kharkiv. From 1935 to 1940 and from 1947 to 1950 he was director of the Kharkov Institute of Mathematics and Mechanics. For many years he headed the Kharkov Mathematical Society.
+
+
+== Work ==
+Akhiezer obtained important results in approximation theory (in particular, on extremal problems, constructive function theory, and the problem of moments), where he masterly applied the methods of the geometric theory of functions of a complex variable (especially, conformal mappings and the theory of Riemann surfaces) and of functional analysis. He found the fundamental connection between the inverse problem for important classes of differential and finite difference operators of the second order with a finite number of gaps in the spectrum, and the Jacobi inversion problem for Abelian integrals. This connection led to explicit solutions of the inverse problem for the so-called finite-gap operators.
+
+
+== Some publications ==
+
+
+=== Books in analysis ===
+Ахиезер, Н.И. (2001). Избранные труды по теории функций и математической физике (vol. 1–2) [Selected works in function theory and mathematical physics]. Kharkiv: Acta.
+Ахиезер, Н.И. (1984). Лекции об интегральных преобразованиях. Kharkov: Vishcha Shkola. English translation: Akhiezer, N. I. (1988). Lectures on Integral Transforms. Providence, RI: American Mathematical Society. MR 0971981.
+Ахиезер, Н.И. (1981). Вариационное исчисление. Kharkov: Vishcha Shkola.. English translation: Akhiezer, N. I. (1988). The calculus of variations. Chur: Harwood Academic Publishers. ISBN 3-7186-4805-9. MR 0949441.
+Ахиезер, Н.И. (1977–1978). Теория линейных операторов в Гильбертовом пространстве (vol. 1–2) (3rd ed.). Kharkov: Vishcha Shkola.. English translation: Akhiezer, N.I.; Glazman, I.M. (1981). Theory of Linear Operators in Hilbert Space (vol. 1 – 2) (3rd ed.). Boston, Mass. – London: Pitman (Advanced Publishing Program). MR 0615736.
+Ахиезер, Н.И. (1970). Элементы теории эллиптических функций. Moscow: Nauka. English translation: Akhiezer, N. I. (1990). Elements of the theory of elliptic functions. Providence, RI: American Mathematical Society. ISBN 0-8218-4532-2. MR 1054205.
+Ахиезер, Н.И. (1961). Классическая проблема моментов и некоторые вопросы анализа, связанные с нею. Moscow: Gosudarstv. Izdat. Fiz.-Mat. Lit. English translation: Akhiezer, N. I. (1965). The Classical Moment Problem and Some Related Questions in Analysis. Oliver & Boyd.
+Ахиезер, Н.И. (1965). Лекции по теории аппроксимации (2nd ed.). Moscow: Nauka. English translation (of the 1st edition): Achiezer, N. I. (1956). Theory of approximation. Translated by Charles J. Hyman. New York: Frederick Ungar Publishing.
+Ахиезер, Н.И.; Крейн, М.Г. (1938). О некоторых вопросах теории моментов. Kharkov: GONTI. English translation: Akhiezer, N.I.; Krein, M.G. (1962). Some questions in the theory of moments. Providence, R.I.: American Mathematical Society. MR 0167806.
+
+
+=== History of mathematics ===
+Ахиезер, Н.И. (1955). Академик С. Н. Бернштейн и его работы по конструктивноĭ теории функций [Academician S. N. Bernstein and his work on the constructive theory of functions]. Kharkov: Izdat. Harʹkov. Gosudarstv. Univ. German translation: Akhiezer, N.I. (2000). "Das Akademiemitglied S.N.Bernstein und seine Arbeiten zur konstruktiven Funktionentheorie". Mitt. Math. Sem. Giessen. 240. MR 1755757.
+Ahiezer, N.I.; Petrovskiĭ, I.G. (1961). "The contribution of S. N. Bernšteĭn to the theory of partial differential equations". Uspekhi Mat. Nauk (in Russian). 16 (2 (98)): 5–20. MR 0130816.
+Ahiezer, N.I. (1978). "On the spectral theory of Lamé's equation". Istor.-Mat. Issled. (in Russian). 23: 77–86. MR 0517631.
+Akhiezer, N.I. (1998). "Function theory according to Chebyshev". Mathematics of the 19th century. Basel: Birkhäuser. pp. 1–81. MR 1634233.
+
+
+== References ==
+
+
+== External links ==
+Naum Akhiezer at the Mathematics Genealogy Project
+History of Approximation Theory (HAT) page
+Author profile in the database zbMATH

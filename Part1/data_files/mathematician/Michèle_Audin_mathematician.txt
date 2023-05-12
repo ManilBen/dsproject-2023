@@ -1,0 +1,59 @@
+Michèle Audin (Algiers, 3 January, 1954) is a French mathematician, writer, and a former professor. She has worked as a professor at the University of Geneva, the University of Paris-Saclay and most recently at the University of Strasbourg, where she performed research notably in the area of symplectic geometry.
+
+
+== Biography ==
+Michéle Audin is the daughter of mathematician Maurice Audin and mathematics teacher Josette Audin, both pied-noirs and political activists. While she was a child, her father died under torture in June 1957 in Algeria, after being arrested by General Jacques Massu's paratroopers.She studied at École normale supérieure de jeunes filles within the École Normale Supérieure and then she earned a Ph.D. degree in 1986 from the University of Paris-Saclay, with a thesis written under the supervision of François Latour, entitled Cobordismes d'immersions lagrangiennes et legendriens [Cobordisms of Lagrangian and Legendrian immersions].She then became a professor at the Institut de recherche mathématique avancée (IRMA) of the Université de Strasbourg from 1987 until her early retirement in 2014. She was president of the association Femmes et mathématiques in 1990 and 1991.In 2009 she refused to receive the Legion of Honour, on the grounds that the President of France, Nicolas Sarkozy, had refused to respond to a letter written by her mother regarding the disappearance of her father. Finally in September 2018, French president Emmanuel Macron admitted that Maurice Audin was tortured to death and apologized on behalf of France.In 2013 she was awarded the Prix Ève Delacroix for her novel Une vie brève.
+
+
+== Research ==
+Michèle Audin's research work mainly belongs to the field of symplectic geometry. Her PhD thesis draws on René Thom's theory of cobordism to contribute to the founding program of symplectic topology launched by the Russian mathematician Vladimir Arnold. Audin then oriented her research to dynamical aspects, and more specifically to Hamiltonian systems.
+In her monograph "Spinning tops: A Course on Integrable Systems", Audin discusses in detail the question of whether a dynamical system is integrable, a central question of her later research. A particularly enlightening example comes from her article "Sur la réduction symplectique appliquée à la non-intégrabilité du problème du satellite".
+Audin's work on Kovalevskaya top led her to write another book, both mathematical, historical and more personal on this mathematician: "Souvenirs sur Sofia Kovalevskaya". She also published the correspondence (1928-1991) of two members of the Bourbaki group, the mathematicians Henri Cartan and André Weil, she wrote the first biography of the mathematician Jacques Feldbau, and she documented the genesis of the modern holomorphic dynamics, with detailed portraits of the main protagonists: Pierre Fatou, Gaston Julia and Paul Montel.
+She contributes regularly on historical subjects to the mathematics popularisation website Images des mathématiques.
+
+
+== As a writer ==
+Alongside her activity as a mathematician, Audin leads an intense literary activity on her own and, since 2009, within the Oulipo.
+
+
+=== History of the Paris Commune ===
+Passionate about the insurrection of the Paris Commune of 1871, Audin has written five books on this topic to document its history as well as its memory: two novels published by Gallimard, Comme une rivière bleue (2017) and Josée Meunier, 19 rue des Juifs (2021), as well as three historical books published by Libertalia. The first, Eugène Varlin, bookbinding worker 1839-1871 (2019), is an anthology of the various writings of Eugène Varlin, some of which have not been published since their original release. The second, C'est la nuit surtout que le combat devient furieux (2020), publishes the correspondence between Alix Payen, an unknown paramedic, and her Fourierist family, during the few months of the Parisian insurrection. The last, La Semaine sanglante: Mai 1871. Légendes et comptes (2021), proposes a new counting of the deaths of Bloody Week, going up to “certainly 15,000 dead”.
+
+
+=== Activity within the Oulipo ===
+Audin was guest of honor at a meeting of Oulipo on the initiative of Jacques Roubaud, following the publication of her book Souvenirs sur Sofia Kovalevskaya, which mixes in a discontinuous form anecdotes, precise mathematics, testimonials, excerpts of correspondence with commentary and even literary pastiches. There are references to the Oulipo in testimonial chapters entitled “Je me souviens” in reference to Georges Perec, or even in a pastiche of Cosmicomics by Italo Calvino.She became part of Oulipo in 2009, as the first member to be both a mathematician and a writer. Mathematics is for her both a source of inspiration for the constraints she invents and a recurring theme in her literary work. For example, in her novel La formule de Stokes, the heroine is a mathematical formula.She invented constraints of a geometric nature such as Pascal's or Désargues' constraint. Pascal's constraint was experienced in her online story Mai Quai Conti which evokes the history of the Académie des sciences during the Paris Commune: the relationships between the characters of the story are determined by the position of the points of a geometric figure illustrating Pascal's theorem.She also worked with Ian Monk on nonine, i.e. a variant of the sestina based on numbers which are not Queneau numbers, and therefore with which the system of permutation of the sestina does not work.Her first novel, Cent vingt et un jours, is based on an onzine, i.e. a quenine of order 11 (variant of the sestina) from which characters, literary references and other elements of the narrative permute in a regulated manner. As in the poetic sestina, the last word of a chapter is the same as the first word of the next chapter.
+
+
+== Publications ==
+
+
+=== Literature ===
+(in French) La formule de Stokes, roman, Cassini, 2016.
+(in French) Mademoiselle Haas, Gallimard, 2016.
+(in French) Cent vingt et un jours, Gallimard, 2014. Translated into English by Christiana Hills as One Hundred Twenty-One Days, Deep Vellum, 2016.
+(in French) Une vie brève, Gallimard, 2013.
+
+
+=== History of Mathematics ===
+(in French) Correspondance entre Henri Cartan et André Weil (1928-1991), Documents Mathématiques 6, Société Mathématique de France, 2011.
+(in French) Une histoire de Jacques Feldbau, Société mathématique de France, collection T, 2010.
+(in French) Fatou, Julia, Montel, le Grand Prix des sciences mathématiques de 1918, et après, Springer, 2009
+(in French) Souvenirs sur Sofia Kovalevskaya, Calvage et Mounet, 2008.
+
+
+=== Mathematics ===
+(in French) Géométrie, EDP-Sciences, 2005.
+Hamiltonian systems and their integrability, Translated from the 2001 French original by Anna Pierrehumbert. Translation edited by Donald Babbitt. SMF/AMS Texts and Monographs, vol. 15. American Mathematical Society, Providence, RI; Société mathématique de France, Paris, 2008. ISBN 978-0-8218-4413-7, MR2440371
+The topology of torus actions on symplectic manifolds, Progress in Mathematics, vol. 93, Birkhäuser Verlag, Basel, 1991. ISBN 3-7643-2602-6, MR1106194
+
+
+== References ==
+
+
+== External links ==
+Page about Michèle Audin on the Website of l'IRMA Archived 2017-10-07 at the Wayback Machine
+Page about Michèle Audin on the official Website of l'Oulipo
+Michèle Audin, Publier sous l’Occupation. Autour du cas de Jacques Feldbau et de l’académie des sciences Archived 2011-09-28 at the Wayback Machine
+Michèle Audin, La vérité sur la Poldévie Archived 2014-01-03 at the Wayback Machine
+Michèle Audin, Carrés imparfaits Archived 2011-09-28 at the Wayback Machine
+All articles written by Michèle Audin are in Images des Mathématiques
