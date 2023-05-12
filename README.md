@@ -1,28 +1,53 @@
-# dsproject-2023
+# Project Name
+> Outline a brief description of your project.
 
-Part 1 : 
-Data Collection (Mayank + Samir)
-Samir & Mayank : scrape data from wikipedia (4 days - 13 / 04)
-External website scraping ( till 15/04 ) (if time permits)
-Data Analysis (Manil):
- from 13 / 04 to  16 / 04
-Classification (Juba) : 
-from 16 / 04 to 22 / 04
+## Table of Contents
+- [Project Name](#project-name)
+  - [Table of Contents](#table-of-contents)
+  - [Setup](#setup)
+  - [Usage](#usage)
+    - [Part 1:](#part-1)
+    - [Part2:](#part2)
+  - [Project structure](#project-structure)
+<!-- * [License](#license) -->
 
-Part 2: Compare NLTK and spacy
-Data collection (from 13 / 04 or anytime you are done with task 1 TO 18 / 04) - Samir
-Sentence segmentation - (start right after data collection and try to finish till 20/04/23) (Samir)
-Tokenization (Mayank) ( from 21 / 04 TO 26 / 04 ) 
-POS tagging (Manil + Juba) ( form 26 / 04 TO 03 / 05 )
 
-GUIDELINES : 
-Comment the code
-Use github
-Make your code modular by writing functions even if you use notebook
-Avoid putting full path (eg. “/home/manil/dsproject/data/example.txt”) use relative path instead (“./data/example.txt”) [ given you are in /home/manil/dsproject/ ]
+## Setup
 
-Example: /home/manil/data/text/
-if you are in /home/manil/data
-and you wanna access text
-you can just use relative path : ./text
-if you wanna go to /home/ you can use rel path: ../../
+Create a conda env :
+`conda create --name <env_name> python=3.7`
+Activate it 
+`conda activate <env_name>`
+Install dependencies :
+`pip install -r requirement.txt`
+
+Make sure you have java jre installed and javapath added to environment variables (needed for Stanford dependency parser):
+If you dont have it installed already, refer to : https://www.java.com/en/download/help/download_options_fr.html
+
+
+## Usage
+### Part 1:
+Notebooks should be run in this order :
+- data_collection.ipynb (can be omitted to avoid waiting for too long during scraping, output is in data_files directory )
+- data_analysis.ipynb
+- classification.ipynb
+
+### Part2:
+- part2.ipynb 
+
+## Project structure
+
+├── Part1
+│   ├── classification.ipynb
+│   ├── data_collection.ipynb
+│   ├── data_analysis.ipynb
+│   ├── clean_data.csv
+│   ├── data_files
+│   └── results
+├── Part2
+│   ├── part2.ipynb
+│   ├── data
+│   ├── segmentation_data.csv
+│   ├── stanford-corenlp-4.2.2-models-english.jar
+│   └── stanford-corenlp-4.2.2.zip
+└── README.md
