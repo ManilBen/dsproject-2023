@@ -1,5 +1,4 @@
 # Project Name
-> Outline a brief description of your project.
 
 ## Table of Contents
 - [Project Name](#project-name)
@@ -15,13 +14,19 @@
 ## Setup
 
 Create a conda env :
+
 `conda create --name <env_name> python=3.7`
-Activate it 
+
+Activate it :
+
 `conda activate <env_name>`
+
 Install dependencies :
+
 `pip install -r requirement.txt`
 
 Make sure you have java jre installed and javapath added to environment variables (needed for Stanford dependency parser):
+
 If you dont have it installed already, refer to : https://www.java.com/en/download/help/download_options_fr.html
 
 
@@ -37,6 +42,7 @@ Notebooks should be run in this order :
 
 ## Project structure
 
+```
 ├── Part1
 │   ├── classification.ipynb
 │   ├── data_collection.ipynb
@@ -51,3 +57,4 @@ Notebooks should be run in this order :
 │   ├── stanford-corenlp-4.2.2-models-english.jar
 │   └── stanford-corenlp-4.2.2.zip
 └── README.md
+```
