@@ -23,7 +23,7 @@ Activate it :
 
 Install dependencies :
 
-`pip install -r requirement.txt`
+`pip install -r requirements.txt`
 
 Make sure you have java jre installed and javapath added to environment variables (needed for Stanford dependency parser):
 
