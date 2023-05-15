@@ -29,6 +29,12 @@ Make sure you have java jre installed and javapath added to environment variable
 
 If you dont have it installed already, refer to : https://www.java.com/en/download/help/download_options_fr.html
 
+Also, if you are running this code in windows, please download these two files :
+- https://nlp.stanford.edu/software/stanford-corenlp-4.2.2.zip
+- https://nlp.stanford.edu/software/stanford-corenlp-4.2.2-models-english.jar
+- Copy them inside Part2/ and unzip stanford-corenlp-4.2.2.zip
+
+If you are using linux the downloading and unziping is included in the notebook
 
 ## Usage
 ### Part 1:
